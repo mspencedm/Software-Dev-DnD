@@ -9,6 +9,7 @@
 ## Personality
 
 Elara is a resilient and resourceful elven ranger with a complex and multifaceted personality shaped by her past experiences and the trials she's endured. Here's a summary description of her character:
+
 - Determined: Elara's defining trait is her unwavering determination. Her quest to find her missing husband, Lorandor, has given her the inner strength to endure the most daunting challenges. She approaches every obstacle with a resolute spirit, undeterred by adversity.
   
 - Cautious: Having witnessed the destructive consequences of recklessness during the Fall of the Golden Age, Elara has become inherently cautious. She weighs her decisions carefully and tends to be risk-averse, preferring to avoid actions that might jeopardize the world's delicate balance.

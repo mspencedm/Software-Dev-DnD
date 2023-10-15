@@ -3,6 +3,7 @@
 - [Eldertop](#eldertop)
   - [Summary](#summary)
     - [Key Features](#key-features)
+  - [Political](#political)
   - [Locations](#locations)
     - [The Sylvan Haven](#the-sylvan-haven)
       - [Summary](#summary-1)
@@ -17,6 +18,8 @@
       - [Feywild Bridge](#feywild-bridge)
     - [Notable People](#notable-people)
       - [Elara](#elara)
+      - [Lirael Nightbloom](#lirael-nightbloom)
+      - [Council of Verdant Wisdom](#council-of-verdant-wisdom)
 
 
 ## Summary
@@ -48,6 +51,28 @@ Eldertop is a breathtaking and enchanting city nestled within the ancient and my
 - Historical Secrets: The city holds secrets of a bygone era when the Archaneknights sought to explore the cosmos, but their ambitions led to a cataclysmic event known as the Fall of the Golden Age.
 
 Eldertop's ethereal beauty, rich history, and vibrant marketplace make it a unique and enchanting place within the world of Arventia, where nature, magic, and culture come together in harmony.
+
+
+## Political
+
+The political structure of Eldertop is a reflection of its unique status as a fey-touched city within the mystical forest of Arventia. Eldertop places a strong emphasis on cooperation, nature, and harmony, with a blend of traditional elven governance and a governing council made up of different representatives from the city's diverse community. Eldertop's political structure reflects a commitment to preserving its unique environment and the harmonious coexistence of its diverse population. Its leadership works to ensure that the city's traditions, values, and connection to the mystical forest remain intact, all while participating in the broader political landscape of Arventia.
+
+Key Political Aspects of Eldertop:
+
+- [Council of Verdant Wisdom](#council-of-verdant-wisdom): The highest authority in Eldertop is the Council of Verdan Wisdom, a governing body composed of representatives from various aspects of the city's life. This council includes members from the elven nobility, druids, rangers, spellcasters, and prominent artisans. The council meets to make important decisions about the city, its policies, and its relation to the Feywild.
+
+- [Guardian of Eldertop Lirael Nightbloom](#lirael-nightbloom): The Guardian of Eldertop is a revered and central figure in the city's political structure. The Guardian is responsible for the city's protection and preservation, both in the Material Plane and the Feywild. They are often chosen for their commitment to Eldertop's well-being and their deep connection to the mystical forest.
+
+- Eldertop's Fey Population: The fey, such as pixies and dryads, play a vital role in the city's political structure. They are not only part of the population but also have representatives on the Council of Sages. Eldertop's unique connection to the Feywild ensures that fey interests are recognized and protected.
+
+- Natural Harmony: Eldertop's political philosophy emphasizes the harmonious coexistence of the city's residents and the natural world. This means that policies are aimed at protecting the enchanted forest, ensuring responsible use of its resources, and maintaining the delicate balance between the Material Plane and the Feywild.
+
+- Trade and Diplomacy: Eldertop engages in diplomacy and trade with neighboring settlements and cities in Arventia. The city is known for its unique wares, including enchanted goods and rare forest resources. These exchanges support peaceful relations with neighboring communities.
+
+- Protection of Knowledge: Eldertop places great value on the preservation of knowledge, including the lore of the forest, magical teachings, and the city's history. The Council of Sages works to ensure that these resources are shared, studied, and safeguarded.
+
+- Non-Interference with the Feywild: The council has strict policies against recklessly crossing into the Feywild, in light of the past cataclysm. Eldertop takes great care in maintaining a respectful and balanced relationship with the Feywild, avoiding actions that might disrupt the delicate boundary between the realms.
+
 
 
 ## Locations
@@ -186,7 +211,14 @@ At the heart of Faerystead Crossing is the mystical bridge that connects the Mat
 
 Elara is an elven ranger and the Guardian of Eldertop, a mystical city nestled within the enchanting forest of Arventia. She embodies determination and resilience, shaped by her relentless quest to find her missing husband, Lorandor. Elara's cautious nature stems from the tragic cataclysm of the Fall of the Golden Age, where she and Lorandor, once members of the Archaneknights, were separated. Her dedication to protecting Eldertop, despite her complicated history with the Archaneknights, has made her a respected figure in the city. Underneath her resolute exterior, Elara harbors complex emotions, driven by her desire to unravel the mystery of her husband's disappearance.
 
+#### Lirael Nightbloom
 
+[View Character Sheet](https://github.com/mspencedm/Arventia/blob/main/NPCs/Lirael-Nightbloom.md)
 
+Lirael Nightbloom is the Guardian of Eldertop, a revered and trusted protector of the mystical city within the heart of the enchanted forest. As Guardian, Lirael embodies the values of the city and its commitment to the harmony between the Material Plane and the Feywild. Lirael stands as a symbol of Eldertop's enduring connection to the mystical forest and its commitment to living in harmony with both the Material Plane and the Feywild. Her guidance and protection ensure that the city remains a haven of enchantment and serenity, where nature, magic, and culture come together in perfect balance.
 
+#### Council of Verdant Wisdom
 
+[View Character Sheet](https://github.com/mspencedm/Arventia/blob/main/NPCs/Council-Of-Verdant-Wisdom.md)
+
+The Council of Verdant Wisdom is the governing body of Eldertop, responsible for making important decisions regarding the city's policies, relations with neighboring communities, and the delicate balance between the Material Plane and the Feywild. Comprised of wise and experienced individuals from various walks of life, the council's mission is to ensure that Eldertop thrives while preserving its unique connection to the mystical forest. The Council of Verdant Wisdom ensures that Eldertop remains a harmonious and vibrant city, embracing the enchanting qualities of both the natural world and the fey-touched realm. Through wisdom and cooperation, the council upholds the values of the city while navigating the complex political and magical landscape of Arventia.

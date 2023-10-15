@@ -182,7 +182,7 @@ At the heart of Faerystead Crossing is the mystical bridge that connects the Mat
 
 #### Elara
 
-[View Character Sheet](https://github.com/mspencedm/Arventia/NPCs/Elara.md)
+[View Character Sheet](https://github.com/mspencedm/Arventia/blob/main/NPCs/Elara.md)
 
 Elara is an elven ranger and the Guardian of Eldertop, a mystical city nestled within the enchanting forest of Arventia. She embodies determination and resilience, shaped by her relentless quest to find her missing husband, Lorandor. Elara's cautious nature stems from the tragic cataclysm of the Fall of the Golden Age, where she and Lorandor, once members of the Archaneknights, were separated. Her dedication to protecting Eldertop, despite her complicated history with the Archaneknights, has made her a respected figure in the city. Underneath her resolute exterior, Elara harbors complex emotions, driven by her desire to unravel the mystery of her husband's disappearance.
 

@@ -26,7 +26,7 @@ The Rise and Fall of Arventia's Technological Era with Arcaneknights:
 
 ## Cities
 
-- [Eldertop](https://github.com/mspencedm/Arventia/Locations/Eldertop.md)
+- [Eldertop](https://github.com/mspencedm/Arventia/blob/main/Locations/Eldertop.md)
 
 
 

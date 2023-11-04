@@ -1,0 +1,13 @@
+Evaluna Starwhisper was the whimsical scion of the revered House Starwhisper, an ancient family whose lineage could be traced back to the legendary times when elves and stars spoke as old friends. Her home was an ethereal manor nestled in the heart of the Evermeet isle, where moonlight danced upon marble columns and gardens teemed with mystical blooms.
+
+Despite her noble status, Evaluna always had an affinity for the natural world over the intricate lattices of court life. As a child, she could often be found chatting with garden flowers or napping in the embrace of ancient oak trees. Her laughter was the ripple of the stream, and her curiosity was as boundless as the sky itself.
+
+On her hundredth birthday, as is customary for the Starwhisper children, Evaluna was presented with a choice of heirlooms — jewels, armors, and weapons of old. Instead, her eyes fell upon a simple, unassuming circlet woven from vines and adorned with a single moonstone. The moment it rested upon her brow, a surge of connection with the pulse of the land washed over her.
+
+Evaluna's noble kin expected her to follow in their footsteps, to study the ancient laws and histories. However, the young elf felt the call of a different path — one that meandered through the wilds and sang with the voices of nature. She surprised everyone when she announced her intent to join the Circle of the Moon, a druidic enclave that revered the changeability of nature and the moon's mystic cycles.
+
+Her family watched, first in consternation and then with pride, as Evaluna grew into her role as a druid. Her antics became legend: the time she convinced a stubborn willow to dance, the day she turned a senator's hair green (accidentally, of course), and the occasion she transformed into a sparrow to outwit a pompous elven duke.
+
+Evaluna's days are now a blend of nobility and nature. She flits between the manor's opulent halls and the verdant wilds, often followed by a parade of woodland creatures she's befriended. Her powers have grown, too; she can call upon the elements, shape-shift into beasts, and even talk to the stars like her ancestors of old.
+
+As Evaluna Starwhisper continues her journey, she seeks to bridge her two worlds: to bring the elegance of the court to the wilds and the unfettered joy of nature to the rigid structures of elven nobility. Quirky, kind-hearted, and ever whimsical, she remains the darling druidic noble of Evermeet, a high elf whose story is just beginning to bloom.

@@ -6,8 +6,8 @@
     - [Summary](#summary-1)
     - [The Box](#the-box)
     - [Setting](#setting)
-    - [Plot](#plot)
-    - [Forest Goblin Encounter](#forest-goblin-encounter)
+    - [Plot - COMPLETE](#plot---complete)
+    - [Forest Goblin Encounter - COMPLETE](#forest-goblin-encounter---complete)
       - [Stats](#stats)
         - [Cultists](#cultists)
         - [Goblins](#goblins)
@@ -52,7 +52,7 @@ The Obscurans intended to use the Shard of Dissolution to disrupt the harmony of
 ### Setting
 The Sylvan Haven, a bustling tavern nestled within the heart of Eldertop, the City of Celestial Tears.
 
-### Plot
+### Plot - COMPLETE
 As the sun dips below the horizon and Eldertop's floating cityscape takes on an otherworldly glow, the Sylvan Haven comes to life. The tavern is known for being a sanctuary for scholars, adventurers, and those with a thirst for knowledge, but tonight, a sinister undercurrent lurks beneath its lively exterior.
 
 Scene 1: A Bustling Night at the Sylvan Haven
@@ -79,7 +79,7 @@ Scene 6: A Narrow Escape
 
 The chase leads Seraphina into the forest while the Obscurans are still in pursuit. 
 
-### Forest Goblin Encounter
+### Forest Goblin Encounter - COMPLETE
 
 On the chase, Seraphina is clutching the box. Goblins from the forest hidden in the trees appear and the cultists are behind her. She is surrounded. 
 

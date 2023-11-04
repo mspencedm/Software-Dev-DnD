@@ -7,6 +7,7 @@
     - [The Box](#the-box)
     - [Setting](#setting)
     - [Plot](#plot)
+    - [Forest Goblin Encounter](#forest-goblin-encounter)
   - [The Wildwood Sprite Ambush](#the-wildwood-sprite-ambush)
     - [Stats](#stats)
       - [Sprites](#sprites)
@@ -73,7 +74,12 @@ Seraphina dashes through the tavern, the box clutched tightly in her grasp. The 
 
 Scene 6: A Narrow Escape
 
-The chase leads Seraphina into the depths of the Sylvan Haven, where the tavern's foundations intertwine with the city's complex machinery. Desperate to escape, she uses her knowledge to navigate the labyrinthine passages. The Obscurans struggle to keep up.
+The chase leads Seraphina into the forest while the Obscurans are still in pursuit. 
+
+### Forest Goblin Encounter
+
+
+
 
 Scene 7: Hidden Truths
 

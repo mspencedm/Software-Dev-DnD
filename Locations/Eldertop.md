@@ -8,6 +8,12 @@
     - [The Sylvan Haven](#the-sylvan-haven)
       - [Summary](#summary-1)
       - [People](#people)
+      - [Menu](#menu)
+        - [Appetizers](#appetizers)
+        - [Main Courses](#main-courses)
+        - [Desserts:](#desserts)
+        - [Beverages:](#beverages)
+        - [Specialty Cocktails](#specialty-cocktails)
     - [Wildwood Marketplace](#wildwood-marketplace)
       - [Summary](#summary-2)
     - [The Verdant Archive](#the-verdant-archive)
@@ -153,6 +159,52 @@ As a bard, Elowen possesses exceptional musical and storytelling talents:
 Elowen Songweaver is not just a bard but a living embodiment of the enchantment that Eldertop represents. Her performances in The Sylvan Haven Tavern offer a window into the city's deep connection to the natural world, the fey, and the magic that surrounds it, making her a cherished figure in the city.
 
 </details>
+
+
+#### Menu
+
+The Sylvan Haven's menu offers a taste of the extraordinary flavors and mystical ingredients found in the City of Celestial Tears, making it a perfect place to savor both the culinary delights and the enchanting ambiance of Arventia.
+
+##### Appetizers
+
+Sylvan Greens Salad: A fresh mix of wild greens, herbs, and foraged forest mushrooms, drizzled with a honey and herb vinaigrette.
+
+Eldertop Elixirs: A platter of miniature enchanted potions paired with crispy root vegetable chips, perfect for a magical snack.
+
+Arcane Ale Soup: A hearty broth made with a special blend of arcane ales, featuring chunks of tender roasted meats and root vegetables.
+
+##### Main Courses
+
+Enchanted Forest Stew: A savory stew filled with game meat, wild herbs, and enchanted vegetables. Served with artisan bread.
+
+Sylvan Truffle Risotto: Creamy risotto made with rare Sylvan truffles, garden herbs, and a hint of citrus zest.
+
+Celestial Salmon: Grilled salmon fillet infused with celestial seasonings, accompanied by a side of roasted root vegetables and celestial herb butter.
+
+##### Desserts:
+
+Astral Berry Tart: A delicate pastry shell filled with a medley of celestial berries and topped with a sprinkle of stardust sugar.
+
+Eldertop Eclair: A light and airy pastry filled with enchanting custard and glazed with a velvety dark chocolate.
+
+Starlight Sorbet: A refreshing sorbet made with ethereal fruit flavors, perfect for cleansing the palate after a satisfying meal.
+
+##### Beverages:
+
+Starfall Cider: A crisp and slightly effervescent apple cider infused with celestial fruits and herbs.
+
+Moonlit Mead: A sweet mead made from the nectar of local moonflowers, served in a goblet.
+
+Arcane Brews: A selection of brewed concoctions, featuring various flavors and magical infusions for those seeking a unique taste.
+
+##### Specialty Cocktails
+Eldertop Elixir: A shimmering blue concoction mixed with a blend of arcane spirits and garnished with a glowing twist of citrus peel.
+
+Cosmic Confusion: A layered cocktail of celestial liqueurs, each representing a different planet in the Arventian cosmos.
+
+Sylvan Serenity: A green elixir made with forest herbs and hints of wildflower honey, served in a charming, ivy-twined glass.
+
+Akron's Aegis: Named after the god of creation, this cocktail is a vibrant mix of sparkling celestial spirits, with a touch of honey and a twist of lemon. Served with a crystalline stirrer reminiscent of Akron's divine influence.
 
 
 ### Wildwood Marketplace

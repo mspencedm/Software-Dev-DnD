@@ -2,6 +2,11 @@
 
 - [Session 1](#session-1)
   - [Summary](#summary)
+  - [The Shadows of Dissent](#the-shadows-of-dissent)
+    - [Summary](#summary-1)
+    - [The Box](#the-box)
+    - [Setting](#setting)
+    - [Plot](#plot)
   - [The Wildwood Sprite Ambush](#the-wildwood-sprite-ambush)
     - [Stats](#stats)
       - [Sprites](#sprites)
@@ -24,6 +29,59 @@ Overhear rumor - underground cult
 
 Goal: Establish who they are, how they interact with the party and others, eventual motivation to leave the city (3rd level) 
 
+
+## The Shadows of Dissent
+
+### Summary
+
+A group of hooded characters are in a corner table at the Sylvan Haven. They are studying something. They are wearing the symbol of the emblem of the Obscurans on their neck as pendants. A lone scholar, Seraphina, is investigating them and concealing in the shadows. She hears plans of them disrupting Arventian progress. They are passing a small, ornate box to the "leader" in a red hood, which she believes contains a special object, possibly of destruction. Seraphina tries to chase it and there's a chase etc. 
+
+### The Box
+
+The Box contains the [Shard of Dissolution]. 
+
+The ornate box, discovered by Seraphina in the Sylvan Haven, contains a powerful magical artifact known as the "Shard of Dissolution." This mysterious and dangerous item is a crystalline shard that emanates a faint, ominous glow.
+
+The Obscurans intended to use the Shard of Dissolution to disrupt the harmony of Arventia, causing chaos and erasing the technological and magical advancements that the Arcknights have worked so hard to maintain. The box was meant to transport and conceal the dangerous artifact as it made its way into the hands of those willing to enact the Obscurans' dark plan.
+
+
+### Setting
+The Sylvan Haven, a bustling tavern nestled within the heart of Eldertop, the City of Celestial Tears.
+
+### Plot
+As the sun dips below the horizon and Eldertop's floating cityscape takes on an otherworldly glow, the Sylvan Haven comes to life. The tavern is known for being a sanctuary for scholars, adventurers, and those with a thirst for knowledge, but tonight, a sinister undercurrent lurks beneath its lively exterior.
+
+Scene 1: A Bustling Night at the Sylvan Haven
+
+The Sylvan Haven is abuzz with activity, its wooden beams, and cozy atmosphere filled with merriment. Adventurers and Arventian citizens gather to share stories, music, and the latest discoveries. The gentle melodies of a bard's lute accompany lively conversation.
+
+Scene 2: A Shadowy Encounter
+
+In the dimly lit corner of the tavern, a group of individuals clad in dark, hooded robes huddle around a table. Their presence is inconspicuous, and they appear to be studying something intently. A furtive glance reveals their symbol—the emblem of the Obscurans. The broken chain, serrated blades, and thorny vines are worn around their necks on pendants.
+
+Scene 3: A Mysterious Transaction
+
+As patrons celebrate, a lone scholar, Seraphina, intrigued by the secretive gathering, decides to investigate. Concealing herself in the shadows, she overhears whispers of a plan to disrupt Arventian progress. The Obscurans are passing a small, ornate box with the Obscuran symbol on it around to the "leader" in a red hood. The box, she deduces, contains an object of potential destruction.
+
+Scene 4: Confrontation and Escape
+
+With the Obscurans' intentions becoming clearer, Seraphina realizes she must act. Silently, she approaches their table, revealing her presence. An uneasy silence falls over the group, but before they can react, she snatches the ornate box. Chaos ensues as the Obscurans attempt to seize it back.
+
+Scene 5: Pursuit and Uncertainty
+
+Seraphina dashes through the tavern, the box clutched tightly in her grasp. The Obscurans give chase, their identities concealed beneath their dark hoods. In the maze of tables and patrons, it's a high-stakes game of cat and mouse.
+
+Scene 6: A Narrow Escape
+
+The chase leads Seraphina into the depths of the Sylvan Haven, where the tavern's foundations intertwine with the city's complex machinery. Desperate to escape, she uses her knowledge to navigate the labyrinthine passages. The Obscurans struggle to keep up.
+
+Scene 7: Hidden Truths
+
+Finally, Seraphina finds refuge in a dimly lit chamber beneath the tavern, clutching the ornate box. Her curiosity drives her to open it, revealing an artifact of dark power. The box contains a hidden message—an encrypted plan of destruction devised by the Obscurans.
+
+Conclusion: A Gathering Storm
+
+Seraphina leaves the tavern, carrying the ominous message with her, aware of the growing threat of the Obscurans. As she steps out into the luminous Eldertop night, she knows that the balance of power in this city of knowledge and innovation is hanging in the balance. The Obscurans, with their sinister goals, are ready to strike, and the Sylvan Haven may soon be at the center of a storm that threatens the very heart of Eldertop.
 
 ## The Wildwood Sprite Ambush
 

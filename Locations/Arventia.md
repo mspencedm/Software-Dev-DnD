@@ -2,10 +2,17 @@
 
 - [Arventia](#arventia)
   - [Summary](#summary)
+    - [Historical](#historical)
   - [Full History](#full-history)
   - [Cities](#cities)
 
 ## Summary
+
+In a world where magic and technology entwine, there exists a realm known as Arventia. This land of wonder and mystery is a place where floating cities grace the skies, and ancient deities guide the destinies of its inhabitants. From bustling metropolises to hidden enclaves, the people of Arventia seek to unlock the secrets of the cosmos, forging a path towards a brighter future.
+
+In this extraordinary realm, knowledge is a treasure, and innovation knows no bounds. But amidst the marvels and advances, there are those who harbor secrets, and some who seek to unravel the very fabric of reality. Join us as we journey into the heart of Arventia, where the balance between magic and machinery teeters on a delicate precipice, and the history of a once-advanced civilization holds the key to its destiny.
+
+### Historical
 
 In a world steeped in ancient magic and mysticism, where wizards and druids once ruled, the discovery of arcane crystals brought forth an era of dazzling innovation and prosperity. Meet the visionary inventors known as the Arcaneknights, who harnessed the crystals' power to create airships, spaceships, and astounding machinery. Nations united, cultures flourished, and humanity soared into the cosmos. But when an experiment triggered a cataclysmic explosion, the world plunged into chaos, magic's laws unraveled, and advanced technology was cast into fear and obscurity. Now, join us as we journey through the ruins of a technologically advanced past, where adventurers seek lost knowledge and relics, heroes rise to restore balance, and the fate of Arventia teeters on the brink. Welcome to a world of swords, sorcery, and secrets in "The Rise and Fall of Arventia." 
 
@@ -26,7 +33,33 @@ The Rise and Fall of Arventia's Technological Era with Arcaneknights:
 
 ## Cities
 
-- [Eldertop](https://github.com/mspencedm/Arventia/blob/main/Locations/Eldertop.md)
+- [Eldertop - The City of Celestial Tears](https://github.com/mspencedm/Arventia/blob/main/Locations/Eldertop.md)
+Eldertop is the capital and shining jewel of Arventia, known for its advanced technology, mystical wonders, and floating architecture. The city's citizens, led by the Arcknights, explore the cosmos and delve into the mysteries of the universe.
 
+- Starhaven - The Arcane Nexus
+Starhaven is a hub of magical scholarship and the gathering place for spellcasters, wizards, and arcane researchers. It is renowned for its sprawling libraries and magical academies.
 
+- Machinopolis - The City of Gears
+Machinopolis is a metropolis where technology reigns supreme. Clockwork marvels and mechanical wonders are produced in its factories, while engineers and inventors drive forward the industrial advancements of Arventia.
+
+- Astralaire - The Astral Observatory
+Astralaire is perched high in the mountains and is a center for stargazing and celestial studies. Astronomers and celestial mages come to observe the heavens and decipher the cosmos.
+
+- Verdiswood - The Sylvan Sanctuary
+Nestled in a lush forest, Verdiswood is a haven for nature enthusiasts and druids. The city emphasizes a balance between nature and civilization, with arboreal architecture and vibrant greenery.
+
+- Aerolantis - The Skyship Metropolis
+Aerolantis is a city built upon colossal skyships that roam the skies. It serves as a vital trade hub and is famous for its bustling markets and merchant guilds.
+
+- Solarius Spire - The Enchanted Citadel
+Solarius Spire is a magnificent floating fortress that serves as the primary center for magical research and the residence of powerful archmages. It is renowned for its arcane wonders and magical defenses.
+
+- Nocturna Hollow - The Midnight Sanctuary
+Nocturna Hollow is a subterranean city carved into the earth, where shadow magic and secrets thrive. It is a refuge for shadowmancers and those who seek hidden knowledge.
+
+- Tempesthold - The Stormforged Citadel
+Tempesthold is a coastal city renowned for its mastery of weather magic. Stormcallers and weather manipulators protect the city from natural disasters and harness elemental forces.
+
+- Nebuloria - The Celestial Retreat
+Nebuloria is an ethereal city suspended in the clouds, home to celestial beings and scholars of divine mysteries. The city's grand temples and celestial observatories are dedicated to the worship of the Arventian pantheon.
 

@@ -17,6 +17,7 @@
       - [Material Plane Dock](#material-plane-dock)
       - [Feywild Bridge](#feywild-bridge)
     - [Notable People](#notable-people)
+      - [Elowen Songweaver](#elowen-songweaver)
       - [Elara](#elara)
       - [Lirael Nightbloom](#lirael-nightbloom)
       - [Council of Verdant Wisdom](#council-of-verdant-wisdom)
@@ -120,6 +121,39 @@ Keeper of Tales: Thalindra also serves as the keeper of stories in The Sylvan Ha
 
 </details>
 
+<details>
+<summary>Elowen Songweaver</summary>
+
+Full Character Sheet: [Elowen Songweaver](https://github.com/mspencedm/Arventia/blob/main/NPCs/Lirael-Nightbloom.md)
+
+- Description:
+Elowen Songweaver is a charismatic and talented bard who graces The Sylvan Haven Tavern in Eldertop with her enchanting melodies, storytelling, and vibrant personality. Her presence adds an extra layer of magic and entertainment to the already enchanting atmosphere of the tavern.
+
+- Appearance:
+Elowen is an elf with a striking presence. She has long, raven-black hair adorned with colorful flowers and leaves, which give her an almost otherworldly appearance. Her bright, emerald eyes reflect the wisdom and mystery of the mystical forest. She dresses in vibrant, flowing garments that are as much a work of art as her performances.
+
+- Personality:
+Elowen is known for her effervescent and warm demeanor. She is quick to smile, and her laughter is infectious, creating an atmosphere of joy in the tavern. She possesses a deep appreciation for the beauty of nature and the magic of the fey, which she weaves into her performances.
+
+- Bardic Skills:
+As a bard, Elowen possesses exceptional musical and storytelling talents:
+
+  - Enchanting Melodies: Her melodic performances, accompanied by her ukulele or other instruments, captivate the audience. Her songs often invoke the essence of the mystical forest and the fey, evoking a sense of wonder and enchantment.
+
+  - Storytelling: Elowen is a skilled storyteller, recounting tales of ancient legends, the history of Eldertop, and the whimsical adventures of the fey. Her stories are as vivid and entertaining as her music.
+
+  - Spells and Cantrips: As a bard, Elowen possesses magical abilities. She can cast spells to enhance her performances or to influence the emotions and thoughts of those around her.
+
+  - Interactive Performances:
+  Elowen encourages interaction with her audience. She may invite patrons to participate in storytelling, dance, or sing-alongs, making each performance a unique and memorable experience for those in attendance.
+
+  - Fey Inspiration:
+  Elowen often draws inspiration from the mystical forest and the fey creatures that reside nearby. Her connection to nature and the fey is evident in her songs and stories, adding a touch of the magical world to the lives of Eldertop's residents and visitors.
+
+Elowen Songweaver is not just a bard but a living embodiment of the enchantment that Eldertop represents. Her performances in The Sylvan Haven Tavern offer a window into the city's deep connection to the natural world, the fey, and the magic that surrounds it, making her a cherished figure in the city.
+
+</details>
+
 
 ### Wildwood Marketplace
 
@@ -204,6 +238,14 @@ At the heart of Faerystead Crossing is the mystical bridge that connects the Mat
 
 
 ### Notable People
+
+
+#### Elowen Songweaver
+
+[View Character Sheet](https://github.com/mspencedm/Arventia/blob/main/NPCs/Lirael-Nightbloom.md)
+
+Elowen Songweaver is not just a bard but a living embodiment of the enchantment that Eldertop represents. Her performances in The Sylvan Haven Tavern offer a window into the city's deep connection to the natural world, the fey, and the magic that surrounds it, making her a cherished figure in the city.
+
 
 #### Elara
 

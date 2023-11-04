@@ -3,6 +3,7 @@
 The Arcknights, in their quest for understanding and mastery of both magic and technology, have developed a unique and intricate religion that is closely tied to their history, values, and the cataclysmic events that shaped their civilization.
 
 - [Religion of the Arcknights](#religion-of-the-arcknights)
+  - [Origin](#origin)
   - [Deities](#deities)
     - [Arkon, the Creator](#arkon-the-creator)
     - [Machina, the Artificer](#machina-the-artificer)
@@ -23,6 +24,22 @@ The Arcknights, in their quest for understanding and mastery of both magic and t
     - [Mystic Ceremonies](#mystic-ceremonies)
   - [Philosophy](#philosophy)
 
+## Origin
+The Arventian Origin: A Tale of Celestial Tears
+
+In the time before the great city of Eldertop, the world of Arventia was a place of magic and mystery, where the boundaries between the mortal realm and the celestial planes were thin and permeable. Arcane energy flowed freely, and it was a time of unprecedented prosperity, peace, and technological advancement.
+
+The Arcknights, originally known as the Eldermagi, were an order of powerful wizards and technomages who dedicated themselves to the study of both magic and technology. Under the leadership of their enigmatic Grand Magus, they uncovered the secrets of the cosmos, wielding powers that enabled them to shape reality itself.
+
+At the height of their civilization, the Eldermagi constructed massive, floating cities that traversed the skies, and their knowledge extended to the far reaches of the cosmos. They designed and built interstellar spaceships that allowed them to explore other worlds and unlock the mysteries of the universe. These spaceships, known as "Celestial Tears," were both marvels of technology and conduits for tapping into the celestial energies of the multiverse.
+
+However, such power and ambition were not without consequences. The Eldermagi's relentless pursuit of knowledge and control strained the fabric of reality. The celestial planes grew distant and began to weep, shedding tears of magic that fell upon the world below, altering it in unforeseen ways. The cataclysmic event that followed, known as the "Tearfall," shattered the floating cities, and the Eldermagi's advanced technology and magical wonders crumbled.
+
+In the wake of the Tearfall, the once-advanced civilization regressed into a time of swords and sorcery. The Arcknights, as the Eldermagi came to be known in this new era, sought to preserve the fragments of their lost knowledge. They adapted to a world where magic and technology coexisted, rediscovering ancient spells and rebuilding their society from the remnants of their floating cities.
+
+Arventia, a vast realm encompassing the ruins of the fallen Celestial Tears, became the beacon of hope and civilization in a world that had lost much of its former glory. The Arcknights learned to balance their pursuit of knowledge and innovation with an understanding of the consequences of their actions. It was a time of resilience, as they sought to heal the wounds of the past and prepare for a new golden age of exploration and discovery.
+
+The tale of the Arventian origin serves as a reminder of the delicate balance between ambition and responsibility, knowledge and humility. It is a story of a civilization that rose to great heights, faced a cataclysmic fall, and embarked on a journey to reclaim its lost legacy while respecting the natural order of the universe. In Arventia, they carry the lessons of their past with them, as they strive to forge a brighter future guided by the wisdom of their deities and the power of the arcane.
 
 ## Deities
 

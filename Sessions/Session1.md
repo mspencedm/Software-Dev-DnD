@@ -38,7 +38,7 @@ A group of hooded characters are in a corner table at the Sylvan Haven. They are
 
 ### The Box
 
-The Box contains the [Shard of Dissolution]. 
+The Box contains the [Shard of Dissolution](https://github.com/mspencedm/Arventia/blob/main/Items/ShardOfDissolution.md). 
 
 The ornate box, discovered by Seraphina in the Sylvan Haven, contains a powerful magical artifact known as the "Shard of Dissolution." This mysterious and dangerous item is a crystalline shard that emanates a faint, ominous glow.
 

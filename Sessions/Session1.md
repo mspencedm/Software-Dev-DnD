@@ -8,8 +8,9 @@
     - [Setting](#setting)
     - [Plot](#plot)
     - [Forest Goblin Encounter](#forest-goblin-encounter)
+      - [Stats](#stats)
   - [The Wildwood Sprite Ambush](#the-wildwood-sprite-ambush)
-    - [Stats](#stats)
+    - [Stats](#stats-1)
       - [Sprites](#sprites)
       - [Roderic the Thief](#roderic-the-thief)
 
@@ -78,7 +79,11 @@ The chase leads Seraphina into the forest while the Obscurans are still in pursu
 
 ### Forest Goblin Encounter
 
+On the chase, Seraphina is clutching the box. Goblins from the forest hidden in the trees appear and the cultists are behind her. She is surrounded. 
 
+#### Stats
+
+[Seraphina]()
 
 
 Scene 7: Hidden Truths

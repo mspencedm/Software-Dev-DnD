@@ -14,6 +14,7 @@ The Arcknights, in their quest for understanding and mastery of both magic and t
     - [Umbrus, the God of Night](#umbrus-the-god-of-night)
     - [Verdis, the God of Weather and Nature](#verdis-the-god-of-weather-and-nature)
     - [Magivox, the Deity of Magic and the Weave](#magivox-the-deity-of-magic-and-the-weave)
+    - [Ludon, the Trickster](#ludon-the-trickster)
   - [Religious Practices](#religious-practices)
     - [Innovation Rituals](#innovation-rituals)
     - [Celestial Observations](#celestial-observations)
@@ -22,6 +23,7 @@ The Arcknights, in their quest for understanding and mastery of both magic and t
     - [Day and Night Devotions](#day-and-night-devotions)
     - [Nature Communion](#nature-communion)
     - [Mystic Ceremonies](#mystic-ceremonies)
+    - [Unexpected Ceremonies](#unexpected-ceremonies)
   - [Philosophy](#philosophy)
 
 ## Origin
@@ -70,6 +72,10 @@ Verdis is the god of weather, nature, and the elements. He is often portrayed as
 ### Magivox, the Deity of Magic and the Weave
 Magivox is the deity of magic, spells, and the weaving of the arcane threads that make up the fabric of reality. Often depicted as a figure bathed in mystic energy, Magivox is invoked by those seeking to unravel the secrets of the arcane and master the mysteries of magic.
 
+### Ludon, the Trickster
+Ludon, the Trickster, is the latest addition to the Arventian pantheon. With an enigmatic and playful nature, Ludon represents the art of trickery, mischievous pranks, and the subtle manipulation of reality. His followers admire his quick wit, cunning intellect, and the ever-present twinkle in his eye.
+
+
 ## Religious Practices
 
 ### Innovation Rituals
@@ -92,6 +98,9 @@ Worshipers of Verdis connect with the natural world by performing rituals in for
 
 ### Mystic Ceremonies
 Those who seek the wisdom of Magivox engage in arcane rituals, spellcasting, and magical experiments. They believe that by connecting with Magivox, they can unlock the full potential of magic and understand the intricacies of the arcane weave.
+
+### Unexpected Ceremonies
+Followers of Ludon, the Trickster, engage in a unique set of religious practices that revolve around humor, creativity, and the celebration of life's unpredictability. These practices are designed to encourage a deeper connection to Ludon's teachings and the philosophy of embracing the unexpected.
 
 ## Philosophy
 

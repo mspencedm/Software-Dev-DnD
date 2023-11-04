@@ -9,6 +9,8 @@
     - [Plot](#plot)
     - [Forest Goblin Encounter](#forest-goblin-encounter)
       - [Stats](#stats)
+        - [Cultists](#cultists)
+        - [Goblins](#goblins)
   - [The Wildwood Sprite Ambush](#the-wildwood-sprite-ambush)
     - [Stats](#stats-1)
       - [Sprites](#sprites)
@@ -81,14 +83,66 @@ The chase leads Seraphina into the forest while the Obscurans are still in pursu
 
 On the chase, Seraphina is clutching the box. Goblins from the forest hidden in the trees appear and the cultists are behind her. She is surrounded. 
 
+3 Goblins
+
+- [ ] Goblin 1
+
+
+
+- [ ] Goblin 2
+
+
+- [ ] Goblin 3
+
+
+
+4 Cultists
+
+- [ ] Cultist 1
+
+
+- [ ] Cultist 2
+
+
+- [ ] Cultist 3
+
+
+- [ ] Cultist 4
+
+
+
+
 #### Stats
 
-[Seraphina]()
+[Seraphina](https://github.com/mspencedm/Arventia/blob/main/NPCs/Seraphina.md)
+
+##### [Cultists](https://www.dndbeyond.com/monsters/16835-cultist)
+
+![CultistStats](../Resources/CultistStats.png)
+
+##### [Goblins](https://www.dndbeyond.com/monsters/16907-goblin)
+
+![GoblinStats](../Resources/GoblinStats.png)
 
 
 Scene 7: Hidden Truths
 
 Finally, Seraphina finds refuge in a dimly lit chamber beneath the tavern, clutching the ornate box. Her curiosity drives her to open it, revealing an artifact of dark power. The box contains a hidden message—an encrypted plan of destruction devised by the Obscurans.
+
+The message is encrypted and says
+```
+Sri sygsi lewx erhii gsqirxmrk. Aiiii xsqex xsrriw srhiri syxw
+```
+
+When decrypted, it says
+```
+One piece has been collected. We will restore order
+```
+
+Steps for solve:
+
+
+
 
 Conclusion: A Gathering Storm
 
@@ -109,8 +163,25 @@ When the players start to get desperate/combat draws on → Elara - powerful loc
 
 ### Stats
 
-#### Sprites
+#### [Sprites](https://www.dndbeyond.com/monsters/17020-sprite)
 15 sprites - Stats - fight as hoards of 5 (do like combo on stats to make it simpler - basically beefing up the sprites - hoards only attack once)
+
+- [ ] Sprite Hoard 1
+
+
+- [ ] Sprite Hoard 2
+
+
+- [ ] Sprite Hoard 3
+
+
+- [ ] Sprite Hoard 4
+
+
+- [ ] Spriate Hoard 5
+
+
+
 
 ![SpriteStats](../Resources/SpriteStats.png)
 

@@ -29,7 +29,7 @@ Class: Level 1 Cleric, Level 3 Assassin Rogue
 Alignment: Chaotic Neutral
 
 Background: Acolyte
-Hit Points: 36 (4d8 + 12)
+Hit Points: 36 (4d8 + 12) | 30
 
 Armor Class: 15
 

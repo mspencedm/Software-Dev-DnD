@@ -85,29 +85,26 @@ On the chase, Seraphina is clutching the box. Goblins from the forest hidden in 
 
 3 Goblins
 
-- [ ] Goblin 1
+- [X] Goblin 1 
 
 
+- [X] Goblin 2
 
-- [ ] Goblin 2
 
-
-- [ ] Goblin 3
+- [X] Goblin 3
 
 
 
 4 Cultists
 
-- [ ] Cultist 1
+- [X] Cultist 1
+
+- [X] Cultist 2
+
+- [X] Cultist 3 
 
 
-- [ ] Cultist 2
-
-
-- [ ] Cultist 3
-
-
-- [ ] Cultist 4
+- [X] Cultist 4
 
 
 
@@ -131,12 +128,12 @@ Finally, Seraphina finds refuge in a dimly lit chamber beneath the tavern, clutc
 
 The message is encrypted and says
 ```
-Sri sygsi lewx erhii gsqirxmrk. Aiiii xsqex xsrriw srhiri syxw
+KJA LEAZA DWO XAAJ YKHHAYPAZ SA SEHH NAOPKNA KNZAN
 ```
 
 When decrypted, it says
 ```
-One piece has been collected. We will restore order
+ONE PIECE HAS BEEN COLLECTED. WE WILL RESTORE ORDER
 ```
 
 Steps for solve:

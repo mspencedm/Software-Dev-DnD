@@ -12,7 +12,7 @@ The Council of Verdant Wisdom is the governing body of Eldertop, responsible for
 ## Council Members
 
 
-- Lirael Nightbloom: (Guardian of Eldertop): As the Guardian, Thalindra Evergreen serves as the head of the council, providing guidance, protection, and a deep connection to the fey. Her role is pivotal in maintaining the harmony between the Material Plane and the Feywild.
+- Lirael Nightbloom: (Guardian of Eldertop): As the Guardian, Lirael Nightbloom serves as the head of the council, providing guidance, protection, and a deep connection to the fey. Her role is pivotal in maintaining the harmony between the Material Plane and the Feywild.
 
 - Raelin Windshadow (Elven Noble): Raelin is a noble from one of the prominent elven families in Eldertop. She represents the city's noble class and brings a diplomatic and pragmatic approach to the council's decisions.
 

@@ -1,10 +1,16 @@
 # Seraphina
 
 - [Seraphina](#seraphina)
+  - [Major Story Points](#major-story-points)
   - [Description](#description)
     - [Physical](#physical)
   - [Backstory](#backstory)
   - [Stats](#stats)
+
+
+## Major Story Points
+
+Seraphina currently posses the [Shard of Dissolution]() in a Box stolen from the Obscurans. 
 
 
 ## Description

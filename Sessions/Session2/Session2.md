@@ -1,11 +1,7 @@
 # Session 2
 
 - [Session 2](#session-2)
-  - [Recap](#recap)
   - [Summary](#summary)
-
-
-## Recap
 
 ## Summary
 

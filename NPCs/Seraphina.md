@@ -12,6 +12,10 @@
 
 Seraphina currently posses the [Shard of Dissolution]() in a Box stolen from the Obscurans. 
 
+The ornate box, discovered by Seraphina in the Sylvan Haven, contains a powerful magical artifact known as the "Shard of Dissolution." This mysterious and dangerous item is a crystalline shard that emanates a faint, ominous glow.
+
+The Obscurans intended to use the Shard of Dissolution to disrupt the harmony of Arventia, causing chaos and erasing the technological and magical advancements that the Arcknights have worked so hard to maintain. The box was meant to transport and conceal the dangerous artifact as it made its way into the hands of those willing to enact the Obscurans' dark plan.
+
 
 ## Description
 

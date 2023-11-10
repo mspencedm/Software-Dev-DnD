@@ -11,7 +11,7 @@
       - [Stats](#stats)
         - [Cultists](#cultists)
         - [Goblins](#goblins)
-  - [The Wildwood Sprite Ambush](#the-wildwood-sprite-ambush)
+  - [The Wildwood Sprite Ambush - NOT HAPPENED](#the-wildwood-sprite-ambush---not-happened)
     - [Stats](#stats-1)
       - [Sprites](#sprites)
       - [Roderic the Thief](#roderic-the-thief)
@@ -149,7 +149,7 @@ Conclusion: A Gathering Storm
 
 Seraphina leaves the tavern, carrying the ominous message with her, aware of the growing threat of the Obscurans. As she steps out into the luminous Eldertop night, she knows that the balance of power in this city of knowledge and innovation is hanging in the balance. The Obscurans, with their sinister goals, are ready to strike, and the Sylvan Haven may soon be at the center of a storm that threatens the very heart of Eldertop.
 
-## The Wildwood Sprite Ambush
+## The Wildwood Sprite Ambush - NOT HAPPENED
 
 The Leafy Larcenists 
 sprites - attempting to steal from the market 

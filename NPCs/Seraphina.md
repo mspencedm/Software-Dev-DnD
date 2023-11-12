@@ -10,7 +10,7 @@
 
 ## Major Story Points
 
-Seraphina currently posses the [Shard of Dissolution]() in a Box stolen from the Obscurans. 
+Seraphina currently posseses the Shard of Dissolution in a Box stolen from the Obscurans. 
 
 The ornate box, discovered by Seraphina in the Sylvan Haven, contains a powerful magical artifact known as the "Shard of Dissolution." This mysterious and dangerous item is a crystalline shard that emanates a faint, ominous glow.
 

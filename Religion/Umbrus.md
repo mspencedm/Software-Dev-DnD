@@ -12,7 +12,9 @@
 
 
 ## Summary
-Born from cosmic shadows, Umbrus is a mysterious deity, its elusive form veiled in darkness. Encouraging seekers to embrace the unknown, Umbrus guides its followers through enigmatic wisdom and the exploration of concealed truths. Its symbols, like the Cloaked Eye, and sacred sanctuaries in hidden corners, mark a path where shadows conceal both secrets and strength.
+Born from cosmic shadows, Umbrus is a mysterious deity, its elusive form veiled in darkness. Encouraging seekers to embrace the unknown, Umbrus guides its followers through enigmatic wisdom and the exploration of concealed truths. Its symbols, like the Cloaked Eye, and sacred sanctuaries in hidden corners, mark a path where shadows conceal both secrets and strength. 
+
+Followers are often called "Shroudseekers". This name reflects their pursuit of the mysteries concealed in shadows and their dedication to unraveling the enigmatic aspects of existence under the guidance of Umbrus, the Shadowed Patron.
 
 ## Origin
 Umbrus emerged from the shadows, a deity born from the ever-present darkness that cradles both secrets and hidden potential. Legend speaks of an ancient cosmic event where a confluence of shadowy energies birthed Umbrus into existence, bringing forth a god of enigma and mystery.

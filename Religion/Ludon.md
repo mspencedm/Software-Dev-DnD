@@ -15,6 +15,8 @@ Domain: Trickery, Mischief, Illusion
 ## Summary
 Ludon, the Trickster, is part of the Arventian pantheon. With an enigmatic and playful nature, Ludon represents the art of trickery, mischievous pranks, and the subtle manipulation of reality. His followers admire his quick wit, cunning intellect, and the ever-present twinkle in his eye.
 
+Followers of Ludon can be called "Mirthweavers." This name captures the essence of Ludon's playful and mischievous nature, emphasizing their commitment to weaving illusions, embracing humor, and navigating the intricate dance of trickery under the guidance of Ludon, the Trickster.
+
 ## Origin
 Ludon, the Trickster, emerged from the collective laughter and surprise of the first inhabitants of Arventia when they discovered the wonders and mysteries of their world. He was not born from traditional divine means but rather took form as the personification of their fascination with life's twists and turns.
 

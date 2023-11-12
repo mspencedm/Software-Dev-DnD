@@ -184,7 +184,7 @@ When the players start to get desperate/combat draws on → Elara - powerful loc
 
 
 
-![SpriteStats](../Resources/SpriteStats.png)
+![SpriteStats](../../Resources/SpriteStats.png)
 
 #### Roderic the Thief
 Human Rogue

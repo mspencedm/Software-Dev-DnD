@@ -6,6 +6,9 @@
   - [The Enigma of Seraphina](#the-enigma-of-seraphina)
   - [A Journey to the Docks](#a-journey-to-the-docks)
   - [Encounter - Rival Temples Clash](#encounter---rival-temples-clash)
+    - [Stats](#stats)
+      - [Acolyte](#acolyte)
+      - [Spy](#spy)
   - [Revelations and Shadows](#revelations-and-shadows)
 
 
@@ -45,6 +48,26 @@ Objectives: Defend against the attackers and gather information about Seraphina'
 
 Twist: The rival temple members have their own reasons for seeking Seraphina, and their deity's motivations might clash with Ludon's.
 
+3 Acolytes
+
+- [ ] Acolyte 1
+- [ ] Acolyte 2
+- [ ] Acolyte 3
+
+2 Spies
+
+- [ ] Spy 1
+- [ ] Spy 2
+
+### Stats
+
+#### [Acolyte](https://www.dndbeyond.com/monsters/16763-acolyte)
+
+![Acolyte](../../Resources/AcolyteStats.png)
+
+#### [Spy](https://www.dndbeyond.com/monsters/17021-spy)
+
+![Spy](../../Resources/SpyStats.png)
 
 ## Revelations and Shadows
 

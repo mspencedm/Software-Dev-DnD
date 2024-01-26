@@ -10,6 +10,8 @@
       - [Acolyte](#acolyte)
       - [Spy](#spy)
   - [Revelations and Shadows](#revelations-and-shadows)
+  - [Turned Away at the Docks](#turned-away-at-the-docks)
+  - [The Second Shattering](#the-second-shattering)
 
 
 ## Summary
@@ -74,5 +76,19 @@ Twist: The rival temple members have their own reasons for seeking Seraphina, an
 After the skirmish, (last person standing will surrender) the party interrogates the defeated temple members, learning that Seraphina was last seen near an ancient portal on the outskirts of Eldertop. The portal is rumored to connect to a realm touched by trickster magic.
 
 With newfound information, the party faces a choice: to delve into the mysteries beyond the portal and unravel the enigma of Seraphina or to return to the Ludon temple with the gathered information.
+
+
+## Turned Away at the Docks
+
+The players are rejected by the guards at the dock. 
+
+
+
+
+## The Second Shattering
+
+Ground will shake and people are going to freak out - then dealing with the aftermath 
+
+
 
 

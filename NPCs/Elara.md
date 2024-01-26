@@ -18,11 +18,11 @@ Elara is a resilient and resourceful elven ranger with a complex and multifacete
 
 - Nurturing: Elara's connection to nature and her experiences in the wilderness have fostered a nurturing side to her personality. She cares deeply for the magical forest surrounding Eldertop, treating it like a living being. Her compassion extends to the city's residents, whom she considers her extended family.
 
-- Seriousness: Elara carries herself with a sense of seriousness, earned through her experiences as both an Archaneknight and a guardian of Eldertop. She is a figure of authority and respect, even if she doesn't seek recognition.
+- Seriousness: Elara carries herself with a sense of seriousness, earned through her experiences as both an Archaneknight. She is a figure of authority and respect, even if she doesn't seek recognition.
 
 - Aversion to the Past: Her painful memories of the Archaneknights and their role in the cataclysm have left her with an aversion to her own past. She has difficulty revisiting the memories of her time as an Archaneknight and tends to keep her distance from former colleagues.
 
-- Dedication: Elara's dedication to the people of Eldertop is unwavering. She views her role as a guardian not just as a duty but as a personal mission to ensure that no harm befalls the city or its residents. Her loyalty is steadfast.
+- Dedication: Elara's dedication to the people of Eldertop is unwavering. Her loyalty is steadfast.
 
 - Tenacity: When Elara sets her mind to a task, she displays incredible tenacity. She is not one to give up easily, whether it's tracking a threat to Eldertop, helping her fellow adventurers, or pursuing her relentless quest to find her lost husband.
 
@@ -35,7 +35,7 @@ Elara is a resilient and resourceful elven ranger with a complex and multifacete
 Elara, an elven ranger, and her husband, Lorandor, were once both members of the Archaneknights during the golden age of technological advancement in Arventia. They shared a common resistance against the reckless ambitions of their guild, which sought to explore the cosmos and pushed the boundaries of magic. Elara and Lorandor were amongst the few who held reservations, fearing the unknown and believing that their world's balance was at risk.
 Their fears materialized when a cataclysmic event, the Fall of the Golden Age, unfolded due to an experiment gone terribly wrong. It shattered the laws of magic, disrupted the delicate balance of the world, and plunged Arventia into chaos. The once-celebrated Archaneknights were blamed for the disaster, and many, including Elara and Lorandor, were cast aside for their cautionary stance.
 The cataclysmic event not only separated Elara from Lorandor but also tainted her perception of the Archaneknights. She felt that their reckless pursuit of knowledge had caused the devastation that sundered their world and separated her from her beloved. Overwhelmed with grief and a sense of betrayal, Elara distanced herself from her former guild.
-With the world in disarray and the advanced technology in ruins, Elara sought refuge in the mystical city of Eldertop, which was sheltered within a magical forest. Here, she used her knowledge of the wilderness and ranger skills to become a guardian, dedicated to protecting the city and its enchanted woodlands. The city's connection to the Feywild and its reputation as a sanctuary for those in need drew her.
+With the world in disarray and the advanced technology in ruins, Elara sought refuge in the mystical city of Eldertop, which was sheltered within a magical forest. Here, she used her knowledge of the wilderness and ranger skills to become a protector of the feywild bridge, dedicated to protecting the city and its enchanted woodlands. The city's connection to the Feywild and its reputation as a sanctuary for those in need drew her.
 Years have passed since the Fall of the Golden Age, and Elara's quest to reunite with Lorandor remains a poignant part of her life. While her heart aches for her missing husband, the betrayal she felt from the Archaneknights still lingers in her memory, leaving her with mixed feelings about her former comrades. Her steadfastness in the face of adversity and her dedication to protecting Eldertop have made her a respected figure among the city's inhabitants, even as she remains haunted by the consequences of the guild's actions.
 
 

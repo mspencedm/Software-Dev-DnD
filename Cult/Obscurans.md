@@ -1,5 +1,20 @@
 # The Obscurans: Cult of Disbelief
 
+
+- [The Obscurans: Cult of Disbelief](#the-obscurans-cult-of-disbelief)
+  - [Origins](#origins)
+  - [Core Beliefs](#core-beliefs)
+  - [Rejection of Deities](#rejection-of-deities)
+  - [Pre-Tearfall Ideal](#pre-tearfall-ideal)
+  - [Destruction of Arventia](#destruction-of-arventia)
+  - [Activities and Practices](#activities-and-practices)
+    - [Infiltration](#infiltration)
+    - [Sabotage](#sabotage)
+    - [Propaganda](#propaganda)
+    - [Violence](#violence)
+    - [Leadership](#leadership)
+    - [Rivalry with the Arcknights](#rivalry-with-the-arcknights)
+
 ## Origins
 The Obscurans are a secretive and fanatical cult that has its roots in the remnants of the past, during the time of the Arcknights' ascendancy. As the world transformed in the wake of the Tearfall, there were those who refused to accept the Arcknights' teachings and the burgeoning Arventian pantheon. Their fervent rejection of the Arcknights and their belief in the sanctity of a simpler, pre-Tearfall world led to the formation of the Obscurans.
 

@@ -16,8 +16,8 @@
       - [Menu](#menu-1)
         - [Appetizers](#appetizers)
         - [Main Courses](#main-courses)
-        - [Desserts:](#desserts)
-        - [Beverages:](#beverages)
+        - [Desserts](#desserts)
+        - [Beverages](#beverages)
         - [Specialty Cocktails](#specialty-cocktails)
     - [Wildwood Marketplace](#wildwood-marketplace)
       - [Summary](#summary-2)
@@ -49,8 +49,6 @@ Eldertop is a breathtaking and enchanting city nestled within the ancient and my
 - Living City: Eldertop's structures are intricately woven into the forest canopy. Homes, markets, and bridges coexist with the trees, creating a symbiotic relationship between the city and the forest.
 
 - Feywild Connection: The city is intricately linked to the Feywild, a parallel plane of enchantment and magic. This connection infuses Eldertop with a unique aura, where time flows differently, and the boundary between the realms is thin.
-
-- Guardian and Protector: Elara, the Guardian of Eldertop, watches over the city. She is a revered figure responsible for ensuring the safety of the city and the enchanting forest that surrounds it.
 
 - Magical Marketplace: The Wildwood Marketplace is the heart of Eldertop, offering a wide variety of shops selling enchanted items, magical curiosities, and fey-touched goods.
 
@@ -109,6 +107,7 @@ Offerings of Whimsy: Patrons leave whimsical offerings—a deck of illusionary c
 Ludon's Brew: A frothy concoction with a hint of unexpected flavors. Served in playful goblets that might change color or shape as you drink.
 
 Prankster's Platter: A selection of delectable small bites, each with a surprising twist of flavor.
+
 Illusionary Desserts: Sweet treats that play tricks on the senses, like disappearing cakes and levitating pastries.
 Entertainment:
 
@@ -223,7 +222,7 @@ Sylvan Truffle Risotto: Creamy risotto made with rare Sylvan truffles, garden he
 
 Celestial Salmon: Grilled salmon fillet infused with celestial seasonings, accompanied by a side of roasted root vegetables and celestial herb butter.
 
-##### Desserts:
+##### Desserts
 
 Astral Berry Tart: A delicate pastry shell filled with a medley of celestial berries and topped with a sprinkle of stardust sugar.
 
@@ -231,7 +230,7 @@ Eldertop Eclair: A light and airy pastry filled with enchanting custard and glaz
 
 Starlight Sorbet: A refreshing sorbet made with ethereal fruit flavors, perfect for cleansing the palate after a satisfying meal.
 
-##### Beverages:
+##### Beverages
 
 Starfall Cider: A crisp and slightly effervescent apple cider infused with celestial fruits and herbs.
 

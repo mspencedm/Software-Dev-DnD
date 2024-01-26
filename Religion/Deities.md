@@ -5,7 +5,7 @@ The Arcknights, in their quest for understanding and mastery of both magic and t
 - [Religion of the Arcknights](#religion-of-the-arcknights)
   - [Origin](#origin)
   - [Deities](#deities)
-    - [Arkon, the Creator](#arkon-the-creator)
+    - [Akron, the Creator](#akron-the-creator)
     - [Machina, the Artificer](#machina-the-artificer)
     - [Astrala, the Cosmic Watcher](#astrala-the-cosmic-watcher)
     - [Temporalis, the Keeper of Moments](#temporalis-the-keeper-of-moments)
@@ -15,6 +15,7 @@ The Arcknights, in their quest for understanding and mastery of both magic and t
     - [Verdis, the God of Weather and Nature](#verdis-the-god-of-weather-and-nature)
     - [Magivox, the Deity of Magic and the Weave](#magivox-the-deity-of-magic-and-the-weave)
     - [Ludon, the Trickster](#ludon-the-trickster)
+    - [Morthos, the Umbral Despot](#morthos-the-umbral-despot)
   - [Religious Practices](#religious-practices)
     - [Innovation Rituals](#innovation-rituals)
     - [Celestial Observations](#celestial-observations)
@@ -33,11 +34,11 @@ In the time before the great city of Eldertop, the world of Arventia was a place
 
 The Arcknights, originally known as the Eldermagi, were an order of powerful wizards and technomages who dedicated themselves to the study of both magic and technology. Under the leadership of their enigmatic Grand Magus, they uncovered the secrets of the cosmos, wielding powers that enabled them to shape reality itself.
 
-At the height of their civilization, the Eldermagi constructed massive, floating cities that traversed the skies, and their knowledge extended to the far reaches of the cosmos. They designed and built interstellar spaceships that allowed them to explore other worlds and unlock the mysteries of the universe. These spaceships, known as "Celestial Tears," were both marvels of technology and conduits for tapping into the celestial energies of the multiverse.
+At the height of their civilization, the Eldermagi constructed massive, floating cities that traversed the skies, and their knowledge extended to the far reaches of the cosmos. These floating cities, known as "Celestial Tears," were both marvels of technology and conduits for tapping into the celestial energies of the multiverse.
 
 However, such power and ambition were not without consequences. The Eldermagi's relentless pursuit of knowledge and control strained the fabric of reality. The celestial planes grew distant and began to weep, shedding tears of magic that fell upon the world below, altering it in unforeseen ways. The cataclysmic event that followed, known as the "Tearfall," shattered the floating cities, and the Eldermagi's advanced technology and magical wonders crumbled.
 
-In the wake of the Tearfall, the once-advanced civilization regressed into a time of swords and sorcery. The Arcknights, as the Eldermagi came to be known in this new era, sought to preserve the fragments of their lost knowledge. They adapted to a world where magic and technology coexisted, rediscovering ancient spells and rebuilding their society from the remnants of their floating cities.
+In the wake of the rfall, the once-advanced civilization regressed into a time of swords and sorcery. The Arcknights, as the Eldermagi came to be known in this new era, sought to preserve the fragments of their lost knowledge. They adapted to a world where magic and technology coexisted, rediscovering ancient spells and rebuilding their society from the remnants of their floating cities.
 
 Arventia, a vast realm encompassing the ruins of the fallen Celestial Tears, became the beacon of hope and civilization in a world that had lost much of its former glory. The Arcknights learned to balance their pursuit of knowledge and innovation with an understanding of the consequences of their actions. It was a time of resilience, as they sought to heal the wounds of the past and prepare for a new golden age of exploration and discovery.
 
@@ -45,8 +46,8 @@ The tale of the Arventian origin serves as a reminder of the delicate balance be
 
 ## Deities
 
-### Arkon, the Creator
-Arkon is the chief deity of the Arcknights, often depicted as a celestial being with radiant energy. He is the deity of creation, knowledge, and innovation. Arkon represents the inherent curiosity and desire for progress that drives the Arcknights. He is invoked by those seeking inspiration, guidance, and wisdom in their technological and magical pursuits.
+### Akron, the Creator
+Akron is the chief deity of the Arcknights, often depicted as a celestial being with radiant energy. He is the deity of creation, knowledge, and innovation. Akron represents the inherent curiosity and desire for progress that drives the Arcknights. He is invoked by those seeking inspiration, guidance, and wisdom in their technological and magical pursuits.
 
 ### Machina, the Artificer
 Machina is the goddess of artifice, invention, and craftsmanship. She is believed to have gifted the Arcknights with the knowledge of building advanced technology and weaving intricate spells. Artisans and engineers pay homage to Machina, seeking her blessings for their creations.
@@ -73,13 +74,16 @@ Verdis is the god of weather, nature, and the elements. He is often portrayed as
 Magivox is the deity of magic, spells, and the weaving of the arcane threads that make up the fabric of reality. Often depicted as a figure bathed in mystic energy, Magivox is invoked by those seeking to unravel the secrets of the arcane and master the mysteries of magic.
 
 ### Ludon, the Trickster
-Ludon, the Trickster, is the latest addition to the Arventian pantheon. With an enigmatic and playful nature, Ludon represents the art of trickery, mischievous pranks, and the subtle manipulation of reality. His followers admire his quick wit, cunning intellect, and the ever-present twinkle in his eye.
+Ludon, the Trickster, is the youngest of the original Arventian pantheon. With an enigmatic and playful nature, Ludon represents the art of trickery, mischievous pranks, and the subtle manipulation of reality. His followers admire his quick wit, cunning intellect, and the ever-present twinkle in his eye.
+
+### Morthos, the Umbral Despot
+In the cosmic tapestry of Arventia, where light and shadow dance in eternal balance, a malevolent force lurks in the depths of darkness. Morthos, known as The Umbral Despot, is an evil deity whose dominion over shadows is a sinister counterpart to the harmonious rule of the Arcknights. Emerged from the corrupted echoes of the cosmic event that birthed the Arcknights.
 
 
 ## Religious Practices
 
 ### Innovation Rituals
-Arcknights hold ceremonies to honor Arkon and Machina, during which they present their latest technological and magical innovations. These rituals involve unveiling new machines, casting groundbreaking spells, and displaying inventions. Such innovations are seen as offerings to their deities.
+Arcknights hold ceremonies to honor Akron and Machina, during which they present their latest technological and magical innovations. These rituals involve unveiling new machines, casting groundbreaking spells, and displaying inventions. Such innovations are seen as offerings to their deities.
 
 ### Celestial Observations
 Followers of Astrala engage in nightly sky-watching sessions to study the stars and planets. They believe that Astrala's guidance can be found in the celestial patterns and that divination can reveal the future.

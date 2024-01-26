@@ -21,7 +21,7 @@ The players receive a message in the tavern from an anonymous person that tells 
 
 ## The Ludon Hearth Revelation
 
-As the party steps into The Lud Hearth, expecting to meet Seraphina, they are met with a surprising twist. Instead of the elusive figure, they are welcomed by a charming and eccentric priest of Ludon named Tharivol Quicksilver. With a twinkle in his eye, Tharivol invites them to witness Ludon's mysteries in the back of the tavern.
+As the party steps into The Lud Hearth, expecting to meet Seraphina, they are met with a surprising twist. Instead of the elusive figure, they are welcomed by a charming and eccentric priest of Ludon named Tharivol Silver. With a twinkle in his eye, Tharivol invites them to witness Ludon's mysteries in the back of the tavern.
 
 Entering a hidden alcove, the party discovers the Ludon altar. Tharivol, with a flourish of his hands, conjures illusions above the altar—a captivating display that tells tales of Eldertop's history, Ludon's legendary pranks, and snippets of arcane knowledge. Intrigued, the party asks about Seraphina.
 

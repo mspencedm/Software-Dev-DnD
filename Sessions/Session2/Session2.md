@@ -58,12 +58,12 @@ Twist: The rival temple members have their own reasons for seeking Seraphina, an
 
 2 Acolytes
 
-- [ ] Acolyte 1
-- [ ] Acolyte 2
+- [X] Acolyte 1
+- [X] Acolyte 2
 
 1 Spy
 
-- [ ] Spy 1
+- [X] Spy 1
 
 ### Stats
 
@@ -135,7 +135,7 @@ After staying the night to rest, Lirael will urge the party to travel to a nearb
 
 Player Choice:
 
-Travel East across the ocean to a city called Aurora's Heart. Another bustelining port city sitting on the water. Also quite a large city, metropolitan. 7 day journey
+Travel East across the ocean to a city called Aurora's Heart. Another bustelining port city sitting on the water. Also quite a large city, metropolitan. 10 day journey
 
 Travel South through or around a mountian pass to a city called Stonehaven. This is a medium sized city that is also on the water. Potentially 7 day journey but mountain pass
 

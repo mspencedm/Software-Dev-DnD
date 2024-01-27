@@ -7,6 +7,9 @@
   - [Dissolution Wave](#dissolution-wave)
   - [Corruptive Influence](#corruptive-influence)
 
+
+ Created by Machina 
+ 
 ## Appearance
 The Shard of Dissolution is a remarkable and foreboding artifact, both in its appearance and the unsettling energy it radiates. It is a crystalline shard that measures approximately six inches in length, and its form is both intriguing and unsettling:
 

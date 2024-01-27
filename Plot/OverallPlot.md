@@ -32,6 +32,10 @@ This makes Elara corrupted though and starts to twist her more and more. She has
 At the end, just like Morthos, she is going to betray the Obscurans as the Obscurans don't want the rule of any god while Morthos will betray them to try and claim himself as ruler. 
 
 
+Slowly, one by one, Elara is becoming a god slayer and she will start enslaving and killing the other arcknights with Morthos guiding hand. 
+
+I think I will also somehow have the players help in this manner, slaying weak gods or demigods along their journey.
+
 
 
 

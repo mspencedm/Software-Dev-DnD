@@ -27,6 +27,9 @@ Ezekiel - the god Morthos is not actually a deity of the arcknights - he is a fa
 
 Morthos corrupts Elara and uses her chained to the Shard of Dissolution to distort it in a way to make the Shard strong enough to shatter all connections to other planes. 
 
+This makes Elara corrupted though and starts to twist her more and more. She has become Morthos kind of personal servant without really knowing it, making her higher and higher up.
+
+At the end, just like Morthos, she is going to betray the Obscurans as the Obscurans don't want the rule of any god while Morthos will betray them to try and claim himself as ruler. 
 
 
 

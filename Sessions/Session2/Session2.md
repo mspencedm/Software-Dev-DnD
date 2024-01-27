@@ -17,6 +17,7 @@
       - [Satyr](#satyr)
       - [Blink Dog](#blink-dog)
   - [The Second Shattering](#the-second-shattering)
+  - [New Places We Shall Go](#new-places-we-shall-go)
 
 
 ## Summary
@@ -125,7 +126,23 @@ As the players talk to the guardian of the portal, before they can enter or do a
 
 Ground will shake and people are going to freak out - then dealing with the aftermath. 
 
-Players are going to be called in by Lirael Nightbloom. Because he knows the city is soon going to be in even worse shape, and because he wants to protect his daughter, he will send her away to a nearby city. 
+Players are going to be called in by Lirael Nightbloom. Because he knows the city is soon going to be in even worse shape, and because he wants to protect his daughter, he will send her away to a nearby city. Guards will be looking for her around the town so they will make their way there eventually.
+
+
+## New Places We Shall Go
+
+After staying the night to rest, Lirael will urge the party to travel to a nearby city for protection as he does not beleive Eldertop will be safe any longer. Because of how large Eldertop is, I'm going to make the surrounding villages small. 
+
+Player Choice:
+
+Travel East across the ocean to a city called Aurora's Heart. Another bustelining port city sitting on the water. Also quite a large city, metropolitan. 7 day journey
+
+Travel South through or around a mountian pass to a city called Stonehaven. This is a medium sized city that is also on the water. Potentially 7 day journey but mountain pass
+
+Travel West through an open field to a smaller but beautiful city called Windsong Valley. This is a medium size city that's in the middle of the plain that's less bustelining and more of a community. 5 day journey.
+
+Travel North to the colder city of Glacialheim. This is a smaller more villagelike community that's more in snowier conditions. This is about a 7 day journey on foot that will require players to climb a mountain. 
+
 
 
 

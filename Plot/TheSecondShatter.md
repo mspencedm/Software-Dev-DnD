@@ -10,7 +10,6 @@
   - [Impact on Society](#impact-on-society)
     - [Collapsed Trade and Diplomacy](#collapsed-trade-and-diplomacy)
     - [Planar Displacement](#planar-displacement)
-    - [Magic Instability](#magic-instability)
   - [Recovery Efforts](#recovery-efforts)
     - [Mages' Guilds Mobilize](#mages-guilds-mobilize)
     - [Expeditions to Other Planes](#expeditions-to-other-planes)
@@ -43,9 +42,6 @@ The shattered portals severed trade routes and diplomatic ties with other planes
 
 ### Planar Displacement
 Creatures and entities from other planes, displaced by the collapsing portals, roamed the material plane, causing widespread panic and posing threats to communities.
-
-### Magic Instability
-Magic, once harnessed through the portals, became erratic and dangerous. Spellcasters struggled to control their powers, leading to unintended consequences and magical disasters.
 
 ## Recovery Efforts
 

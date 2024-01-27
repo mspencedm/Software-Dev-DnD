@@ -8,7 +8,7 @@ They are trying to create a better and new World that complete eradicates Arvent
 We are the Rulers of Our Own Destiny
 
 
-The second shatter is caused by the Obscurans, specifically one of their high up members Elara. Elara pretends to work at the Feywild bridge to promote the rift between the worlds, but really she does it so she can monitor it best she can.
+The second shatter is caused by the Obscurans, specifically one of their high up members Elara. Elara works as the Captain of teh Guard.
 
 When she overhears rumors that Seraphina has stolen the Shard of Dissolution, she follows the lead. Not to do her own dirty work, she sends the changeling to pose as Tharivol and receive the Shard peacefully. However, when Seraphina seems to feel that something is off, the changeling takes matters into their own hands and ends Seraphina, disposes of the body quietyly, and takes the shard to deliver to Elara.
 

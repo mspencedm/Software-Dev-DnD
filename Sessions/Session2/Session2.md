@@ -12,12 +12,13 @@
   - [Revelations and Shadows](#revelations-and-shadows)
   - [Turned Away at the Docks](#turned-away-at-the-docks)
   - [The Hidden Portal Between Planes](#the-hidden-portal-between-planes)
-  - [Encounter - Creatures from the Feywild](#encounter---creatures-from-the-feywild)
+  - [Encounter - Creatures from the Feywild - NOT HAPPENED](#encounter---creatures-from-the-feywild---not-happened)
     - [Stats](#stats-1)
       - [Satyr](#satyr)
       - [Blink Dog](#blink-dog)
   - [The Second Shattering](#the-second-shattering)
   - [New Places We Shall Go](#new-places-we-shall-go)
+  - [Headed to Aurora's Heart](#headed-to-auroras-heart)
 
 
 ## Summary
@@ -99,7 +100,7 @@ See Eldertop -> Sylvan Haven --> Hidden Portal
 
 As the players talk to the guardian of the portal, before they can enter or do anything, the second shattering is going to occur. The portal will shatter, and as this occurs, creatures from the Feywild will seep through and enter the area. They will be hostile beasts that attack the players.
 
-## Encounter - Creatures from the Feywild
+## Encounter - Creatures from the Feywild - NOT HAPPENED
 
 1 Satyr
 
@@ -145,5 +146,7 @@ Travel North to the colder city of Glacialheim. This is a smaller more villageli
 
 
 
+## Headed to Aurora's Heart
 
+Journey to Aurora's Heart by boat
 

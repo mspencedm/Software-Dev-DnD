@@ -19,6 +19,9 @@
         - [Desserts](#desserts)
         - [Beverages](#beverages)
         - [Specialty Cocktails](#specialty-cocktails)
+      - [Hidden Portal](#hidden-portal)
+        - [Puzzle Mechanism](#puzzle-mechanism)
+        - [Revealing the Hidden Staircase](#revealing-the-hidden-staircase)
     - [Wildwood Marketplace](#wildwood-marketplace)
       - [Summary](#summary-2)
     - [The Verdant Archive](#the-verdant-archive)
@@ -246,6 +249,67 @@ Cosmic Confusion: A layered cocktail of celestial liqueurs, each representing a 
 Sylvan Serenity: A green elixir made with forest herbs and hints of wildflower honey, served in a charming, ivy-twined glass.
 
 Akron's Aegis: Named after the god of creation, this cocktail is a vibrant mix of sparkling celestial spirits, with a touch of honey and a twist of lemon. Served with a crystalline stirrer reminiscent of Akron's divine influence.
+
+#### Hidden Portal
+
+The Hidden Planar Portal of Sylvan Haven:
+
+Location: Within the depths of the Sylvan Haven, concealed beneath the floor of the barkeep's back room.
+
+##### Puzzle Mechanism
+
+To unveil the hidden staircase leading to the planar portal, adventurers must solve a mysterious puzzle carefully integrated into the design of the room. 
+
+Mirthful Elven Mosaic:
+
+An enchanting Elven mosaic graces the wall, vividly illustrating the beauty of the changing seasons in a delightful tapestry.
+Inquisitive Inquiry:
+
+Beneath the mosaic, a whimsical inscription poses a question designed to charm the minds of young adventurers.
+
+Beneath the inscription on the tablet is a pen and a piece of paper for the adventurers to put an answer. Any incorrect answer will set off a trap:
+
+Roll 1d4 to determine season (Spring, Summer, Autumn, Winter)
+
+Spring's Bloom (1d4 Damage):
+The air is filled with the fragrance of blooming flowers, and gentle breezes carry petals that, while beautiful, cause slight irritation. Adventurers may take 1d4 damage from the pollen.
+
+Summer's Warm Embrace (1d4 Damage):
+A golden warmth envelops the surroundings, but the intensity can be taxing. The sunlit expanse inflicts 1d4 damage due to the scorching heat.
+
+Autumn's Vibrant Hues (1d4 Damage):
+The ground is covered in a carpet of vibrant leaves, but as adventurers frolic through the autumnal scene, they might step on concealed hazards, dealing 1d4 damage.
+
+Winter's Frosty Trance (1d4 Damage):
+A serene hush descends, but the frosty land is not without peril. Icicles hang from branches, and slipping on icy patches inflicts 1d4 damage.
+
+Seasonal Wonders:
+
+The inquiry encourages young minds to consider the wonders and characteristics associated with each season, leading them to an answer that unlocks the hidden passage.
+Solving the Puzzle:
+
+The Elven Inquiry for Young Hearts:
+
+"I am the giggle of blooming flowers in the breeze, the cozy warmth that hugs sunlit seas. I splash the world with colors so grand, then tuck it in for a frosty land's sleep. What am I, dear adventurer?"
+Seasonal Attributes for Young Explorers:
+
+Spring - Blooming Flowers, Breeze
+Summer - Cozy Warmth, Sunlit Seas
+Autumn - Colors so Grand
+Winter - Tuck-in, Frosty Land's Sleep
+Answer:
+
+The answer young adventurers seek is "Seasons."
+
+
+##### Revealing the Hidden Staircase
+
+Upon successfully solving the puzzle, the adventurers can gently lift the revealed trapdoor to expose a staircase leading downward.
+The staircase descends into a magical chamber containing the hidden planar portal, shimmering with the energies of various realms beyond.
+Guardian Keeper:
+
+A spectral guardian, tied to the elven magic protecting the portal, appears to those who approach. It awaits confirmation of their purpose and intent before granting access to the planar gateway.
+This hidden planar portal serves as a secret passage within Sylvan Haven, providing a gateway to unknown realms. Its concealed nature and the elven-inspired puzzle add an air of mystique and intrigue, encouraging adventurers to uncover the secrets hidden beneath the bustling surface of the tavern.
 
 
 ### Wildwood Marketplace

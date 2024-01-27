@@ -11,6 +11,11 @@
       - [Spy](#spy)
   - [Revelations and Shadows](#revelations-and-shadows)
   - [Turned Away at the Docks](#turned-away-at-the-docks)
+  - [The Hidden Portal Between Planes](#the-hidden-portal-between-planes)
+  - [Encounter - Creatures from the Feywild](#encounter---creatures-from-the-feywild)
+    - [Stats](#stats-1)
+      - [Satyr](#satyr)
+      - [Blink Dog](#blink-dog)
   - [The Second Shattering](#the-second-shattering)
 
 
@@ -50,16 +55,14 @@ Objectives: Defend against the attackers and gather information about Seraphina'
 
 Twist: The rival temple members have their own reasons for seeking Seraphina, and their deity's motivations might clash with Ludon's.
 
-3 Acolytes
+2 Acolytes
 
 - [ ] Acolyte 1
 - [ ] Acolyte 2
-- [ ] Acolyte 3
 
-2 Spies
+1 Spy
 
 - [ ] Spy 1
-- [ ] Spy 2
 
 ### Stats
 
@@ -80,14 +83,49 @@ With newfound information, the party faces a choice: to delve into the mysteries
 
 ## Turned Away at the Docks
 
-The players are rejected by the guards at the dock. 
+The players are rejected by the guards at the dock. This is because when the shattering occurs there is going to be a violent break of the planes and Lirael wants to protect his daughter and keep her away. 
+
+The changeling is going to be pretending to be one of the guards who is insistent that they must turn back.
+
+If they go back to the Lud Hearth, Tharivol will inform him that there is a secret planar portal hidden in Eldertop in the basement of the Sylvan Haven. The rumor goes that in the backroom behind the barkeep there is a secret door passage way that spirals down to a secret portal connecting to the Feywild that was used by the Arcknights as a secret means of transportation so they could go between planes secretly and easily. Now, however, it was used to avoid taxes and tarriffs transporting between planes that are currently present; hence, they are illegal. However, it is rumored that most cities have some hidden planar portals within different taverns or notable places for this purpose.  
+
+If they go back to the Sylvan Haven, the bard will tell them a similar rumor. The library will also hold someone who will tell them this. 
+
+## The Hidden Portal Between Planes
+
+See Eldertop -> Sylvan Haven --> Hidden Portal
 
 
+As the players talk to the guardian of the portal, before they can enter or do anything, the second shattering is going to occur. The portal will shatter, and as this occurs, creatures from the Feywild will seep through and enter the area. They will be hostile beasts that attack the players.
+
+## Encounter - Creatures from the Feywild
+
+1 Satyr
+
+- [ ] Satyr 1
+
+3 Blink Dog
+
+- [ ] Blink Dog 1
+- [ ] Blink Dog 2
+- [ ] Blink Dog 3
+
+### Stats
+
+#### [Satyr](https://www.dndbeyond.com/monsters/17005-satyr)
+
+![Satyr](../../Resources/SatyrStats.png)
+
+#### [Blink Dog](https://www.dndbeyond.com/monsters/16809-blink-dog)
+
+![Blink Dog](../../Resources/BlinkDogStats.png)
 
 
 ## The Second Shattering
 
-Ground will shake and people are going to freak out - then dealing with the aftermath 
+Ground will shake and people are going to freak out - then dealing with the aftermath. 
+
+Players are going to be called in by Lirael Nightbloom. Because he knows the city is soon going to be in even worse shape, and because he wants to protect his daughter, he will send her away to a nearby city. 
 
 
 

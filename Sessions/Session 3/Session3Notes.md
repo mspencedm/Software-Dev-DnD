@@ -1,5 +1,4 @@
-- [Session 2 Notes](#session-2-notes)
-  - [Summary](#summary)
+- [Template](#template)
   - [Player Characters](#player-characters)
   - [NPCs](#npcs)
   - [Plot Points](#plot-points)
@@ -8,15 +7,7 @@
   - [Items](#items)
   - [Random Things](#random-things)
 
-# Session 2 Notes
-
-## Summary
-
-Stole a horse
-
-Acolyte kidnapped Sanid 
-
-Got horses - Sven and Frog
+# Template
 
 ## Player Characters
 

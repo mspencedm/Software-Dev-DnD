@@ -73,7 +73,7 @@ The Lud Hearth's hearth flickers, casting shadows over the table where destiny u
 
 As the ship cuts through the waves, a rift tears open, unleashing Feywild horrors. Merfolk and mythical beasts assail the vessel, but our adventurers prove their mettle in a fierce battle.
 
-Now, with Aurora's Hearth on the horizon, our party stands resilient, ready to face the challenges that await in a world where portals falter, darkness rises, and heroes emerge from the shadows. The journey has just begun, and the future is unknown.
+Now, with Aurora's Hearth on the horizon, our party stands resilient, ready to face the challenges that await. The journey has just begun, and the future is unknown.
 
 
 

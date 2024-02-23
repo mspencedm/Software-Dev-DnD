@@ -50,7 +50,9 @@ Cult is along the North Cliffs.
 Rumor going around the town about a group of outcasts and ravagers and terrible people living in the cliffs and woods. Wish they would go away. They bring harm to the community and are outsiders - occassionally they come into town but we want nothing to do with them. Crazy lunatics who believe the Arcknights don't exist. 
 
 
-Additionally, another rumor is whispers about the bandits who reside in the caves and keep stealing from the community.
+Additionally, another rumor is whispers about the bandits who reside in the caves and keep stealing from the community. Kids keep sneaking off and are missing dinner etc.
+
+
 Bandits are inside the South Cliffs.
 
 

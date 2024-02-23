@@ -16,8 +16,55 @@ But amid the beauty of the Cliffwood Bluffs lies danger, for the rugged terrain 
 Bandits are hiding out in these caves
 
 
+Have the cave be pretty well disguised - no guard - trusting in the disguise and hiding. 
+
+Wooden door blocked by bushes. 
+
+Magical door - write secret password to open. 
+
+Sign on the right that says
+
+STOP! Remember to write the secret password on the door before attempting to open (don't want to loose any more fingers)
+
+Playeres can try to catch a thief in town/find one (people keep losing stuff)
+
+Password of the week: shadowblade
 
 
+Bandit Group:
+
+Leader:
+
+Name: Kaelen Shadowblade
+Bandit Members:
+
+Name: Rook Blackthorn
+
+Name: Sable Nightshade
+
+Name: Asher Thornwood
+
+Name: Ember Darkwood
+
+Name: Raven Shadowcloak
+
+Name: Talon Swiftstrike
+
+Name: Willow Whisperwind
+
+Name: Vex Emberheart
+
+These young bandits operate in the shadows of the forest, using their agility, stealth, and cunning to outmaneuver their enemies and evade capture. Led by Kaelen Shadowblade, they are a tight-knit group bound together by their shared thirst for adventure and desire for freedom.
+
+They refer to each other by their last names - which they made up for themselves. 
+
+
+
+
+
+Layout: The camp consists of a cluster of makeshift structures crafted from fallen branches, moss-covered logs, and scavenged materials. These include rough-hewn shelters for sleeping, a central meeting area with a fire pit for cooking and warmth, and hidden lookout posts perched high in the treetops.
+
+Decorations: The camp is adorned with stolen trinkets, trophies, and symbols of their exploits, including tattered banners, stolen valuables, and the bones of defeated foes. These serve as reminders of their victories and fuel their sense of rebellion against authority.
 
 
 

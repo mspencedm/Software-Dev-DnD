@@ -28,6 +28,8 @@ STOP! Remember to write the secret password on the door before attempting to ope
 
 Playeres can try to catch a thief in town/find one (people keep losing stuff)
 
+Search around - note hidden underneath the mat that gives the password 
+
 Password of the week: shadowblade
 
 
@@ -59,7 +61,15 @@ These young bandits operate in the shadows of the forest, using their agility, s
 They refer to each other by their last names - which they made up for themselves. 
 
 
+Open the door to the bandit camp in the cliff. Wide open room with several smaller rooms. In front is what appears to be an alter but its has a pillow and blanket like someone has been sleeping on it. Behind the alter is a statue of a man of shadows - Ezekiel will recognize this is Morthos. 
 
+The camp is huge with lots of rooms and its filled with trinkets, but also branches etc. very makeshift lots of blankets and things. 
+
+Kids are running around in the camp, having fun. 
+
+People inside are going to be shocked by the party entering, will kind of just look at them and look guilty like they've been busted.
+
+Leader is going to be pretty defensive about the whole thing - gang started because the kids needed places to go etc. Leader will occassionally have his eyes flash black completely and turn back to normal - see if players notice while conversing with him. He will let everyone else leave but he will not be reasoned with - he will continue being a thief etc. dedicated to living. 
 
 
 Layout: The camp consists of a cluster of makeshift structures crafted from fallen branches, moss-covered logs, and scavenged materials. These include rough-hewn shelters for sleeping, a central meeting area with a fire pit for cooking and warmth, and hidden lookout posts perched high in the treetops.
@@ -71,6 +81,63 @@ Decorations: The camp is adorned with stolen trinkets, trophies, and symbols of 
 ## Left Side (North Cliffs)
 
 Apostates from the Cult of Obscurans are hiding out in these caves
+
+Outside of this cave there is going to be food planted and animals hanging as food storage etc. Clearly going to look like a community has been developing here, but a hidden one. 
+
+There are going to be people tending the gardens - big community. Someone is standing guard - definitely well lived - we will say like 40 or so people here, including women and children.
+
+They have lots of tents outside pitched. 
+
+They will definitely be aprehensive of the party as they approach, will not attack immediately, but will be very interested in why they are there.
+
+Brought to bit tent where leader is.
+
+Large cave - well lived with several rooms. Most of it seems to be used for storage. 
+
+
+### Camp
+
+Leader:
+
+Name: Elias Brightwater
+Description: Elias is a compassionate and steadfast man in his late thirties, with warm, earnest eyes that reflect his unwavering commitment to his people. He exudes a calm and reassuring presence, inspiring trust and confidence in those around him. As the leader of the apostate community, he guides them with wisdom and compassion, seeking to build a better future for all.
+
+
+Second-in-Command:
+
+Name: Thorne Darkwood
+Description: Thorne is a seasoned warrior in his forties, with a rugged demeanor and a stern countenance that belies a heart of gold. He is fiercely loyal to Elias and commands respect with his unwavering dedication to protecting their community.
+
+
+### Voice
+
+"This is the place. End them all." 
+
+Morthos will say this to Ezekiel. 
+
+
+They will talk about how they are apostates to the Obscurans - they don't believe in the arcknights - consider themselves athiests to any religion and are focused solely on survival - survivalists. 
+
+I mean if there was a higher power they certainly don't care about us there are so many troubles in the World.
+
+
+Women and children - community established. Guards - etc. basically a small village living in this forest area. 
+
+We would rather live out the rest of our lives here in these woods avoiding the judgemental stares. 
+
+
+
+### The Decision
+
+Ezekiel decides to listen to Morthos and the party attacks the people here. It should be an easy combat but still there's a lot of them so something to keep in mind for sure as there's lot of numbers and they are fighting for their life. Many will surrender. 
+
+#### The Baby
+
+Sometime whether near the end of the battle within the cave they will hear a cry. There inside is a woman trying to hide with her child underneath some blankets. If they are continuing the killing streak, they will also have to kill this child.
+
+The child 
+
+
 
 
 

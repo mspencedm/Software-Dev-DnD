@@ -13,6 +13,7 @@
     - [Tracking](#tracking)
       - [Right Side (south side)](#right-side-south-side)
       - [Left Side (north side)](#left-side-north-side)
+        - [Note](#note)
 
 
 ## Summary
@@ -83,7 +84,7 @@ If players are wandering around the woods too long looking for Bruiser or they r
 
 #### Right Side (south side)
 
-Bandits are on this side, so players are going to see mostly adult feet on this side. Additionally, to help give hints that it is bandits, we will say they tried to cover their tracks (trying to be smart) and are dropping coins/treasures along the way. 
+Bandits are on this side, so players are going to see footprints, not hidden well. Amatuar thieves.
 
 After some wandering, players will be able to find the cave that leads to the bandits hideout.
 
@@ -94,6 +95,11 @@ The Apostates from the Cult of Obscurans are going to be residing here. This is 
 Outside of this cave there is going to be food planted and animals hanging as food storage etc. Clearly going to look like a community has been developing here, but a hidden one. 
 
 After some wandering, players will be able to find the cave that leads to The Apostates from the Cult of Obscurans. 
+
+
+##### Note
+
+The rest of the session should take place at the Cliffwood Bluffs where the rest of the notes of how things go in this area play out. Outside of this area, session notes remain here.
 
 
 

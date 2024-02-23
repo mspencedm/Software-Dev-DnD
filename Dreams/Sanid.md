@@ -8,7 +8,7 @@ As you make the familiar journey back home, the world around you bathed in the s
 
 With each step, the feeling of apprehension grows, until it becomes a pounding drumbeat in your chest. Without fully understanding why, you break into a run, your feet carrying you swiftly through the dimly lit streets.
 
-And then, in the dim glow of the street lamps, you see it – a figure lying motionless in a pool of crimson, the metallic tang of blood thick in the air. You needn't draw closer to recognize the lifeless form, for you know in your heart who it is.
+And then, in the dim glow of the street lamps, you see it – a burnt figure lying motionless in a pool of crimson, the metallic tang of blood thick in the air. You needn't draw closer to recognize the lifeless form, for you know in your heart who it is.
 
 Tears blur your vision as grief washes over you like a tidal wave, shaking you to your core. Your world, once so steady and sure, is now shattered into a million fragmented pieces. Anguish and rage intertwine within you, fueling a burning resolve to seek justice for the one you have lost.
 

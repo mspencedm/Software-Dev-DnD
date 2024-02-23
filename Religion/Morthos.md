@@ -6,6 +6,7 @@
   - [Physical Description](#physical-description)
   - [Personality](#personality)
   - [Philosophy](#philosophy)
+  - [Symbol](#symbol)
   - [Rules and Tenets for Followers:](#rules-and-tenets-for-followers)
     - [Embrace the Shadows](#embrace-the-shadows)
     - [Seek Dominance](#seek-dominance)
@@ -29,11 +30,16 @@ Morthos, a malevolent entity born from the twisted remnants of cosmic energies, 
 ## Physical Description
 Morthos manifests as an ever-shifting silhouette, shrouded in a cloak of inky darkness that seems to defy the very essence of light. His eyes, gleaming with a sinister hunger, pierce through the shadows, reflecting the malefic intent that defines his being.
 
+![Morthos Image](/Resources/CharacterImages/Morthos.jpeg)
+
 ## Personality
 A tyrant at heart, Morthos revels in the suffering wrought by shadows. His personality is characterized by a sadistic pleasure derived from the despair of others. Morthos is driven by a relentless desire to spread darkness, wielding it as a weapon to undermine the cosmic balance upheld by the Arcknights.
 
 ## Philosophy
 Morthos preaches a doctrine of dominance, shadow, and the relentless pursuit of power. His philosophy rejects any notion of balance or restraint, urging his followers to embrace the unbridled force of darkness without regard for morality.
+
+## Symbol
+![Morthos Symbol](/Resources/CharacterImages/MorthosSymbol.jpeg)
 
 ## Rules and Tenets for Followers:
 

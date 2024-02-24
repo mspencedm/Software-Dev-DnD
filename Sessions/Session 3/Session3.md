@@ -4,12 +4,12 @@
   - [Summary](#summary)
   - [Backstory Link](#backstory-link)
   - [Introduce New Characters](#introduce-new-characters)
+  - [Side Quests](#side-quests)
   - [Plot Hooks](#plot-hooks)
     - [Ezekiel's Book](#ezekiels-book)
     - [Rumors](#rumors)
     - [Lost Dog](#lost-dog)
   - [Cliffwood Bluffs](#cliffwood-bluffs)
-    - [Encounter 1](#encounter-1)
     - [Tracking](#tracking)
       - [Right Side (south side)](#right-side-south-side)
       - [Left Side (north side)](#left-side-north-side)
@@ -33,6 +33,11 @@ This is going to be right at the beginning as I'm going to make it dark and enco
 ## Introduce New Characters
 
 Introduce new characters at the bar - I think I'm going to just have them be sitting there.
+
+
+## Side Quests
+
+Listed on the tavern is a bulletin from the King basically saying that anyone who goes into the forest and defeats anything in the Cliffwood Bluffs, which makes the city safer, will be rewarded. All they need to do is bring back proof of their feats to the castle and get a hearing with the king after the deed has been done. Lots of merceneries, adventuring parties etc. are here for that very reason.
 
 
 ## Plot Hooks
@@ -68,17 +73,7 @@ German Shephard named Bruiser
 
 ## Cliffwood Bluffs
 
-Players enter woods. I'm thinking of having multiple plot hooks in these woods so make it pretty foresty. Have a lot of diffrent things for the players to accomplish.
-
-
-### Encounter 1
-
-This encounter is going to be small and easy but its really just to scare the players and make them remember that the woods are dangerous. Also leaves good reason for why everyone else is a bit scared of the woods. I'm thinking wolves here. 
-
-Wolf Encounter 1 on DND Beyond - has 2 regular wolves and 2 dire wolves
-
-
-If players are wandering around the woods too long looking for Bruiser or they really seem to be getting distracted and not really looking for the cliffs etc. keep sending wolves after them
+Players enter woods. I'm thinking of having multiple plot hooks in these woods so make it pretty foresty. Have a lot of diffrent things for the players to accomplish. As they go, they could run into any of the random encounters.
 
 
 ### Tracking

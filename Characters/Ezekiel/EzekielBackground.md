@@ -14,3 +14,10 @@ Haunted by guilt and the weight of his fatal error, Ezekiel now seeks redemption
 
 
 
+## Notes
+
+Has wife and kid
+
+
+
+

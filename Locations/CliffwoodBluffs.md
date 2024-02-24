@@ -1,5 +1,25 @@
 # Cliffwood Bluffs
 
+- [Cliffwood Bluffs](#cliffwood-bluffs)
+  - [Summary](#summary)
+  - [Random Encounters](#random-encounters)
+    - [Wolf Encounter](#wolf-encounter)
+    - [Kobold Camp](#kobold-camp)
+    - [Bandit Camp](#bandit-camp)
+    - [Lions, Tigers, Bears Oh My!](#lions-tigers-bears-oh-my)
+  - [Right Side (South Cliffs)](#right-side-south-cliffs)
+  - [Left Side (North Cliffs)](#left-side-north-cliffs)
+    - [Camp](#camp)
+    - [Voice](#voice)
+    - [The Decision](#the-decision)
+      - [North Cliff Camp Encounter](#north-cliff-camp-encounter)
+        - [The Baby](#the-baby)
+      - [Aftermath](#aftermath)
+      - [Morthos's Revenge](#morthoss-revenge)
+        - [The Baby](#the-baby-1)
+      - [Aftermath](#aftermath-1)
+
+
 ## Summary
 The Cliffwood Bluffs lie to the east of Aurora's Heart, a rugged expanse of towering cliffs and dense forest that stretches as far as the eye can see. The cliffs rise dramatically from the forest floor, their sheer faces weathered by the elements over countless ages. The cliffs surround the forest on both sides. Facing the forest (east), there's a break between the cliffs known as Cliffwood Pass which the road travels along. On the right side (south) is a cliff and on the left side (north) there is another cliff.
 
@@ -8,6 +28,43 @@ The forest surrounding the Cliffwood Bluffs teems with life, its ancient trees s
 A network of winding trails and hidden pathways crisscrosses the forest, offering adventurers the chance to explore its hidden depths and uncover its secrets. From the cliff's edge, one can gaze out across the sprawling landscape, where the distant horizon fades into the hazy blue distance. At sunrise and sunset, the cliffs are bathed in the warm hues of the sun, casting long shadows that stretch out across the forest below.
 
 But amid the beauty of the Cliffwood Bluffs lies danger, for the rugged terrain and dense foliage harbor creatures both mundane and magical. Wolves prowl the forest depths, their eyes gleaming with predatory hunger, while ancient spirits and fey creatures are said to dwell within the hidden groves and shadowed hollows. Those who dare to venture into the Cliffwood Bluffs must tread carefully, for the forest holds both beauty and peril in equal measure.
+
+
+## Random Encounters
+
+Random Encounters in the Cliffwood Bluffs - just kind of nesteled anywhere in the forest - it's going to be a super thick and deep forest - lots of adventures to be had. Basically if players are just wandering around or not acting, random encounter. Feel free to just use these random encounters over and over with slight variance. 
+
+### Wolf Encounter
+
+Wolf Encounter
+
+Just wolves attacking - nothing special just kind of a wild as they are going kind of attack
+
+
+### Kobold Camp
+
+Kobold Encounter
+
+Just going to be pretty scrappy a couple of tents, mostly them just hanging about. 
+
+I'll allow the party to find like 10 copper pieces, basically nothing. Very unsuccessful people here. 
+
+
+### Bandit Camp
+
+Bandit Camp Encounter
+
+We will have this be a harder encounter with some actually challenging people. We will see if party keeps them alive or just kills everyone. We will also have them release beasts onto the party.
+
+I'll allow the party to find like 50 silver pieces on them, so still not great but a bit more success. I want the majority of the money earned from this to be from the kingdom, where hopefully they are smart or they will learn that they need proof. 
+
+
+### Lions, Tigers, Bears Oh My!
+
+Random Encounter
+
+Variety of animals attack them - just kind of thrown in these random attacks as you go
+
 
 
 
@@ -30,7 +87,7 @@ Playeres can try to catch a thief in town/find one (people keep losing stuff)
 
 Search around - note hidden underneath the mat that gives the password 
 
-Password of the week: shadowblade
+Password: shadowblade
 
 
 Bandit Group:

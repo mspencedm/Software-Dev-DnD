@@ -14,6 +14,7 @@
       - [Right Side (south side)](#right-side-south-side)
       - [Left Side (north side)](#left-side-north-side)
         - [Note](#note)
+  - [Return to Town](#return-to-town)
 
 
 ## Summary
@@ -101,6 +102,15 @@ After some wandering, players will be able to find the cave that leads to The Ap
 
 The rest of the session should take place at the Cliffwood Bluffs where the rest of the notes of how things go in this area play out. Outside of this area, session notes remain here.
 
+
+
+## Return to Town
+
+Whatever the aftermath of Cliffwood Bluffs occur, players return to town, probably will spend a long rest in the tavern. 
+
+If they haven't done one of the Cliffwood Bluffs encounteres, the townspeople will suggest it, using their previous victory as an indicator.
+
+If they ignore the Apostates from the Cult of Obscurans altogether, after 3 days, Ezekiel will be punshed. The Shadow encounter will occur wherever the players are, such as the tavern, and Morthos's arm will occur, whether shadows down Ezekiel or not. 
 
 
 

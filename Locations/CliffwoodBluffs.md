@@ -129,15 +129,53 @@ We would rather live out the rest of our lives here in these woods avoiding the 
 
 ### The Decision
 
+#### North Cliff Camp Encounter
+
 Ezekiel decides to listen to Morthos and the party attacks the people here. It should be an easy combat but still there's a lot of them so something to keep in mind for sure as there's lot of numbers and they are fighting for their life. Many will surrender. 
 
-#### The Baby
+Going to do Horde Rules here but basically we are going to put to put 8 soldiers to make it a hard encounter since they will get a lot of attacks but we are going to make the people easy to cut through - easy to kill.
+
+
+
+##### The Baby
 
 Sometime whether near the end of the battle within the cave they will hear a cry. There inside is a woman trying to hide with her child underneath some blankets. If they are continuing the killing streak, they will also have to kill this child.
 
-The child 
+The child is going to be a young boy probably less than 1 like 8 months. He will be crying, swadled in a blue blanket. 
+
+Will Ezekiel kill the child? 
 
 
+#### Aftermath
+
+Everyone is dead. If players keep the child alive - Morthos will punish Ezekiel - Morthos's Arm.
+
+If they decide to kill the child, then Morthos will tell Ezekiel he did a good job and to await the next thing, because he still has more work for him.
+
+Loot - if they do kill everyone I will reward the players generous. With everyone there, they certainly aren't rich, I'll say they find 1200 gold pieces which they can freely divide amongst themselves - if players are looting more than others individually I'll let individual players find it. 
+
+They don't find any magical items or anything too special, mostly just supplies - so if they wanted any survival supplies - rope etc. this would be the time. 
+
+
+#### Morthos's Revenge
+
+Ezekiel decides not to listen to Morthos and defies him - Morthos will send shadow monsters after the party and the people in the cliffs.
+These shadow monsters will also be encountered in a horde style.
+
+This is going to be the harder encounter - players may be downed - lots of people in the camp will die. Shadows will primarily attack Ezekiel. If he is downed, rather than killing him fully, they will take his arm. Replace it with a Shadow Arm - Morthos's Arm for Morthos's Servant.
+
+
+##### The Baby
+
+If some of the shadow monsters get into the cave the baby is going to be attacked - first its mother will be attacked and then the child.
+
+
+#### Aftermath
+
+Shadows will not have any loot. Morthos will be rightfully angry at Ezekiel but will "spare his life" for now but will not tolerate such disobedience in the future. He will be punished. 
+Replace arm with Morthos's Arm - shadow arm - make it dramatic somehow - portal maybe? 
+
+Show the power of Morthos.
 
 
 

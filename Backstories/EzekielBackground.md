@@ -10,3 +10,7 @@ Isolated and scared, Ezekiel's only company was the voice of the Fiend — a bei
 
 Haunted by guilt and the weight of his fatal error, Ezekiel now seeks redemption and a way back to his family. He must navigate the Fiend's demands and the strange new world he finds himself in, all the while contending with the internal struggle of his own making. It is a journey fraught with danger, moral uncertainty, and the quest for forgiveness, as Ezekiel's fate hangs in the balance between the dark paths of the occult and the redemptive light of home.
 
+
+
+
+

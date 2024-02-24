@@ -325,7 +325,7 @@ Core Tenets
 
 Leadership of the Arcane Academy
 
-1. Headmaster Alistair Eldron
+Headmaster Alistair Eldron
    - A venerable wizard of unparalleled knowledge and wisdom, Headmaster Alistair Eldron serves as the esteemed leader of the Arcane Academy. With decades of experience in magical scholarship and teaching, he is widely respected for his expertise and dedication to the pursuit of arcane knowledge. As headmaster, he oversees all aspects of the academy's operations, guiding its academic programs, research initiatives, and institutional policies with a steady hand and a keen intellect.
 
 Board of Governors
@@ -344,8 +344,6 @@ Master Artificer Galen Ironforge
 
 Professor Viola Fota
    - A prodigious scholar and esteemed faculty member, Professor Viola Fota represents the academic community on the Arcane Academy's Board of Governors. With a passion for teaching and a deep commitment to scholarly inquiry, she advocates for the promotion of academic excellence, intellectual freedom, and interdisciplinary collaboration within the academy, fostering an environment of creativity, innovation, and critical thinking.
-
-
 
 
 

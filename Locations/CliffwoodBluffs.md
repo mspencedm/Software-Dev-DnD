@@ -12,6 +12,7 @@
     - [Camp](#camp)
     - [Voice](#voice)
     - [The Decision](#the-decision)
+      - [Werewolf Encounter](#werewolf-encounter)
       - [North Cliff Camp Encounter](#north-cliff-camp-encounter)
         - [The Baby](#the-baby)
       - [Aftermath](#aftermath)
@@ -89,6 +90,7 @@ Search around - note hidden underneath the mat that gives the password
 
 Password: shadowblade
 
+further investigation will reveal that there is no magic binding the door
 
 Bandit Group:
 
@@ -186,11 +188,17 @@ We would rather live out the rest of our lives here in these woods avoiding the 
 
 ### The Decision
 
+#### Werewolf Encounter
+
+Werewolves live here
+
+
 #### North Cliff Camp Encounter
 
 Ezekiel decides to listen to Morthos and the party attacks the people here. It should be an easy combat but still there's a lot of them so something to keep in mind for sure as there's lot of numbers and they are fighting for their life. Many will surrender. 
 
 Going to do Horde Rules here but basically we are going to put to put 8 soldiers to make it a hard encounter since they will get a lot of attacks but we are going to make the people easy to cut through - easy to kill.
+
 
 
 

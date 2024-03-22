@@ -97,13 +97,14 @@ Bandit Group:
 Leader:
 
 Name: Kaelen Shadowblade
+
 Bandit Members:
 
 Name: Rook Blackthorn
 
 Name: Sab Nightshade
 
-Name: Asher Thornwood
+Name: Asher Nightshade
 
 Name: Ember Darkwood
 

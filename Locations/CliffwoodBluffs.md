@@ -94,6 +94,8 @@ further investigation will reveal that there is no magic binding the door
 
 Bandit Group:
 
+These people are now part of the party helping Ezekiel attack the village
+
 Leader:
 
 Name: Kaelen Shadowblade

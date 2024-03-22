@@ -101,7 +101,7 @@ Bandit Members:
 
 Name: Rook Blackthorn
 
-Name: Sable Nightshade
+Name: Sab Nightshade
 
 Name: Asher Thornwood
 

@@ -65,6 +65,8 @@ Bandits are inside the South Cliffs.
 
 ### Lost Dog
 
+Roge - dwarf man
+
 On the outskirts of town one of the nearby farmers lost their guard dog in the woods - important to get him back because there's a lot of wolves out there and they need a way to protect their sheep.
 
 German Shephard named Bruiser

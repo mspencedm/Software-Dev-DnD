@@ -19,7 +19,7 @@
   - [Starfall Lounge](#starfall-lounge)
     - [Starshow Celestial Journey of Aurora's Heart](#starshow-celestial-journey-of-auroras-heart)
   - [The Astral Archive](#the-astral-archive)
-    - [Description\*](#description-2)
+    - [Description](#description-2)
     - [Interior](#interior)
     - [Collections](#collections)
     - [Guardians](#guardians)
@@ -227,7 +227,7 @@ The Astral Archive is a grand library dedicated to the pursuit of knowledge and 
 
 Located within the heart of Aurora's Heart, the Astral Archive stands as a testament to the city's dedication to the pursuit of knowledge and enlightenment. Housed within a grand structure adorned with intricate celestial motifs, this repository of celestial lore and wisdom serves as a beacon of learning and discovery for scholars, sages, and seekers of all stripes.
 
-### Description*
+### Description
 The Astral Archive is a majestic edifice crafted from the finest materials and adorned with celestial symbols and motifs. Its towering spires reach towards the heavens, symbolizing the city's aspiration to reach ever higher in the pursuit of knowledge. The exterior is embellished with intricate carvings depicting constellations, celestial bodies, and scenes from myth and legend, creating an aura of mystique and wonder.
 
 ### Interior

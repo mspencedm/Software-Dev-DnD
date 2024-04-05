@@ -76,6 +76,8 @@ Light crossbow with 20 bolts
 Thieves' tools
 Dark hooded cloak
 
+Shard of Dissolution
+
 Holy symbol of Ludon
 
 Priest's pack

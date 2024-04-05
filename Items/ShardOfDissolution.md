@@ -8,7 +8,7 @@
   - [Corruptive Influence](#corruptive-influence)
 
 
- Created by Machina 
+ Created by Machina - cannot be used until the shard is poured into the hot fire embers of an iron crafter (blacksmith)
  
 ## Appearance
 The Shard of Dissolution is a remarkable and foreboding artifact, both in its appearance and the unsettling energy it radiates. It is a crystalline shard that measures approximately six inches in length, and its form is both intriguing and unsettling:

@@ -14,6 +14,7 @@
     - [The Decision](#the-decision)
       - [Werewolf Encounter](#werewolf-encounter)
       - [North Cliff Camp Encounter](#north-cliff-camp-encounter)
+      - [Seraphina](#seraphina)
         - [The Baby](#the-baby)
       - [Aftermath](#aftermath)
       - [Morthos's Revenge](#morthoss-revenge)
@@ -203,6 +204,9 @@ Ezekiel decides to listen to Morthos and the party attacks the people here. It s
 Going to do Horde Rules here but basically we are going to put to put 8 soldiers to make it a hard encounter since they will get a lot of attacks but we are going to make the people easy to cut through - easy to kill.
 
 
+#### Seraphina
+
+One of the villagers will be Seraphina - oohhh she will be the woman trying to hide the child. Around her neck is going to be the yellow shard of dissolution. She won't go down without a fight. 
 
 
 ##### The Baby

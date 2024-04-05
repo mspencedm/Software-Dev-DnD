@@ -323,6 +323,8 @@ Core Tenets
 
 ### Leadership
 
+Have everyone at the Arcane Academy be the werewolves. It's a random twist. They are studying a way to cure themselves and mitigate the effects. No one in town knows because they continuously brainwash them every couple of days or so. 
+
 Leadership of the Arcane Academy
 
 Headmaster Alistair Eldron

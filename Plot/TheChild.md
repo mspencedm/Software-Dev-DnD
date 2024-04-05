@@ -2,6 +2,8 @@
 
 The child found at Cliffwood Bluffs will have a necklace around his neck with a W on it.
 
+Wincent (Winny)
+
 
 ## Summary
 

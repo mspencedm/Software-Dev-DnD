@@ -40,6 +40,7 @@ Alignment: Chaotic Neutral
 
 Background: Acolyte
 Hit Points: 36 (4d8 + 12) | 30
+23
 
 Armor Class: 15
 

@@ -105,17 +105,17 @@ Bandit Members:
 
 Name: Rook Blackthorn
 
-Name: Sab Nightshade
+Name: Sab Nightshade [ X ]
 
-Name: Asher Nightshade
+Name: Asher Nightshade [ X ]
 
 Name: Ember Darkwood
 
-Name: Raven Shadowcloak
+Name: Raven Shadowcloak [ - ]
 
 Name: Talon Swiftstrike
 
-Name: Willow Whisperwind
+Name: Willow Whisperwind [ X ]
 
 Name: Vex Emberheart
 
@@ -202,6 +202,15 @@ Werewolves live here
 Ezekiel decides to listen to Morthos and the party attacks the people here. It should be an easy combat but still there's a lot of them so something to keep in mind for sure as there's lot of numbers and they are fighting for their life. Many will surrender. 
 
 Going to do Horde Rules here but basically we are going to put to put 8 soldiers to make it a hard encounter since they will get a lot of attacks but we are going to make the people easy to cut through - easy to kill.
+
+Man guarding the cave - most "decorated" soldier of this group
+
+Give him like 35hp
+
+Other 2 more capable soldiers like 20hp
+
+Cave soldier - 14hp\
+
 
 
 #### Seraphina

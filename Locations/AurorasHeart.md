@@ -36,6 +36,7 @@
     - [The Halls of Initiation](#the-halls-of-initiation)
     - [Core Principles](#core-principles)
     - [Leadership](#leadership-1)
+      - [Backstory](#backstory)
   - [The Temple of Amoria and Luminous Gardens](#the-temple-of-amoria-and-luminous-gardens)
     - [Description](#description-5)
     - [The Hall of Illumination](#the-hall-of-illumination)
@@ -326,6 +327,18 @@ Core Tenets
 Have everyone at the Arcane Academy be the werewolves. It's a random twist. They are studying a way to cure themselves and mitigate the effects. No one in town knows because they continuously brainwash them every couple of days or so. 
 
 Leadership of the Arcane Academy
+
+
+The leaders were all friends
+
+#### Backstory
+
+Back in the day when they just graduated from the arcane academy, these 6 friends were hanging out late at night at a bonfire party. They got flat out drunk and when they woke up the next morning they all found bites on their neck. Being masters of the arcane arts, they covered it up. But by the night they realized the damage was permanent. Knowing they couldn't travel far, they all got jobs at the Arcane Academy and rose in the ranks quickly because of their intelligence and reputation. Unknown to the institute, they spend all their free time and extra resoruces finding the cure to werewolves. 
+
+To cover therir tracks, they brainwash the town. They will be the only people who know anything about werewolves.
+
+Books in the library in Aurora's heart will not have any information about werewolves in it.
+
 
 Headmaster Alistair Eldron
    - A venerable wizard of unparalleled knowledge and wisdom, Headmaster Alistair Eldron serves as the esteemed leader of the Arcane Academy. With decades of experience in magical scholarship and teaching, he is widely respected for his expertise and dedication to the pursuit of arcane knowledge. As headmaster, he oversees all aspects of the academy's operations, guiding its academic programs, research initiatives, and institutional policies with a steady hand and a keen intellect.

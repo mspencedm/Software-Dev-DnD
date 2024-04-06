@@ -16,3 +16,6 @@ AC: 10
 
 I'll say the child is 1 years old for ease of math.
 
+
+Child at night will slowly show signs of being a werewolf.
+

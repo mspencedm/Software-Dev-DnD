@@ -6,6 +6,8 @@
 
 ## Summary
 
+Fought camp in Cliffwood Bluffs
 
+Ezekiel dies and loses both arms. 
 
-
+Seraphina is back and wearing the shard of dissolution. 

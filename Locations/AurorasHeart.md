@@ -3,6 +3,10 @@
 
 - [Auroras Heart](#auroras-heart)
   - [Summary](#summary)
+  - [Current Happenings and Notes](#current-happenings-and-notes)
+    - [Cutbacks](#cutbacks)
+    - [The Rumor](#the-rumor)
+    - [The Arcane Academy's Secret](#the-arcane-academys-secret)
   - [The Port](#the-port)
   - [Castle](#castle)
     - [Leadership](#leadership)
@@ -37,6 +41,7 @@
     - [Core Principles](#core-principles)
     - [Leadership](#leadership-1)
       - [Backstory](#backstory)
+    - [Leaders](#leaders)
   - [The Temple of Amoria and Luminous Gardens](#the-temple-of-amoria-and-luminous-gardens)
     - [Description](#description-5)
     - [The Hall of Illumination](#the-hall-of-illumination)
@@ -64,6 +69,26 @@ Knowledge seekers are drawn to The Astral Archive, a grand library housing a wea
 Aurora's Heart is not only a hub for trade and learning but also a place of magical commerce. The Elemental Emporium entices patrons with elemental-infused wares, creating a market atmosphere where fire, water, air, and earth converge.
 
 In this city, where the sea's embrace meets the magic of other realms, Aurora's Heart stands as a beacon of discovery, offering a tapestry of experiences that blend maritime charm with mystical enchantment.
+
+
+## Current Happenings and Notes
+
+### Cutbacks
+
+The city will announce that they will be paying half their usual price for items looted in the forst - much harder if not near impossible to make a good living on that. 
+
+Repurcussions I'm sure will occur
+
+
+### The Rumor
+
+Rumors about stuff getting stolen continue.
+
+As far as werewolves, no one knows anything about them. At all. Completely stumped.
+
+### The Arcane Academy's Secret
+
+The Arcane Academy is secretly researching the cure to werewolf bites and stopping people from turning into werewolves. Tests so far have been unsuccessful but it's hard to figure out since they all become werewolves.
 
 
 ## The Port
@@ -324,24 +349,20 @@ Core Tenets
 
 ### Leadership
 
-Have everyone at the Arcane Academy be the werewolves. It's a random twist. They are studying a way to cure themselves and mitigate the effects. No one in town knows because they continuously brainwash them every couple of days or so. 
+The leaders are all friends from childhood. But the headmaster has a secret and her friends all know about it. They founded the University years ago to dedicate towards the research of curing lycanthropy from people who are born with it. 
 
-Leadership of the Arcane Academy
-
-
-The leaders were all friends
 
 #### Backstory
 
-Back in the day when they just graduated from the arcane academy, these 6 friends were hanging out late at night at a bonfire party. They got flat out drunk and when they woke up the next morning they all found bites on their neck. Being masters of the arcane arts, they covered it up. But by the night they realized the damage was permanent. Knowing they couldn't travel far, they all got jobs at the Arcane Academy and rose in the ranks quickly because of their intelligence and reputation. Unknown to the institute, they spend all their free time and extra resoruces finding the cure to werewolves. 
+When Maldro was in her early 20's she fell in love with a man named Tagrin Eldron. However, Tagrin wasn't normal, he was a werewolf. But he was embarassed at this information so he hid it from his wife. And all was well. Until he went away on some travels. When he returned, he came back to surprisng news, Maldro, his wife, had bore a child, a baby girl.
 
-To cover therir tracks, they brainwash the town. They will be the only people who know anything about werewolves.
-
-Books in the library in Aurora's heart will not have any information about werewolves in it.
+Her name is Hasro. Hasro Eldron. And he knew he couldn't hide his secret any longer. He told his wife and, in her rage, she removed him from her life, telling him to leave her. Out of respect, he listened. But he didn't go far, because he knew that there could be trouble brewing and his child, Hasro, would have to learn to control her powers. 
 
 
-Headmaster Alistair Eldron
-   - A venerable wizard of unparalleled knowledge and wisdom, Headmaster Alistair Eldron serves as the esteemed leader of the Arcane Academy. With decades of experience in magical scholarship and teaching, he is widely respected for his expertise and dedication to the pursuit of arcane knowledge. As headmaster, he oversees all aspects of the academy's operations, guiding its academic programs, research initiatives, and institutional policies with a steady hand and a keen intellect.
+### Leaders
+
+Headmaster Maldro Eldron
+   - A venerable wizard of unparalleled knowledge and wisdom, Headmaster Maldro Eldron serves as the esteemed leader of the Arcane Academy. With decades of experience in magical scholarship and teaching, she is widely respected for her expertise and dedication to the pursuit of arcane knowledge. As headmaster, she oversees all aspects of the academy's operations, guiding its academic programs, research initiatives, and institutional policies with a steady hand and a keen intellect.
 
 Board of Governors
 

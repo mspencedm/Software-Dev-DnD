@@ -31,7 +31,7 @@ If Winny bites anyone they will have to make a constitution saving throw.
 
 The children who are all marked by Morthos are complaining about seeing apparations. They are brought to the Arcane Academy for a cure to be found.
 
-Legend says there is 
+Legend says there is a special stone of purification 
 
 
 ### Child of Amoria

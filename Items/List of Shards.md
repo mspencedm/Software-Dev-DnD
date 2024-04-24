@@ -3,6 +3,7 @@
 
 - [List of Shards](#list-of-shards)
   - [Summary](#summary)
+    - [Inconsistent Stories](#inconsistent-stories)
   - [Plot](#plot)
   - [Shard of Dissolution](#shard-of-dissolution)
   - [Shard of Celestial Insight](#shard-of-celestial-insight)
@@ -20,6 +21,12 @@
 List of Shards and their deity
 
 There are 9 shards, each one created by a deity - Akron doesn't have a shard because he merged them all together. 
+
+### Inconsistent Stories
+
+Some believe there are 10 shards and Akron had created a shard and others state that Akron doesn't have a shard but instead his shard is the combination of the other 9 and others say there are only 9 shards. Still others believe the shards are made up. Everything about it is obscure and inconsistent - hard to find the truth.
+
+
 
 ## Plot
 

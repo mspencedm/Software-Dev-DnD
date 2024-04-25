@@ -8,6 +8,7 @@
     - [The Rumor](#the-rumor)
     - [The Arcane Academy's Secret](#the-arcane-academys-secret)
   - [The Port](#the-port)
+    - [Ship to the Tempest's Maw](#ship-to-the-tempests-maw)
   - [Castle](#castle)
     - [Leadership](#leadership)
   - [Portals Plaza](#portals-plaza)
@@ -20,6 +21,7 @@
     - [Ambiance](#ambiance)
     - [Bartender](#bartender)
     - [Menu](#menu)
+    - [Mercenary for Hire](#mercenary-for-hire)
   - [Starfall Lounge](#starfall-lounge)
     - [Starshow Celestial Journey of Aurora's Heart](#starshow-celestial-journey-of-auroras-heart)
   - [The Astral Archive](#the-astral-archive)
@@ -96,6 +98,18 @@ The Arcane Academy is secretly researching the cure to werewolf bites and stoppi
 Description Aurora's Heart boasts a bustling and well-organized port that serves as a hub for trade and maritime activities. Large ships from distant lands dock along the expansive quays, unloading exotic goods and treasures.
 
 Notable Feature The lighthouse at the entrance of the port is enchanted, casting a mesmerizing aurora-like display over the waves, guiding ships safely to the harbor.
+
+### Ship to the Tempest's Maw
+
+Players can either rent a ship and try to sail themselves (or use their merecenary for hire) or they can pay someone else to take them there.
+
+Usually, a boat wouldn't be too expensive since it's not too far from shore but considering the dangerous mission and waters, people are upcharging or they are desperate. 
+
+1 sp a day per head to rent a keelboat.
+
+2 sp a day per head to rent a sailboat.
+
+
 
 
 ## Castle
@@ -201,6 +215,11 @@ A hearty plate featuring smoked fish, salted crackers, pickled seaweed, and a se
 
 Grilled shrimp or fish tacos with tangy slaw, avocado, and a zesty cilantro-lime dressing.
 Patrons at The Whispering Mermaid not only savor delightful drinks and delectable bites but also leave with the lingering melodies of Coraline's enchanting voice, making it a tavern where the sea's tales come to life.
+
+
+### Mercenary for Hire
+
+
 
 
 

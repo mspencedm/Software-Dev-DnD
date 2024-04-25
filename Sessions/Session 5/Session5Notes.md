@@ -5,6 +5,8 @@
   - [Plot Points](#plot-points)
     - [Cries in the Night](#cries-in-the-night)
     - [Mark of Morthos](#mark-of-morthos)
+    - [Reward for Service](#reward-for-service)
+    - [The Tempest's Maw](#the-tempests-maw)
     - [Child of Amoria](#child-of-amoria)
   - [Lore](#lore)
   - [Religion](#religion)
@@ -39,7 +41,7 @@ Each night if Winny is dramatically crying and feels a strong state of emotion h
 
 If it is a full moon Winny will turn into a werewolf that night.
 
-If Winny bites anyone they will have to make a constitution saving throw.
+If Winny bites anyone they will have to make a constitution saving throw. DC 5
 
 
 ### Mark of Morthos
@@ -49,11 +51,27 @@ The children who are all marked by Morthos are complaining about seeing apparati
 Legend says there is a special stone of purification and healing that can be found in an underwater cave. No one goes because there is a beast living out of hte cave that is bringing down ships plus it's probably a myth anyway. Take the chance?
 
 
+### Reward for Service
+
+Trade has become hard in Aurora's Heart with the loss of Eldertop. Of course, there are other coastal cities, but everyone is being extra diligent. 
+
+Unfortuantely for the city, trade has also been slow because there has been a beast bringing down ships in the depths of the waters near the dock so ships have been having to go around, which takes more time and is hard to track. 
+
+This is now becoming known as The Tempest's Maw. If someone ventures out to the section of water and can investigate what is happening, then they will gain a big reward (500GP) if they can prove they put an end to the nonsense.
+
+### The Tempest's Maw
+
+Somehow players will need to figure out that this is a dungeon completely underwater that they are going to have to swim down to go to. 
+
+
+
 ### Child of Amoria
 
 If they are walking around town the party will see a group of orphans running around outside the Temple of Amoria. The temple takes in orphans as they love and care on the loss. 
 
 They will offer to watch Winny. 
+
+Additionally, the Temple of Amoria will be a good place to learn more about the stone of purification. Some call it the Stone of Central Essence (if someone has a history with Amoria or rolls high on religion they may gather that this is a shard name). 
 
 
 

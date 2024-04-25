@@ -1,11 +1,16 @@
 # Seraphina
 
 - [Seraphina](#seraphina)
+  - [Character Sheet](#character-sheet)
   - [Major Story Points](#major-story-points)
   - [Description](#description)
     - [Physical](#physical)
   - [Backstory](#backstory)
-  - [Stats](#stats)
+
+
+## Character Sheet
+
+[Sheet](https://www.dndbeyond.com/characters/123331663)
 
 
 ## Major Story Points
@@ -32,69 +37,3 @@ One fateful day, Seraphina learned of a dangerous plan by the Obscurans to use t
 
 Equipped with her skills as a cleric of Ludon and an assassin rogue, Seraphina ventured into the underground lairs of the Obscurans, where she uncovered the ornate box containing the Shard of Dissolution. With it in her possession, she now seeks to return it to her priesthood and prevent the imminent calamity it could bring to the City of Celestial Tears.
 
-## Stats
-
-Class: Level 1 Cleric, Level 3 Assassin Rogue
-
-Alignment: Chaotic Neutral
-
-Background: Acolyte
-Hit Points: 36 (4d8 + 12) | 30
-23
-
-Armor Class: 15
-
-Speed: 30 feet
-
-Abilities: Str: 10 (+0) | Dex: 18 (+4) | Con: 14 (+2) | Int: 14 (+2) | Wis: 16 (+3) | Cha: 12 (+1)
-
-Skills: Acrobatics: +6 | Deception: +3 | Insight: +5 | Religion: +4 | Stealth: +8
-
-
-Class Features:
-
-Cleric:
-
-Divine Domain: Trickery
-
-Spellcasting (Divine spells and cantrips)
-
-
-Rogue:
-
-Sneak Attack (2d6)
-
-Cunning Action
-
-Assassinate
-
-Equipment:
-
-Dagger
-
-Light crossbow with 20 bolts
-
-Thieves' tools
-Dark hooded cloak
-
-Shard of Dissolution
-
-Holy symbol of Ludon
-
-Priest's pack
-
-Set of common clothes
-
-10 gold pieces
-
-Spells:
-
-Cleric Cantrips: Light, Mending
-
-Level 1 Cleric Spells: Cure Wounds, Shield of Faith, Bless
-
-Level 2 Cleric Spells: Hold Person
-
-Level 1 Rogue Spells: Disguise Self
-
-Seraphina is a versatile and cunning character, adept at both stealthy infiltration and divine magic. Her quest to protect Arventia from the Obscurans and restore the balance between magic and technology is guided by her deep faith in Ludon, the Trickster, and her unwavering respect for the Arcknights.

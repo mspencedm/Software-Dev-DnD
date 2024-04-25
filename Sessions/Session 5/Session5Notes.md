@@ -63,6 +63,10 @@ This is now becoming known as The Tempest's Maw. If someone ventures out to the 
 
 Somehow players will need to figure out that this is a dungeon completely underwater that they are going to have to swim down to go to. 
 
+If player's ask around they will find out that some people have traveled into the Tempest's Maw for the reward as well and found a lot of items underneath the water. There is something down there.
+
+See the Tempest's Maw for all the information.
+
 
 
 ### Child of Amoria

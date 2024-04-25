@@ -219,7 +219,7 @@ Patrons at The Whispering Mermaid not only savor delightful drinks and delectabl
 
 ### Mercenary for Hire
 
-
+Finn Tidecaller is the mercenary for hire. See his page for more details. He is willing to go anywhere. But he will not break the law nor kill innocents as he's put that behind him.
 
 
 

@@ -69,6 +69,7 @@ See the Tempest's Maw for all the information.
 
 
 
+
 ### Child of Amoria
 
 If they are walking around town the party will see a group of orphans running around outside the Temple of Amoria. The temple takes in orphans as they love and care on the loss. 

@@ -10,7 +10,7 @@
   - [Left Room](#left-room)
   - [Down the stairs](#down-the-stairs)
   - [Aftermath](#aftermath)
-  - [Payment](#payment)
+    - [Payment](#payment)
 
 
 
@@ -147,7 +147,7 @@ They will see, in full form, a giant dragon turtle. You recognize the spikes bei
 Players will have to navigate back. If they can speak draconic and talk to the dragon turtle, he will offer them a ride back close to shore.
 
 
-## Payment
+### Payment
 
 Players will need to go back and report to the castle. They probably did not take anything off the dragon turtle or think of it. They will have to convince the castle what they saw and what happened. If they fully believe them, they will pay right away. If not, they will wait a few days to make sure trade has gone down and then pay them.
 

@@ -7,7 +7,7 @@ Tracking days in the campaign
 
 ## Current
 
-Day 27 of Celestia.
+Day 29 of Celestia.
 
 
 ## Full Moon

@@ -2,6 +2,7 @@
 
 - [Arventia](#arventia)
   - [Summary](#summary)
+  - [Current State](#current-state)
     - [Historical](#historical)
   - [Full History](#full-history)
   - [Cities](#cities)
@@ -11,6 +12,11 @@
 In a world where magic and technology entwine, there exists a realm known as Arventia. This land of wonder and mystery is a place where floating cities grace the skies, and ancient deities guide the destinies of its inhabitants. From bustling metropolises to hidden enclaves, the people of Arventia seek to unlock the secrets of the cosmos, forging a path towards a brighter future.
 
 In this extraordinary realm, knowledge is a treasure, and innovation knows no bounds. But amidst the marvels and advances, there are those who harbor secrets, and some who seek to unravel the very fabric of reality. Join us as we journey into the heart of Arventia, where the balance between magic and machinery teeters on a delicate precipice, and the history of a once-advanced civilization holds the key to its destiny.
+
+
+## Current State
+
+Arventia is in this time of rebuilding. IT seems like every city is mroe stand alone. Maybe regions are now starting to establish? Maybe players can join in that process as they get higher level and their respect grows they could be part of making those decisions.
 
 
 ### Historical

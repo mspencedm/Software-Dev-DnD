@@ -5,6 +5,7 @@
   - [Prison Escape](#prison-escape)
     - [Welcome to Death Row](#welcome-to-death-row)
     - [Split Ways - Players Successfully Escape](#split-ways---players-successfully-escape)
+    - [Split Ways - Players Do Not Succesfully Escape](#split-ways---players-do-not-succesfully-escape)
 
 
 ## Summary
@@ -41,7 +42,24 @@ This news is slwoly making its way to Aurora's Heart.
 
 Sven will have just enough money to buy them some very basic weapons but not much else. Players are going to need to figure out a way to make more money.
 
+Make up on the spot: guilds or jobs that the different temples want done that they will pay for completing. Wanted boards on taverns etc. things of that nature. Alternatively they could also do normal jobs of course. 
 
+
+### Split Ways - Players Do Not Succesfully Escape
+
+Players are lined up on death row besides 3 other figures. The 3 figures beside you - they are all wearing masks
+
+Varis "Roar" King - 28 year old man wearing a lion mask
+
+Garrick "X" Horn - 58 year old man wearing an ox mask
+
+Zara "Chain" Queen - 26 year old female wearing a lion mask
+
+
+As you are standing chained in the middle of the city on death row, the 3 people next to you will unchain themselves by breaking the chain as they all transform into these werebeasts, their masks ripping apart. They will begin to attack the guards but will be focused on running away.
+
+
+If you follow you can join their Group - the Order of Lunary Ascendancy.
 
 
 

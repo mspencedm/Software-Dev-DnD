@@ -86,7 +86,7 @@ Repurcussions I'm sure will occur
 
 Rumors about stuff getting stolen continue.
 
-As far as werewolves, no one knows anything about them. At all. Completely stumped.
+As far as werewolves, no one knows a ton about them.
 
 ### The Arcane Academy's Secret
 
@@ -390,6 +390,7 @@ Lady Ka Rirdan
 
 Archmage Sil Kevrodz
    - Renowned as one of the most powerful and accomplished wizards of his generation, Archmage Sil Kevrodz lends his unparalleled magical prowess and insight to the governance of the Arcane Academy. As a member of the Board of Governors, he provides invaluable guidance and counsel on matters pertaining to magical theory, research methodology, and curriculum development, ensuring that the academy remains at the forefront of arcane studies.
+   - Secretly betraying Headmaster Maldro, he runs an "underground" but very established society that is focused on controlling lycanthropy. He is making a serum that not only turns someone temporarily into a werewolf for the extra strength but also makes them immune to silver. He has lots of prototypes with bad side effects.
 
 High Priestess Lelre Shiv
    - Revered as a spiritual leader and custodian of ancient magical traditions, High Priestess Lelre Shiv represents the divine aspect of magic on the Arcane Academy's Board of Governors. Drawing upon her deep connection to the mystical forces of the cosmos, she advocates for the integration of spiritual and metaphysical perspectives into the academy's teachings, fostering a holistic understanding of magic that transcends conventional boundaries.

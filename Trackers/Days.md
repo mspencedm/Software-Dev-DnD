@@ -7,7 +7,7 @@ Tracking days in the campaign
 
 ## Current
 
-Day 29 of Celestia.
+Day 30 of Celestia (after night in prison).
 
 
 ## Full Moon

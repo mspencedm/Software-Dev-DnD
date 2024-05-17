@@ -38,7 +38,7 @@ Players escape with nothing but hte clothes on their back. No money. No nothing.
 
 Sven will be back in town. Sven may be their saving grace. He will return with news that Eldertop is basically destroyed. The biggest news - it is now being ruled by a dragon - red fire dragon has scorched the city. He has not heard back anything about Lirael, Evaluna's dad, it seems as if he has fallen off the face of the planet - no one knows where he is. Sven barely made it out alive as Eldertop begins to crumble.
 
-This news is slwoly making its way to Aurora's Heart.
+This news is slowly making its way to Aurora's Heart.
 
 Sven will have just enough money to buy them some very basic weapons but not much else. Players are going to need to figure out a way to make more money.
 

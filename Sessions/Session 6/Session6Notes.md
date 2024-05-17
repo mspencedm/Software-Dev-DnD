@@ -11,7 +11,11 @@
 
 ## Player Characters
 
+- Ezekiel is dead
+
 ## NPCs
+
+
 
 ## Plot Points
 

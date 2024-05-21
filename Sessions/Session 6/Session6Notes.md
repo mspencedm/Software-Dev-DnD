@@ -19,10 +19,22 @@
 
 ## Plot Points
 
+
+
 ## Lore
+
+
+
 
 ## Religion
 
+
+
+
 ## Items
+
+
+
+
 
 ## Random Things

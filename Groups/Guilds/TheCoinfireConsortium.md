@@ -1,14 +1,32 @@
 # The Coinfire Consortium
 
+
+## Summary
+
 Guild Name: Coinfire Consortium
 
 Guild Motto: "Wealth is Power, Silence is Gold."
 
 Guild Leader: Aurelia Giltsteel
 
-Guild Headquarters: The Gilded Vault, hidden beneath the opulent façade of a prestigious bank in the heart of the city - different city 5 days travel North - Exodar.
+## Headquarters
+The Gilded Vault, hidden beneath the opulent façade of a prestigious bank in the heart of the city - different city 5 days travel North - Exodar.
 
-Organizational Structure: The Coinfire Consortium operates under a hierarchy reminiscent of a noble court, with Aurelia Giltsteel at its helm as the Mastermind. Beneath her are the Guild Elders, a council of seasoned thieves who oversee different aspects of the guild's operations. Below them are the Shadows, skilled operatives who carry out the guild's missions with finesse and precision.
+## Organizational Structure
+The Coinfire Consortium operates under a hierarchy reminiscent of a noble court, with Aurelia Giltsteel at its helm as the Mastermind. Beneath her are the Guild Elders, a council of seasoned thieves who oversee different aspects of the guild's operations. Below them are the Silent Blades, skilled operatives who carry out the guild's missions with finesse and precision.
+
+Mastermind: Aurelia Giltsteel
+
+Guild Elders:
+- Kind of sporadically placed in "regions" and areas as Arventia is rebuilding
+
+Captains:
+- Leaders of squads/teams within the guild underneath each "region" or area
+
+Silent Blades:
+- Members
+- Lowest rank is 1 and it just progresses up
+
 
 Control Over Society: While not openly controlling society, the Coinfire Consortium wields significant influence behind the scenes, especially within the circles of wealth and power. They have a network of informants and allies in key positions, allowing them to manipulate events to their advantage.
 
@@ -27,5 +45,5 @@ Rogue Activities: Members of the Coinfire Consortium may be tasked with a variet
 
 ## The Job
 
-To prove your worthiness and gain the ability to join The Coinfire Consortium players will have ot prove themselves - this should hopefully lead to the Tempest's Maw and Leviathan Embrace.
+To prove your worthiness and gain the ability to join The Coinfire Consortium players will have to prove themselves - this should hopefully lead to the Tempest's Maw and Leviathan Embrace.
 

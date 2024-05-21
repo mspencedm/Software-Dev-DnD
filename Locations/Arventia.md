@@ -16,7 +16,7 @@ In this extraordinary realm, knowledge is a treasure, and innovation knows no bo
 
 ## Current State
 
-Arventia is in this time of rebuilding. IT seems like every city is mroe stand alone. Maybe regions are now starting to establish? Maybe players can join in that process as they get higher level and their respect grows they could be part of making those decisions.
+Arventia is in this time of rebuilding. It seems like every city is more stand alone. Maybe regions are now starting to establish? Maybe players can join in that process as they get higher level and their respect grows they could be part of making those decisions.
 
 
 ### Historical

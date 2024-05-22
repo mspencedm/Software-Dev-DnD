@@ -94,8 +94,6 @@ They will not really want to stay and talk to the party. They will inform them t
 
 ## Right Room
 
-You enter the right side room and notice it is quite dark, practically impossible to see anything.
-
 There will be panels on the floor and if the players keep walking in the dark, if they trigger a panel an arrow will shoot out at them - 1d4 damage.
 
 If they are able to have darkvision or use light, they can see there are tile panels on the ground. Some of the tiles have waves while others have pictures of palm trees. Players will easily be able to figure out that waves will cause arrows to fly at them while the land tiles are fine to stand on.
@@ -112,7 +110,7 @@ If someone puts money or something else of only monetary value, it will be tripl
 
 Once the pedestal is used, it will stop glowing. It will no longer work.
 
-
+Restored through some special ceremony?
 
 ## Left Room
 

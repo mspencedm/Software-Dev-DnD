@@ -11,14 +11,36 @@
 
 ## Player Characters
 
+
+
+
+
+
 ## NPCs
+
+
+
+
 
 ## Plot Points
 
+
+
+
 ## Lore
+
+
 
 ## Religion
 
+
+
 ## Items
 
+
+
 ## Random Things
+
+
+
+

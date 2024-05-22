@@ -23,6 +23,8 @@ Guild Elders:
 Captains:
 - Leaders of squads/teams within the guild underneath each "region" or area
 
+Captain in Aurora's Heart - Thalor
+
 Silent Blades:
 - Members
 - Lowest rank is 1 and it just progresses up

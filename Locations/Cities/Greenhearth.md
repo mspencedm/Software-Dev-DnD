@@ -39,6 +39,10 @@ Greenhearth is home to the Forester’s Hall, where the town’s foresters and w
 
 Every year, Greenhearth hosts the Harvest Festival, a grand celebration of the town’s agricultural bounty. The festival features music, dance, feasts, and various competitions, attracting visitors from near and far.
 
+Giant mound tree of vines in the middle of the festival that everyone sticks their goals for the year onto as a way for Verdis to bless them.
+
+During the night of the harest festival there will be a ceremony with fire and lights with will-o-wisps that will become violent. The beautiful trees surrounding the area will attack and the giant mound will also attack.
+
 
 ## Notable Residents
 

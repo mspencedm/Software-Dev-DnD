@@ -5,6 +5,7 @@
     - [Dreams](#dreams)
     - [Consider the Deal](#consider-the-deal)
     - [Players Refuse the Deal](#players-refuse-the-deal)
+    - [Mother Nature Attacks](#mother-nature-attacks)
 
 
 ## Summary
@@ -43,5 +44,16 @@ Greenhearth will have its Harvest Festival week occurring to give players a bigg
 
 
 Concern - there seems to be a disruption in Mother Nature and Greenhearth can feel a disturbance.
+
+
+### Mother Nature Attacks
+
+In Greenhearth during the Harvest Festival mother nature attacks! Is Verdis upset? No one knows what's happening but it looks like nature, who they respect and worship so much, is fighting against them.
+
+Probably try to tie the fight into the will-o-wisps and have it be at night?
+
+Encounter - Greenhearth Havest Festival
+
+
 
 

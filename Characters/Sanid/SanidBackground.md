@@ -1,3 +1,5 @@
+Wife Name: Aria
+
 Sanid's story has a compelling blend of tenderness and tragedy that can be deepened with more descriptive language and context. Here's an enhanced version of her backstory:
 
 Sanid's tale begins in the heartwoven tapestry of a half-orc village, nestled in the bosom of the Emerald Canopy. She was the progeny of an unlikely love—a gentle-hearted orc maiden and a human blacksmith whose muscles sung with the melody of the anvil. In this bastion of unity, Sanid blossomed amidst the dance of hammer and forge, a child whose laughter mingled with the sparks of the hearth.

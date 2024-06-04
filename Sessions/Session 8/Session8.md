@@ -37,8 +37,11 @@ If players refuse the deal then I will try and push them more into the guild rou
 
 I actually have a fair amount of plot strings so also players could consider the deal later and want ot wrap up some plot things here - this is regarding things like the guilds and werewolves.
 
-Maybe have the players travel to the next nearby town? 
+Maybe have the players travel to the next nearby town - Greenhearth
+
+Greenhearth will have its Harvest Festival week occurring to give players a bigger reason to stay. This is a quiet, quaint forest town. It relies heavily on Aurora's Heart and is almost essentially a small town sector of the city. It greatly respects Queen Aurora and is essentially just another part of this larger city. Arventia doesn't have established regions yet but if it did this would definitely be a connected region.
 
 
+Concern - there seems to be a disruption in Mother Nature and Greenhearth can feel a disturbance.
 
 

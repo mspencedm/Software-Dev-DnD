@@ -15,3 +15,6 @@ With vengeance as her crucible, she battled the marauders, their shadows etched 
 Elevated to a hero among her kin, Sanid’s legend grew, yet the title was a hollow crown. The forge’s glow, once a comfort, now whispered of vengeance, and she heeded its call. With every weapon shaped, with every echo of hammer upon anvil, she swore an oath to seek retribution against the nebulous network of foes responsible for her heart’s eclipse.
 
 Now, Sanid walks a path lined with purpose and pain, her grief a cloak, her resolve a blade, as she journeys to etch justice upon the souls of those who tore the stars from her sky.
+
+
+Bandits attacked - (wife pregnant with son)

@@ -4,3 +4,7 @@ As Fara-Quill grew older, she discovered her innate talent for druidic magic and
 
 Fara-Quill’s reputation as a free-spirited druid spread far and wide throughout the land, drawing others towards her magnetic presence. Despite this newfound attention, she remained true to herself and continued on her journey without hesitation or fear. For Fara-Quill knew that true freedom could only be found in following one’s own heart and trusting in the wisdom of nature's whispers beneath every rustling leaf. And so she danced through life like a leaf caught on a breeze: joyful, untamed, always ready for wherever destiny may take her next. 
 Despite never staying in one place for long, Fara-Quill always felt at home among nature's wild beauty. Her free-spirited nature led her on countless adventures across mountains and valleys, rivers and plains. And though many questioned why she lived such a transient life, Fara-Quill simply smiled and replied: "I am but a leaf carried by the wind - my roots grounded deep in Mother Earth.
+
+
+
+Woke up in the forest very young - woke up in the forest not knowing where she came from 

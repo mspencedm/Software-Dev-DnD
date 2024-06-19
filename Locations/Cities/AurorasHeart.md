@@ -52,10 +52,10 @@
     - [The Celestial Chapel](#the-celestial-chapel)
   - [The Underwater Observatory](#the-underwater-observatory)
     - [Description](#description-6)
-    - [The Grand Chamber](#the-grand-chamber)
-    - [The Coral Gardens](#the-coral-gardens)
-    - [The Abyssal Rift](#the-abyssal-rift)
-    - [The Aquatic Aviary](#the-aquatic-aviary)
+    - [Forest](#forest)
+    - [Savannah](#savannah)
+    - [Grassland](#grassland)
+    - [Ocean](#ocean)
 
 
 ## Summary
@@ -431,17 +431,23 @@ Perched atop a verdant hill overlooking the temple grounds is the Celestial Chap
 Nestled beneath the azure waves that lap gently against the shores of Aurora's Heart lies the Underwater Observatory, an extraordinary marvel of engineering and innovation that offers visitors a glimpse into the hidden wonders of the ocean depths. Suspended within a shimmering dome of enchanted glass, the observatory provides a panoramic view of the vibrant underwater world that teems with life and beauty, captivating the imagination and stirring the soul with its ethereal splendor.
 
 ### Description
-The Underwater Observatory is a feat of architectural ingenuity and magical craftsmanship, its gleaming structure seamlessly integrated into the natural beauty of the ocean floor. Encased within a colossal dome of enchanted glass, the observatory's interior is bathed in a soft, iridescent glow that emanates from the bioluminescent flora and fauna that thrives within the surrounding waters. Visitors descend through a spiraling staircase that winds its way down into the depths, their anticipation growing with each step as they prepare to embark on an unforgettable journey beneath the waves.
+Surrounded by fish tanks. Stairs go down.
 
-### The Grand Chamber
-At the heart of the observatory lies the Grand Chamber, a vast cavernous space that serves as the focal point of the underwater complex. Lined with towering columns of iridescent coral and shimmering pearl, the chamber exudes an otherworldly beauty that captivates the senses and transports visitors to a realm of enchantment and wonder. In the center of the chamber, a series of crystalline viewing platforms provide panoramic views of the surrounding marine life, allowing guests to observe everything from graceful sea turtles and playful dolphins to majestic whales and elusive sea dragons in their natural habitat.
 
-### The Coral Gardens
-Surrounding the observatory's main chamber are the Coral Gardens, a kaleidoscopic tapestry of vibrant coral reefs and exotic marine flora that bloom in a riot of colors and shapes beneath the gentle currents of the sea. Here, visitors can wander along meandering pathways that wind their way through the submerged landscape, marveling at the intricate beauty of the coral formations and the myriad creatures that call them home. Schools of iridescent fish dart in and out of the coral's branches, their shimmering scales catching the light in a dazzling display of color and movement.
+### Forest
 
-### The Abyssal Rift
-Beyond the Coral Gardens lies the Abyssal Rift, a yawning chasm that plunges into the unfathomable depths of the ocean floor. Shrouded in perpetual darkness, the rift is home to a host of mysterious and enigmatic creatures that dwell in the deepest reaches of the abyss. Visitors can peer over the edge of the rift from the safety of the observatory's viewing platforms, their hearts racing as they catch glimpses of strange and otherworldly beings that drift through the inky blackness below.
 
-### The Aquatic Aviary
-Located within the observatory's upper levels is the Aquatic Aviary, a tranquil sanctuary where visitors can observe a diverse array of marine birds that inhabit the coastal cliffs and rocky outcroppings surrounding Aurora's Heart. From graceful albatrosses and majestic pelicans to playful puffins and elegant terns, the aviary is a haven for avian enthusiasts and nature lovers alike, offering a rare opportunity to witness the beauty and diversity of the ocean's avian inhabitants up close and personal.
+
+### Savannah
+
+
+
+### Grassland
+
+
+
+### Ocean
+Tanks
+
+
 

@@ -21,12 +21,6 @@ Garrick "X" Horn - 58 year old man WereOx
 Zara "Chain" Queen - 26 year old female Werelionness
 
 
-Kaelin "Moonclaw" Ardeth
-
-Role: Guild Leader of the district area
-Werebeast Form: Werewolf
-Description: Kaelin is a tall, imposing figure with piercing blue eyes and silver-streaked black hair. In his werewolf form, he becomes a fearsome and agile predator, leading the guild with a blend of charisma and ruthless efficiency.
-
 
 Liora "Shadowpelt" Miren
 
@@ -35,28 +29,28 @@ Werebeast Form: Werepanther
 Description: Liora is a stealthy and cunning woman with dark skin and keen green eyes. As a werepanther, she moves silently through the night, making her an expert in reconnaissance and covert operations.
 
 
-Thorn "Stonehide" Drevon - has had dream with red dragon
+Thorn "Stonehide" Drevon - has had dream with blue dragon
 
 Role: Enforcer
 Werebeast Form: Werebear
 Description: Thorn is a hulking man with a grizzled beard and a stern demeanor. His werebear form makes him incredibly strong and resilient, serving as the muscle of the guild.
 
 
-Ilyana "Swiftwing" Vale - has had dream with red dragon
+Ilyana "Swiftwing" Vale - has had dream with blue dragon
 
 Role: Scout
 Werebeast Form: Werehawk
 Description: Ilyana is a lithe and agile woman with sharp features and keen eyesight. In her werehawk form, she takes to the skies, providing the guild with unparalleled aerial reconnaissance.
 
 
-Ronan "Riptide" Keld - has had dream with red dragon
+Ronan "Riptide" Keld - has had dream with blue dragon
 
 Role: Saboteur
 Werebeast Form: Wereshark
 Description: Ronan is a rugged man with a weathered appearance and a cunning smile. As a wereshark, he dominates the waterways, using his aquatic form to sabotage enemy ships and coastal fortifications.
 
 
-Selene "Moonshadow" Arlyn - has had dream with red dragon
+Selene "Moonshadow" Arlyn - has had dream with blue dragon
 
 Role: Infiltrator
 Werebeast Form: Werefox

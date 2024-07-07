@@ -7,6 +7,8 @@
   - [Red Dragon's Challenge](#red-dragons-challenge)
     - [Dust \& Devil's One Shot](#dust--devils-one-shot)
       - [Running Commentary](#running-commentary)
+    - [Accepted](#accepted)
+  - [Invitation](#invitation)
 
 
 ## Summary
@@ -39,7 +41,15 @@ Modify the starting in jail part to the fact its the Red Dragon's challenge and 
 As the players reach certain part we can have the dragon running it almost like a TV show where he is watching and observing and interacting and maybe even narrating? 
 
 
+### Accepted
 
+Players are accepted by the Red Dragon. They will get one last day in Arventia and then they are bound.
+
+
+
+## Invitation
+
+Bring players to Moonveil Manor - dragon wants players to figure out the mystery
 
 
 

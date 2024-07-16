@@ -49,7 +49,7 @@ Players are accepted by the Red Dragon. They will get one last day in Arventia a
 
 ## Invitation
 
-Bring players to Moonveil Manor - dragon wants players to figure out the mystery
+
 
 
 

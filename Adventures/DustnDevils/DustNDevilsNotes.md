@@ -4,7 +4,7 @@
 
 ## Start
 
-Probably skip the sheriff and jail part and go straight to where the players find the train
+Make it seem like a cinematic TV show them go through the story but skip any stores so it has a better flow.
 
 
 ## Board the Train

@@ -3,12 +3,11 @@
 - [Template](#template)
   - [Summary](#summary)
   - [Deal with the Dragon](#deal-with-the-dragon)
-  - [Portal to Waterdeep](#portal-to-waterdeep)
   - [Red Dragon's Challenge](#red-dragons-challenge)
     - [Dust \& Devil's One Shot](#dust--devils-one-shot)
       - [Running Commentary](#running-commentary)
     - [Accepted](#accepted)
-  - [Invitation](#invitation)
+  - [We're Not in Arventia Anymore](#were-not-in-arventia-anymore)
 
 
 ## Summary
@@ -18,12 +17,7 @@
 
 ## Deal with the Dragon
 
-Players are going to make their deal with the dragon. Based on the deal I need to figure out how to interpret it in a different manner t oscrew the players hehehhe because of course that's what you do
-
-
-## Portal to Waterdeep
-
-As promised, the players are going to go to Waterdeep. This will transition my D&D Campaign and really open it up to a lot of different places which will be a pretty cool thing to be able to do.
+Players are going to make their deal with the dragon. Based on the deal I need to figure out how to interpret it in a different manner to screw the players hehehhe because of course that's what you do
 
 
 ## Red Dragon's Challenge
@@ -47,7 +41,12 @@ Players are accepted by the Red Dragon. They will get one last day in Arventia a
 
 
 
-## Invitation
+## We're Not in Arventia Anymore
+
+The players pass their initiation and the real adventure begins. They are now hired by the red dragon to go across to the different portals in exchange for their wishes. They are essentially leaving Arventia behind - the other events from Arventia will happen and occur as expected without them. It will be strange when they come back - we will see if they have ways to get news. 
+
+It will be interesting to see if the players remember Arventia but they will have to learn new systems etc. everywhere they go.
+
 
 
 

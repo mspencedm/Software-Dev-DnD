@@ -7,7 +7,12 @@ Tracking days in the campaign
 
 ## Current
 
-Day 1 of Timewatch (after night in prison).
+Day 3 of Timewatch (after night in prison). 
+
+
+## Year
+
+504 
 
 
 ## Full Moon

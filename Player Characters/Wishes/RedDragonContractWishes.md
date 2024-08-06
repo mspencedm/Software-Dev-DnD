@@ -11,7 +11,7 @@ I wish to have a family
 
 ## Fara-Quill
 
-
+"Regain all memories of her family and homeland and receive the necessary information to contact and locate them safely."
 
 
 ## Icarus
@@ -21,7 +21,7 @@ I wish to have a family
 
 ## Sable
 
-
+"I want my sister Selkie to be brought to life exactly as she was before she passed so that I can make things right with my adoptive family."
 
 
 ## Sanid

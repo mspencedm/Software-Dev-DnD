@@ -12,6 +12,7 @@
 
 ## Summary
 
+Deliver the REd Dragon this whole competition like he's hosting a TV show.
 
 
 
@@ -47,7 +48,7 @@ The players pass their initiation and the real adventure begins. They are now hi
 
 It will be interesting to see if the players remember Arventia but they will have to learn new systems etc. everywhere they go.
 
-
+Waterdeep - maybe do an adventure at that point? Gotta conform to the level
 
 
 

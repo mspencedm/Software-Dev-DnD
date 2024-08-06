@@ -7,6 +7,7 @@
     - [Dust \& Devil's One Shot](#dust--devils-one-shot)
       - [Running Commentary](#running-commentary)
     - [Accepted](#accepted)
+    - [Blessed](#blessed)
   - [We're Not in Arventia Anymore](#were-not-in-arventia-anymore)
 
 
@@ -40,6 +41,10 @@ As the players reach certain part we can have the dragon running it almost like 
 
 Players are accepted by the Red Dragon. They will get one last day in Arventia and then they are bound.
 
+
+### Blessed
+
+At the end or sometime the players will become Level 6 
 
 
 ## We're Not in Arventia Anymore

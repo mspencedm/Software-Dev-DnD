@@ -22,14 +22,14 @@ Interpretation: Regains memories - some tragic story where her family is all dea
 
 ## Icarus
 
-Great and wise dragon, I humbly ask for the Power of Temporal Insight. Grant me the ability to view and present past events with perfect clarity, allowing others to experience them as if they were happening in real-time. With this power, I seek to reveal the truth and clear the name of the wrongfully accused, proving their innocence to all who doubt.
+Grant me the ability to view and present past events with perfect clarity, allowing others to experience them as if they were happening in real-time. 
 
 Interpretation: Provide a pensieve - have to get the memories from others and place them in - maybe make it expensive LOL the money goes straight into red dragon's account
 
 
 ## Sable
 
-I want my sister Selkie to be brought to life exactly as she was before she passed so that I can make things right with my adoptive family.
+I want my sister Selkie to be brought back to life exactly as she was before she passed.
 
 Interpretation: Bring Selkie back to life about 20 seconds before she passed - exactly as she was with the arrow pierced inside her. 
 

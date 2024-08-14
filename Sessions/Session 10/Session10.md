@@ -11,8 +11,9 @@
   - [Dinner](#dinner)
   - [Bodyguard Duty](#bodyguard-duty)
   - [The Attack](#the-attack)
-    - [The Twist](#the-twist)
   - [The Aftermath](#the-aftermath)
+    - [Players Fail](#players-fail)
+    - [Players Succeed](#players-succeed)
 
 
 ## Summary
@@ -76,14 +77,15 @@ The party is going to have to keep off these Cult of Dragon people and, if they 
 There is going to be an attack in the great hall causing commotion sometime after dinner when the children have gone to bed but a smaller group will sneak in and try to steal the children - if the players are paying attention and were smart they will have people there - if not the guards and soldiers will be eaisly overtaken.
 
 
-### The Twist
-
-If the cult of the dragons do not successfully take the children among the shuffle the red dragon is going to have the players steal the child for him.
-
-
 ## The Aftermath
 
-The Red dragon will let the players go back
+### Players Fail
+
+Players fail to save the children and they get kidnapped then the red dragon will have them work for Bromir Bronzehammer and try to get audience with him - styaing in Barovia with the new task of finding their kidnappers in Waterdeep - finding leads etc.
+
+### Players Succeed
+
+They will get a reward from Bromir Bronzehammer for their success. A magical bronzehammer that is an exact physical replica of the one Ragna held to kill Strahd but enhanced with magic properties. 
 
 
 

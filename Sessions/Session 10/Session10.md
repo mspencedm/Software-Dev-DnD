@@ -29,7 +29,7 @@ I'm going to slowly teach the players earlier that this "game" isn't really that
 
 ## Off on Our First Adventure
 
-Players set off on their first adventure - probably in the Forgotten Realms - this is when players will slowly have to learn that each DM can kind of just change the rules and my version of the forgotten realms will be different. But not today - today we will be making a spin-off of castle Ravenloft and Barovia and also just have it linked to the Forgotten Realms by the Ethereal Plane - less relevant as we are now Plane Travelers.
+Players set off on their first adventure - probably in the Forgotten Realms - this is when players will slowly have to learn that each DM can kind of just change the rules and my version of the forgotten realms will be different. But not today - today we will be making a spin-off of castle Bronzehammer and Barovia and also just have it linked to the Forgotten Realms by the Ethereal Plane - less relevant as we are now Plane Travelers.
 
 
 ## Dragon's Mark
@@ -39,12 +39,12 @@ You get a mark by the Red Dragon that will give you the ability to communicate a
 
 ## The Liason
 
-To help them on their quest, offer advice, and help them jump between planes they are given a liason.
+To help them on their quest, offer advice, and help them jump between planes they are given a liason. Droxar Voss
 
 
 ## An Invitation
 
-Red dragon provides an invitation to an exclusive party at Ravenloft. They are guests.
+Red dragon provides an invitation to an exclusive party at Castle Bronzehammer - the reformed castle Ravenloft. They are guests. You can provide a brief history if asked but players can figure it out when they get there - speech will be made before dinner. Explain how they will be acting as bodyguards. Rumors about an assassination attempt.
 
 
 ## The Party

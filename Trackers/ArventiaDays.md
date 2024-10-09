@@ -7,7 +7,7 @@ Tracking days in the campaign
 
 ## Current
 
-Day 3 of Timewatch (after night in prison). 
+Day 8 of Trickerwatch. 
 
 
 ## Year

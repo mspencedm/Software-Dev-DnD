@@ -31,13 +31,11 @@ Now players will go through death house in reverse. Everything will be changed a
 
 ## Modified Rooms
 
-29.
-
-Instead of Ghouls have this hallway be a recreation of The Shining 
+26.
 
 The twins are ghostly apparitions of young girls, appearing around the age of eight or nine. They wear matching, tattered white dresses with black cloaks over them and they have vampire fangs. Their hair is long and disheveled, with strands hanging over their pale faces.
 
-They appear hand in hand in front of you, calling you towards them.
+They appear in front of you, holding hands, calling you towards them.
 
 "Come Play with Us." "Daddy Strahd never played with us. He pretended we were invisible." 
 
@@ -48,7 +46,27 @@ If players try to run they will reappear behind them
 Players eventually will need to attack - they will have chainsaws in their hands and attack.
 
 
-Elise and Cecily Stat Block Encounter
+Rose and Thorn Stat Block Encounter
+
+
+
+25.
+
+This room will now be a gift shop with the different alcoves selling different items like t-shirts and other memorabilia. 
+
+Once the conversion happens anything purchased will be cursed.
+
+
+
+23.
+
+As part of the attraction and fun have all the crypts be filled with candy before the conversion.
+
+After the conversion the crypts are filled with bones.
+
+
+
+
 
 
 

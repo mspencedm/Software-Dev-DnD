@@ -26,7 +26,7 @@ Bromir will open the new Death House last day of Leaffall - grand opening  with 
 He wants you to go through and explore death house  a leave a review
 
 
-He will pay you well for your trouble - 150gp (each) 
+He will pay you well for your trouble - 200gp (each) 
 
 Strahd will be unable to accompany you as he has guests in the castle from Waterdeep as he is beginning his treaty negotiations with the country Amn with the hope of being more connected to Faerun and to kind of join more into that world and the Sword Coast. 
 

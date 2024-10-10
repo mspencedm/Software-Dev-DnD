@@ -65,8 +65,19 @@ As part of the attraction and fun have all the crypts be filled with candy befor
 After the conversion the crypts are filled with bones.
 
 
+19.
 
+From Room 16 once they enter there from the stiars they will hear the sound of running water. Turn into a outdoor shower where it looks like a waterfall is magically running into a box that is resembling a shower.
 
+When you enter the room you notice that the floor tiles seem to be stained wiht blood. There also seems to be this mist in the air.
+
+As you step closer you see the sillhouette of a women in distress through the glass and mist. You also hear whispers, repeating the word "murder".
+
+The figure breaks through the glass and see a distorted figur eof a women with hollow eyes and a hallow form lunge for you.
+
+Encounter - Specter in the Shower
+
+Environment Hazard: Make a DC 13 Dexterity saving throw or take 1d4 damage from slipping and falling
 
 
 

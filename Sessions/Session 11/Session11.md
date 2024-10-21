@@ -26,7 +26,7 @@ Bromir will open the new Death House last day of Leaffall - grand opening  with 
 He wants you to go through and explore death house  a leave a review
 
 
-He will pay you well for your trouble - 200gp (each) 
+He will pay you well for your trouble - 240gp (each) 
 
 Strahd will be unable to accompany you as he has guests in the castle from Waterdeep as he is beginning his treaty negotiations with the country Amn with the hope of being more connected to Faerun and to kind of join more into that world and the Sword Coast. 
 
@@ -38,6 +38,6 @@ Players may try to convince the daughter to go - see how that works.
 
 The rest of the module should take place in Death House which will be the Halloween event - some of it will be derived from Strahd Death House
 
-
+Looks like this won't work so we may do malfunctioned evil Death House in a different session
 
 

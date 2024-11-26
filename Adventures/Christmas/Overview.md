@@ -22,7 +22,7 @@ Created by ChatGPT
 ---
 
 ### **Narrator Introduction**  
-*"Ah, greetings, my festive friends! It is I, CloudCutter the Gleaming, spinner of tales and hoarder of… holiday cheer! Gather 'round as I recount a wintry tale of heroism, humor, and, yes, presents! Prepare yourselves for... **The Frostfell Special!**"*
+*"Ah, greetings, my festive friends! It is I, CloudCutter, spinner of tales and hoarder of… holiday cheer! Gather 'round as I recount a wintry tale of heroism, humor, and, yes, presents! Prepare yourselves for... **The Frostfell Special!**"*
 
 ---
 

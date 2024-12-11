@@ -3,6 +3,7 @@ Created by ChatGPT
 - [**D\&D Adventure: "The Frostfell Special: A CloudCutter Christmas"**](#dd-adventure-the-frostfell-special-a-cloudcutter-christmas)
     - [**Narrator Introduction**](#narrator-introduction)
   - [**Adventure Overview**](#adventure-overview)
+  - [**Welcome to Frostfell**](#welcome-to-frostfell)
   - [**Adventure Hook**](#adventure-hook)
 - [**Scene 1: The Candy Cane Forest**](#scene-1-the-candy-cane-forest)
     - [**Combat 1: Peppermint Ambush**](#combat-1-peppermint-ambush)
@@ -27,15 +28,35 @@ Created by ChatGPT
 ---
 
 ## **Adventure Overview**  
-The party finds themselves in the charming town of *Hearthglen*, nestled in the snowy peaks of the Frostfell Mountains. The town is preparing for *Yulebright*, a festive celebration filled with decorations, music, and the legendary gift-giving of the mysterious *Father Mithral*. However, calamity strikes when the **Yulebright Star**—an enchanted ornament that powers the town’s defenses and brings joy to the holiday—is stolen by minions of the *Coldheart Queen*.  
+The party finds themselves in the charming town of *Hearthglen*, nestled in the snowy peaks of the Frostfell Mountains. The town is preparing for *Yulebright*, a festive celebration filled with decorations, music, and the legendary gift-giving of the mysterious *Father Mithral*. However, calamity strikes when the **Yulebright Star**—an enchanted ornament that powers the town’s defenses and brings joy to the holiday—is stolen by minions of the *Coldheart King*.  
 
 The players must brave a magical winter wonderland to recover the star before Yulebright is ruined!
+
+
+--- 
+
+## **Welcome to Frostfell**
+
+*Welcome to Frostfell, a humble town nestled in the heart of a snow-blanketed valley, where the chill of winter is eternal, yet the warmth of its people burns bright.*  
+
+The scene opens on a sweeping panorama of glistening white peaks encircling the valley, their jagged crowns kissed by the pale glow of the northern lights. You glide down and see Frostfell: a patchwork of cozy timbered homes and cobblestone streets, wreathed in swirls of soft, glittering snow. Warm, golden light spills from frosted windows, and the gentle hum of life echoes through the crisp air—laughter, song, and the ringing of distant bells.
+
+As you drift closer, the towering figure of the **Yulebright Star** comes into focus, shining atop the great evergreen in the town square. Its radiant brilliance bathes the town in hues of silver and sapphire, a beacon of hope and joy for all who call Frostfell home. Surrounding the square, bustling stalls brim with festive wares: steaming mugs of spiced cider, intricate ice sculptures, and baubles that glimmer like freshly fallen snow.
+
+To the east, the **Candy Cane Forest** stretches into the distance, its towering red-and-white-striped trees twisting toward the heavens. A faint shimmer of magic dances in the air, hinting at the forest's whimsical and treacherous nature.
+
+To the west, the **Mistletoe and Mead Tavern** stands proudly, its roof laden with snow and its doors adorned with sprigs of holly. The hearty sounds of joyful laughter spill out as adventurers, travelers, and locals alike gather to share stories and drinks beneath its welcoming rafters.
+
+And towering above it all, far beyond the town’s edge, lies the foreboding silhouette of the **Ice Palace**. Its crystalline spires pierce the sky, glinting like diamonds in the pale moonlight. The palace, a mysterious relic of ages past, seems both a source of awe and unease, its frozen facade hiding secrets whispered only by the wind.
+
+*Frostfell may be small, but its heart is vast and unyielding, a place where courage and community shine brightest against the long, cold night. Here, legends are born, mysteries are unraveled, and the magic of Frostfell waits for those bold enough to seek it.*
+
 
 ---
 
 ## **Adventure Hook**  
 
-The party arrives in Hearthglen to partake in the Yulebright festivities but is soon approached by the town's *Head Tinkerer, Holly Tinseltool*. She begs for their help when the Yulebright Star is stolen. (have this happen with her sneaking into the tavern and getting them - don't want to cause too much alarm) The culprit? A fearsome frost giant named *Jack Frostknuckle*, who serves the malevolent *Coldheart Queen*.  
+The party arrives in Hearthglen to partake in the Yulebright festivities - wait for them to go inside the tavenr. After sometime, the wind will blow heavily and darkness shift. The **Yuleright Star** has been stolen! Bursting through the doors Mayor Gregory Garland bursts in - what's the problem? What's the cause of the darkness? The star has been stolen! The star that serves to protect the city but also provide light and festivities. The culprit? A fearsome frost giant named *Jack Frostknuckle*, who serves the malevolent *Coldheart King*.  (Have the Coldherat King be The Grinch if it comes to that but he shouldn't be involved really)
 
 **Narrator Cue:**  
 *"And so, our intrepid heroes—probably lured by the promise of mulled cider—set off to save Yulebright. Typical adventurers, always saying ‘yes’ to everything."*
@@ -87,9 +108,9 @@ For extra flair, describe the slips humorously:
 
 ---
 
-#a **Scene 2: The Ice Palace of the Coldheart Queen**  
+#a **Scene 2: The Ice Palace of the Coldheart King**  
 
-After navigating the forest, the party reaches the shimmering, icy lair of the *Coldheart Queen*. Inside, Jack Frostknuckle is preparing to destroy the Yulebright Star in a frozen ritual that will plunge Hearthglen into eternal winter.  
+After navigating the forest, the party reaches the shimmering, icy lair of the *Coldheart King*. Inside, Jack Frostknuckle is preparing to destroy the Yulebright Star in a frozen ritual that will plunge Hearthglen into eternal winter.  
 
 ### **Combat 2: Frostknuckle Showdown**  
 - **Enemies:**  
@@ -100,7 +121,7 @@ After navigating the forest, the party reaches the shimmering, icy lair of the *
   - **Collapsing Icicles:** At initiative 20, a 10-foot radius area must succeed on a DC 14 Dexterity saving throw or take 2d8 cold damage.  
 
 **Narrator Cue:**  
-*"Ah, the final act! Will they emerge victorious, or will they spend eternity as lawn ornaments in the Coldheart Queen's garden? Place your bets now!"*
+*"Ah, the final act! Will they emerge victorious, or will they spend eternity as lawn ornaments in the Coldheart King's garden? Place your bets now!"*
 
 ---
 

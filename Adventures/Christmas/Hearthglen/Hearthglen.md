@@ -84,4 +84,4 @@ The **Yulebright Star** is an ancient artifact created by a legendary artificer 
 - **Snowball Derby:** A competitive snowball-throwing contest.  
 - **The Hearthglow Feast:** A communal meal where everyone shares their best dishes, held in the plaza under the glowing tree.  
 
-The loss of the **Yulebright Star** would mean more than the end of the celebration. It would strip the town of its magical shield, leaving Hearthglen vulnerable to the harsh environment and the Coldheart Queen’s forces.
+The loss of the **Yulebright Star** would mean more than the end of the celebration. It would strip the town of its magical shield, leaving Hearthglen vulnerable to the harsh environment and the Coldheart King’s forces.

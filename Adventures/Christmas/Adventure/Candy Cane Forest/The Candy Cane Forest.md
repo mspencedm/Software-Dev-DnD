@@ -6,7 +6,7 @@ The **Candy Cane Forest** is a whimsical and otherworldly stretch of woods just 
 
 ## **Narration Introducing the Area**
 
-*"As you step beyond the familiar cobblestone paths of Hearthglen, a frosty breeze carries the unmistakable scent of peppermint and sugar. Before you, the forest opens like a fantastical dreamscape: enormous candy canes twist skyward, their stripes gleaming in the pale winter sunlight. The air hums with faint, tinkling music, as though the snowflakes themselves are singing a holiday tune. Yet, beneath the saccharine charm, a strange stillness settles over the landscape, leaving you with the distinct sense that this sugary paradise may hold more than just sweet surprises."*
+*"As you step beyond the familiar cobblestone paths of Hearthglen, a frosty breeze carries the unmistakable scent of peppermint and sugar. Before you, the forest opens like a fantastical dreamscape: enormous candy canes twist skyward, their stripes gleaming in the pale winter sunlight. The air hums with faint, tinkling music, as though the snowflakes themselves are singing a holiday tune. Yet, beneath the charm, a strange stillness settles over the landscape, leaving you with the distinct sense that this sugary paradise may hold more than just sweet surprises."*
 
 ---
 

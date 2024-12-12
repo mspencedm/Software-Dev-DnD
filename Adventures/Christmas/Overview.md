@@ -127,7 +127,7 @@ After navigating the forest, the party reaches the shimmering, icy lair of the *
 
 ## **Climactic Moment**  
 
-After defeating Frostknuckle, the party finds the Yulebright Star. But there's a twist—it’s cracked from the battle and needs a special spell to repair. Luckily, *Father Mithral* himself appears—a kindly dwarf with a snowy beard and a twinkle in his eye. He uses his magical **Tinker's Touch** to restore the star.  
+After defeating Frostknuckle, the party finds the Yulebright Star. But there's a twist—it’s cracked from the battle and needs a special spell to repair. Luckily, *Father Mithral* himself appears—a kindly dwarf with a snowy beard and a twinkle in his eye. 
 
 ---
 
@@ -141,11 +141,9 @@ The party returns to Hearthglen just in time for the Yulebright ceremony. The st
 ---
 
 ## **The Gift**  
-At the celebration, Father Mithral gives each character a **Gift of the Frostfell**, custom-tailored to their abilities. Examples include:  
+At the celebration, Father Mithral gives each character a **Gift of the Frostfell**, custom-tailored to their abilities. 
 
-- **Everfrost Blade** (*Weapon, Rare*): Adds +1 to attack rolls and deals an extra 1d6 cold damage. Once per day, can freeze a 10-foot radius area for 1 minute.  
-- **Mirthful Mantle** (*Wondrous Item, Rare*): Grants advantage on Charisma (Persuasion) checks and resistance to cold damage.  
-- **Ornament of Protection** (*Wondrous Item, Rare*): A bauble that gives +1 AC and allows the wearer to cast *Absorb Elements* once per long rest.  
+
 
 ---
 

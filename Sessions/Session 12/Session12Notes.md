@@ -1,4 +1,5 @@
-- [Template](#template)
+- [Session 12](#session-12)
+  - [General](#general)
   - [Player Characters](#player-characters)
   - [NPCs](#npcs)
   - [Plot Points](#plot-points)
@@ -7,7 +8,15 @@
   - [Items](#items)
   - [Random Things](#random-things)
 
-# Template
+# Session 12
+
+
+## General
+
+
+
+
+
 
 ## Player Characters
 

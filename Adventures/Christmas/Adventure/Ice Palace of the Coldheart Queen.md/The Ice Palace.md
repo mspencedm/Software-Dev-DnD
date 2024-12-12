@@ -27,9 +27,9 @@ To open the doors, the adventurers must decipher the puzzle of the **Three Fates
 
 The runes glow in sequence as the adventurers ponder each riddle. The correct answers must be spoken aloud in order to activate the lock. The answers are:
 
-- **Fate of Frost:** *Snow*  
+- **Fate of Frost:** *Moon*  
 - **Fate of the Storm:** *Wind*  
-- **Fate of the Flame:** *Fire*
+- **Fate of the Flame:** *Sun*
 
 Once all three answers are spoken aloud in the correct order, the runes flash brightly and the massive ice doors groan as they slowly begin to open, revealing the heart of the Ice Palace. However, should the adventurers speak the wrong answer or fail to align the runes in the correct sequence, a burst of icy magic will blast them backward, dealing 3d6 cold damage and resetting the puzzle.
 
@@ -46,7 +46,7 @@ If the adventurers fail the puzzle, they will have to try again, but the cold is
 
 ## **Narration of the Inside**
 
-*"You step through the gates and enter the palace, the temperature dropping further as you leave the warmth of the outside world behind. The air here is crisp, cold, and filled with the scent of ancient ice. The palace's interior is both magnificent and eerie, the walls lined with shimmering ice sculptures that seem to shift and change as you move past them. Long, gleaming corridors wind through the palace, with grand chambers that contain fountains of frozen water and statues of long-forgotten figures. The floors are smooth and slick with frost, and the faint sound of water dripping from stalactites echoes through the palace’s halls."*
+*"You step through the doors and enter the palace, the temperature dropping further as you leave the warmth of the outside world behind. The air here is crisp, cold, and filled with the scent of ancient ice. The palace's interior is both magnificent and eerie, the walls lined with shimmering ice sculptures that seem to shift and change as you move past them. Long, gleaming corridors wind through the palace, with grand chambers that contain fountains of frozen water and statues of long-forgotten figures. The floors are smooth and slick with frost, and the faint sound of water dripping from stalactites echoes through the palace’s halls."*
 
 The grand hall at the heart of the palace is a cavernous space, its ceiling stretching far above, adorned with hanging chandeliers of icicles. At the far end, a large throne sits atop a dais of polished ice, where an ancient ruler of winter is said to have once sat—though the throne is now empty. The **Yulebright Star** hovers above the dais, glowing with a quiet intensity, its presence both comforting and unsettling.
 

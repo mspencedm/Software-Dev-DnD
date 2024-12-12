@@ -1,4 +1,5 @@
 - [Template](#template)
+  - [General](#general)
   - [Player Characters](#player-characters)
   - [NPCs](#npcs)
   - [Plot Points](#plot-points)
@@ -8,6 +9,8 @@
   - [Random Things](#random-things)
 
 # Template
+
+## General
 
 ## Player Characters
 

@@ -7,14 +7,33 @@
     - [Cutbacks](#cutbacks)
     - [The Rumor](#the-rumor)
     - [The Arcane Academy's Secret](#the-arcane-academys-secret)
-  - [The Port](#the-port)
+  - [The Port of Aurora’s Heart: **The Silver Docks**](#the-port-of-auroras-heart-the-silver-docks)
+  - [Overview](#overview)
+  - [Layout](#layout)
+    - [**Outer Docks**](#outer-docks)
+    - [**Inner Docks**](#inner-docks)
+    - [**Hidden Depths**](#hidden-depths)
+  - [Features](#features)
+    - [**Portal Terminals**](#portal-terminals)
+    - [**The Spiral Beacon**](#the-spiral-beacon)
+    - [**The Midnight Warehouse**](#the-midnight-warehouse)
+  - [Organizations Operating in the Port](#organizations-operating-in-the-port)
+    - [**The Silver Harbormasters**](#the-silver-harbormasters)
+    - [**The Veil Consortium**](#the-veil-consortium)
+    - [**The Mariners’ Brotherhood**](#the-mariners-brotherhood)
+  - [Security](#security)
+  - [Points of Interest](#points-of-interest)
+    - [**The Siren’s Chalice**](#the-sirens-chalice)
+    - [**The Azure Anchorage**](#the-azure-anchorage)
+    - [**The Lantern Market**](#the-lantern-market)
+  - [Rumors and Mysteries](#rumors-and-mysteries)
     - [Ship to the Tempest's Maw](#ship-to-the-tempests-maw)
   - [Castle](#castle)
     - [Leadership](#leadership)
   - [Portals Plaza](#portals-plaza)
     - [Description](#description)
     - [Atmosphere](#atmosphere)
-    - [Features](#features)
+    - [Features](#features-1)
     - [Overall](#overall)
   - [The Whispering Mermaid Tavern](#the-whispering-mermaid-tavern)
     - [Description](#description-1)
@@ -93,11 +112,105 @@ As far as werewolves, no one knows a ton about them.
 The Arcane Academy is secretly researching the cure to werewolf bites and stopping people from turning into werewolves. Tests so far have been unsuccessful but it's hard to figure out since they all become werewolves.
 
 
-## The Port
+## The Port of Aurora’s Heart: **The Silver Docks**
 
-Description Aurora's Heart boasts a bustling and well-organized port that serves as a hub for trade and maritime activities. Large ships from distant lands dock along the expansive quays, unloading exotic goods and treasures.
+## Overview
+The Silver Docks, named for the glimmering waters that reflect the city’s luminous skyline, is the lifeblood of Aurora’s Heart’s trade. Stretching across a vast coastline, the port is a bustling hub where sea and magic converge. It caters to a wide variety of trade vessels, magical merchants, and secretive organizations like the Veil Consortium.  
 
-Notable Feature The lighthouse at the entrance of the port is enchanted, casting a mesmerizing aurora-like display over the waves, guiding ships safely to the harbor.
+---
+
+## Layout
+
+### **Outer Docks**
+- **Purpose:** Open to public trade and general shipping.
+- A sprawling network of piers that receive cargo from merchant ships and fishing vessels.
+- Busy markets are set up here daily, selling everything from imported spices to exotic creatures.
+- Security: Guard patrols are frequent, and customs officials strictly enforce tariffs here, though bribes are commonplace.
+
+### **Inner Docks**
+- **Purpose:** Reserved for noble families and magical merchants.
+- Elegant piers constructed from enchanted wood that resists rot and damage.
+- The Inner Docks are heavily secured by private guards and arcane wards, ensuring only those with permits can access.
+- Specialized portals connect directly to wealthy districts for expedited delivery.
+
+### **Hidden Depths**
+- **Purpose:** Covert operations for smuggling and secret trades.
+- Beneath the docks lies an intricate maze of tunnels, warehouses, and hidden portals used by illicit organizations like the Veil Consortium.
+- Magical wards obscure the existence of these chambers, and they’re accessible only with specific magical tokens, such as the Veil Coin.
+
+---
+
+## Features
+
+### **Portal Terminals**
+- Located in concealed chambers, these arcane devices connect to various points across Aurora’s Heart and beyond.
+- Operated by trained mages who ensure the portals remain stable and untraceable.
+- Merchants using the portals often claim they are moving "urgent magical goods" to avoid suspicion.
+
+### **The Spiral Beacon**
+- A towering lighthouse at the end of the harbor that serves both maritime and planar navigation.
+- Its magical light shifts colors to signal different port statuses: blue for open, red for closed, and silver for high-security periods.
+- Secretly, the Spiral Beacon also emits specific magical signals that guide hidden portal users to safe entrances.
+
+### **The Midnight Warehouse**
+- A vast, unassuming storage building located near the edge of the port.
+- Rumored to be controlled by the Veil Consortium, it’s said to hold goods awaiting transport through hidden portals.
+- Inside, enchantments keep goods preserved indefinitely, making it ideal for long-term storage of sensitive items.
+
+---
+
+## Organizations Operating in the Port
+
+### **The Silver Harbormasters**
+- A guild of mages and bureaucrats who oversee legitimate trade and magical logistics.
+- Known for being overworked and susceptible to bribes, allowing smuggling operations to thrive under their noses.
+
+### **The Veil Consortium**
+- Operates through secret entrances in warehouses and abandoned ships docked at the Hidden Depths.
+- Their influence ensures certain inspections "mysteriously" fail to happen.
+
+### **The Mariners’ Brotherhood**
+- A union of sailors and dockworkers who advocate for better working conditions.
+- While they operate openly, some members are rumored to smuggle small packages for the Veil Consortium in exchange for gold.
+
+---
+
+## Security
+- The Silver Docks are patrolled by **The Gilded Guard**, a mix of human and golem enforcers tasked with maintaining order.
+- Advanced magical wards surround the docks to prevent unauthorized teleportation and portal use. However, the Veil Consortium has learned to bypass these wards with specialized enchantments.
+- Regular inspections by the city’s tax office ensure tariffs are collected, though many are evaded through bribery or the Veil's portals.
+
+---
+
+## Points of Interest
+
+### **The Siren’s Chalice**
+- A popular tavern for sailors and merchants, known for its lively atmosphere and occasional brawls.
+- The basement contains a hidden entrance to the Veil Consortium’s network, accessed via a false wine barrel.
+
+### **The Azure Anchorage**
+- A high-end dock reserved for nobility and magical merchants.
+- Features luxurious ships enchanted to sail faster and carry more cargo.
+- Portal terminals here are designed to connect to noble estates and private warehouses.
+
+### **The Lantern Market**
+- A vibrant, floating market lit by thousands of magical lanterns.
+- Vendors from distant lands sell rare goods and artifacts, some of which are smuggled through the Veil Consortium’s network.
+
+---
+
+## Rumors and Mysteries
+1. **The Ghost Ship**  
+   - Sailors whisper of a phantom vessel that docks in the Hidden Depths during moonless nights. Those who trade with it supposedly receive cursed goods.
+
+2. **The Missing Harbormaster**  
+   - The previous head of the Silver Harbormasters vanished mysteriously after investigating portal activity at the Inner Docks.
+
+3. **The Deep One’s Vault**  
+   - Beneath the docks lies an ancient chamber sealed by magic, rumored to contain treasures left behind by a forgotten civilization. The Veil Consortium is said to be searching for a way to open it.
+
+
+
 
 ### Ship to the Tempest's Maw
 

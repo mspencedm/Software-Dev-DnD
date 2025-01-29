@@ -41,6 +41,21 @@
     - [Bartender](#bartender)
     - [Menu](#menu)
     - [Mercenary for Hire](#mercenary-for-hire)
+  - [**The Hollow Den**](#the-hollow-den)
+    - [**Overview**](#overview-1)
+    - [**Atmosphere**](#atmosphere-1)
+    - [**Notable Figures**](#notable-figures)
+      - [**Tavern Owner: Kaelen "Silverjaw" Thorne**](#tavern-owner-kaelen-silverjaw-thorne)
+    - [**Unique Features**](#unique-features)
+      - [**1. The Pactfire**](#1-the-pactfire)
+      - [**2. The Soundless Cellar**](#2-the-soundless-cellar)
+      - [**3. The Mark of the Den**](#3-the-mark-of-the-den)
+    - [**Signature Drinks \& Meals**](#signature-drinks--meals)
+      - [**Moonlit Mead** *(House Specialty)*](#moonlit-mead-house-specialty)
+      - [**The Huntsman’s Howl** *(Aged Whiskey Blend)*](#the-huntsmans-howl-aged-whiskey-blend)
+      - [**Wild Hunt Stew** *(Hearty Meat Stew)*](#wild-hunt-stew-hearty-meat-stew)
+      - [**The Silver Claw** *(Spiced Moonshine Shot)*](#the-silver-claw-spiced-moonshine-shot)
+    - [**Rumors \& Hooks**](#rumors--hooks)
   - [Starfall Lounge](#starfall-lounge)
     - [Starshow Celestial Journey of Aurora's Heart](#starshow-celestial-journey-of-auroras-heart)
   - [The Astral Archive](#the-astral-archive)
@@ -333,6 +348,87 @@ Patrons at The Whispering Mermaid not only savor delightful drinks and delectabl
 ### Mercenary for Hire
 
 Finn Tidecaller is the mercenary for hire. See his page for more details. He is willing to go anywhere. But he will not break the law nor kill innocents as he's put that behind him.
+
+
+
+## **The Hollow Den**  
+*"A refuge for the untamed, a den for the lost."*  
+
+### **Overview**  
+Nestled in the **shadowed alleyways of Aurora’s Heart**, The Hollow Den is a **tavern and safehouse for lycanthropes and those who walk the wild path**. Originally a forgotten basement of an old guildhall, it has been reclaimed and transformed into a dimly lit, **sanctuary-like establishment** that caters to those who struggle with—or embrace—their dual nature.  
+
+The Hollow Den is **not widely advertised**; instead, its entrance is **marked only by a single carved wolf’s eye** embedded in the wooden archway. Only those **"who understand the hunger of the moon"** know how to find it.  
+
+---
+
+### **Atmosphere**  
+- The walls are made of old **stone and dark oak**, reinforced with protective runes to dampen sound—**ensuring privacy for its patrons**.  
+- A massive, circular **moonlit skylight** sits above the center of the tavern, enchanted to always reflect the **current phase of the moon**.  
+- Flickering lanterns cast a warm, amber glow, while **faint howls and murmured stories** fill the air.  
+- The scent of **smoked meats, aged whiskey, and forest herbs** lingers, creating a **wilderness-like comfort**.  
+
+---
+
+### **Notable Figures**  
+
+#### **Tavern Owner: Kaelen "Silverjaw" Thorne**  
+- **Race:** Shifter (Wolf-Blooded)  
+- **Age:** Late 40s  
+- **Appearance:** A broad-shouldered man with **iron-gray hair**, sharp golden eyes, and **a single silver fang** in his grin.  
+- **Background:** A former member of the **Order of Lunar Ascendancy**, Kaelen retired after a **violent altercation with hunters** left him scarred—both physically and mentally.  
+- **Role:** He **maintains the Hollow Den as neutral ground**, ensuring **no pack politics, no unnecessary violence.**  
+
+> *"Here, we drink as kin or we don’t drink at all."*  
+
+---
+
+### **Unique Features**  
+
+#### **1. The Pactfire**  
+- A **low-burning silverwood brazier** sits in one corner, surrounded by **carved wooden benches**.  
+- Those who wish to **share a bond or make an oath** sit by the fire, where **words spoken here hold weight beyond the mortal realm.**  
+- **Oathbreakers find their skin cold and their fangs dulled for a full moon’s cycle.**  
+
+#### **2. The Soundless Cellar**  
+- A hidden back room **reinforced with enchanted stone** that **muffles all noise**.  
+- Used for those who need to **endure a transformation safely** or **speak in absolute secrecy**.  
+- **Only Kaelen has the key.**  
+
+#### **3. The Mark of the Den**  
+- Regular patrons earn the right to bear **a silver wolf’s eye tattoo**—a symbol of the Hollow Den.  
+- Those who dishonor the Den’s laws **have their mark burned away by silver.**  
+
+---
+
+### **Signature Drinks & Meals**  
+
+#### **Moonlit Mead** *(House Specialty)*  
+A **honeyed mead infused with wolfsbane and moonberry essence**. Said to **ease the pull of the full moon**, though it **burns like fire on the first sip.**  
+
+#### **The Huntsman’s Howl** *(Aged Whiskey Blend)*  
+A **dark whiskey infused with smoked oak and blood orange**, served in a **wolf-carved tankard**. A drink for **those who seek clarity—or a challenge.**  
+
+#### **Wild Hunt Stew** *(Hearty Meat Stew)*  
+A **thick, spiced stew made with venison, root vegetables, and black garlic**. Served with fresh-baked **wolfpaw bread**.  
+
+#### **The Silver Claw** *(Spiced Moonshine Shot)*  
+A **potent, herbal moonshine** with **a silver-dusted rim**—said to be strong enough to **make even a lycan hesitate.**  
+
+---
+
+### **Rumors & Hooks**  
+- **A new pack in the city** has been seen **lurking around the Hollow Den**, seeking Kaelen’s favor.  
+- A **strange patron with glowing violet eyes** has been **asking about an artifact** stolen from the Order of Lunar Ascendancy.  
+- A lone traveler claims **they saw a werewolf with no shadow** near the docks, and whispers say **The Veil Consortium is involved.**  
+
+---
+
+The Hollow Den is **a sanctuary, a battleground of secrets, and a place where the moon’s influence is always felt.**  
+
+Would you like to add **specific patrons, hidden areas, or conflicts within the Den?**  
+
+
+
 
 
 

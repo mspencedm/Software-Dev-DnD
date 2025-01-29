@@ -7,7 +7,7 @@ Tracking days in the campaign
 
 ## Current
 
-Day 8 of Trickerwatch. 
+Day 30 of Timewatch. 
 
 
 ## Year

@@ -1,5 +1,14 @@
 # NPC: Maelis "The Mapmaker" Moonshade
 
+## Future
+
+Have Maelis open her own business - Maelis the Mystic 
+
+She's kind of like a fortune teller so she can show you a fortune or live out a dream etc. 
+
+Cost: Make it really expensive but hey for you guys my friends, a discount - and its still expensive but affordable enough.
+
+
 ## Basic Information
 - **Name**: Maelis "The Mapmaker" Moonshade
 - **Race**: Half-Elf

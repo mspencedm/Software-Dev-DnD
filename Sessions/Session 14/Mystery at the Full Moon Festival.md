@@ -87,13 +87,13 @@ The guild leader suspects that the artifact is being **traded on the black marke
 ### **Why She’s Behind It All:**
 - The **blackmail letter was orchestrated by her** to manipulate Nyssa.  
 - She **hired a thief to steal the Moonshadow Hourglass**, intending to sell it to a **wealthy lycanthrope noble** who believes it will grant him ultimate power.  
-- The **trade is set to happen tonight in the Crossroads** under the festival’s cover.  
+- The **trade is set to happen tonight in the Crossroads** before the festival.
 
 ### **Where to Find Her:**
-- **Location:** *The Silver Veil*, an **opulent, high-end gambling hall** deep in the Crossroads.  
+- **Location:** *the Golden Veil*, an **opulent, high-end gambling hall** deep in the Crossroads.  
 - **What She’s Doing:** Hosting a private auction in the **Moonlit Chamber**—where the stolen artifact is set to be sold.  
 - **Clues:**  
-  - Getting into the Silver Veil **requires a password or invitation.**  
+  - Getting into the Golden Veil **requires a password or invitation.**  
   - If confronted, she **plays coy** and says:  
     *"Darling, if you think I’m responsible, prove it."*  
   - If the party gathers enough evidence, **she’ll either flee or try to strike a deal.**  
@@ -110,7 +110,7 @@ The guild leader suspects that the artifact is being **traded on the black marke
 
 ### **What He’s Doing:**
 - Arrived in the Crossroads in **secrecy** under the name *Lord Belmont.*  
-- Is **expected to bid on the Moonshadow Hourglass tonight** at the Silver Veil’s auction.  
+- Is **expected to bid on the Moonshadow Hourglass tonight** at the Golden Veil’s auction.  
 - **Has bodyguards and enforcers**—stopping him won’t be easy.  
 
 ### **Possible Twists:**

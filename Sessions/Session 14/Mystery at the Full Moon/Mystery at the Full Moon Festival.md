@@ -4,19 +4,26 @@
   - [**The Stolen Artifact**](#the-stolen-artifact)
   - [**Suspect #1: Veylin "The Shroud" Renshaw**](#suspect-1-veylin-the-shroud-renshaw)
     - [**Why He’s a Suspect:**](#why-hes-a-suspect)
-    - [**Where to Find Him:**](#where-to-find-him)
+    - [**Where to Find Her:**](#where-to-find-her)
   - [**Suspect #2: Nyssa Veymar**](#suspect-2-nyssa-veymar)
     - [**Why She’s a Suspect:**](#why-shes-a-suspect)
-    - [**Where to Find Her:**](#where-to-find-her)
+    - [**Where to Find Her:**](#where-to-find-her-1)
   - [**Suspect #3: Garrik Storme**](#suspect-3-garrik-storme)
     - [**Why He’s a Suspect:**](#why-hes-a-suspect-1)
-    - [**Where to Find Him:**](#where-to-find-him-1)
+    - [**Where to Find Him:**](#where-to-find-him)
   - [**The Secret Mastermind: Valeria "Silkshadow" Dain**](#the-secret-mastermind-valeria-silkshadow-dain)
     - [**Why She’s Behind It All:**](#why-shes-behind-it-all)
-    - [**Where to Find Her:**](#where-to-find-her-1)
+    - [**Where to Find Her:**](#where-to-find-her-2)
   - [**The Secret Buyer: Count Lucien Draven**](#the-secret-buyer-count-lucien-draven)
     - [**What He’s Doing:**](#what-hes-doing)
     - [**Possible Twists:**](#possible-twists)
+  - [Encounter: The Shadowed Pursuit](#encounter-the-shadowed-pursuit)
+    - [**Location:** The Crossroads - Underground Tunnels](#location-the-crossroads---underground-tunnels)
+    - [**Setup:**](#setup)
+    - [**Enemies: "Silkshadow's Enforcers"**](#enemies-silkshadows-enforcers)
+    - [**Combat Dynamics:**](#combat-dynamics)
+    - [**Resolution:**](#resolution)
+    - [**Rewards \& Consequences:**](#rewards--consequences)
   - [**Possible Endings**](#possible-endings)
   - [Clues](#clues)
     - [Clue 1: Faded Ledger Entry (Secret Auction Notice)](#clue-1-faded-ledger-entry-secret-auction-notice)
@@ -40,23 +47,25 @@ The guild leader suspects that the artifact is being **traded on the black marke
 ## **Suspect #1: Veylin "The Shroud" Renshaw**
 **Former Member of the Order of Lunar Ascendancy**
 
-- **Race:** Half-Elf  
-- **Age:** 42  
-- **Appearance:** Lean, wiry, with streaks of silver in his dark hair. Wears a long hooded coat. Left eye is clouded from an old injury.  
-- **Background:** Once a devoted member of the Order, he was **exiled for experimenting with forbidden magic**. Some say he sought to **break the lycan connection to the moon.**  
+- **Race:** Human  
+- **Age:** 32  
+- **Appearance:** Lean, wiry, with streaks of silver in her dark hair. Wears a long hooded coat. Left eye is clouded from an old injury.  
+- **Background:** Once a devoted member of the Order, she was **exiled for experimenting with forbidden magic**. Some say she sought to **break the lycan connection to the moon.**  
 
 ### **Why He’s a Suspect:**
 - **Opposed the Full Moon Festival**, calling it a "shackle."  
 - Was **seen near the artifact chamber** the day before the theft.  
 - Has known **contacts in the Crossroads black market**.  
 
-### **Where to Find Him:**
+### **Where to Find Her:**
 - **Location:** *The Hollow Den* (a secret lycan-friendly tavern in Aurora's Heart).  
 - **What He’s Doing:** Meeting with a merchant about **"an object of great significance."**  
 - **Clues:**  
-  - If confronted, he claims he **didn’t steal it but was offered a cut** if he could authenticate it.  
+  - If confronted, she claims she **didn’t steal it but was offered a cut** if he could authenticate it.  
   - Says it belongs to the Order, even if they're *"fools."*  
-
+  
+- Born again "reborn" - this is because of her experiment with the moon - she was doing forbidden magic to even more gain control of lycanthropy
+ 
 ---
 
 ## **Suspect #2: Nyssa Veymar**
@@ -88,7 +97,7 @@ The guild leader suspects that the artifact is being **traded on the black marke
 - **Race:** Dwarf  
 - **Age:** 55  
 - **Appearance:** Wears the **gold-trimmed black coat of the Gilded Guard**. Heavy cudgel, walks with a limp.  
-- **Background:** Once an important security officer, but with trade dwindling, he’s **grown frustrated** and is looking for a way out.  
+- **Background:** Once an important security officer, but with trade dwindling, he’s **grown frustrated** and is looking for a way out. Security officer investigating and inspecting the Order. 
 
 ### **Why He’s a Suspect:**
 - The **blackmail letter found in Nyssa’s chambers** bore a **Gilded Guard seal**.  
@@ -103,6 +112,11 @@ The guild leader suspects that the artifact is being **traded on the black marke
   - If confronted with the blackmail letter, he scoffs:  
     *"You think I’d be stupid enough to leave my own seal on a threat? Someone’s setting me up!"*  
   - Says he was **paid to ‘look the other way’** when something left the city but doesn’t know what it was.  
+
+
+- Shot in the leg after war - fake actually didn't take an arrow to the knee
+- Pretends to be taller - an inspector named Garrik
+
 
 ---
 
@@ -147,6 +161,61 @@ The guild leader suspects that the artifact is being **traded on the black marke
 - If the party stops the auction, Lucien **may offer them a dangerous alliance.**  
 - If he gets the artifact, he will **flee into the wilds, preparing for a terrible transformation.**  
 - Valeria and Lucien **may turn on each other if pressured.**  
+
+---
+
+## Encounter: The Shadowed Pursuit
+
+### **Location:** The Crossroads - Underground Tunnels  
+**Time:** Shortly after the players uncover key evidence against Valeria  
+**Objective:** Escape an ambush set by Valeria’s enforcers  
+
+---
+
+### **Setup:**  
+As the players gather the final pieces of evidence linking Valeria to the stolen artifact, she becomes aware of their investigation. Not willing to be exposed, Valeria sends a group of enforcers—mercenaries working under the Veil Consortium—to intercept them before they can leave the Crossroads.
+
+The encounter takes place in the **narrow underground tunnels** leading away from the **Moonlit Chamber**, forcing the players into a tense confrontation with limited space for maneuvering. The air is thick with smoke from nearby torches, casting deep shadows along the damp stone walls.
+
+---
+
+### **Enemies: "Silkshadow's Enforcers"**
+- **Shadowblade Operative (Elite Lieutenant)** (1)  
+  - A skilled assassin wielding enchanted daggers that can strike from the shadows.  
+  - **Abilities:** Shadowstep (can teleport between dimly lit areas), Silence (can mute a single player’s spellcasting for 1 round).  
+- **Veil Consortium Smugglers** (2-3)  
+  - Armed with crossbows and short swords, these thugs focus on pinning down the players.  
+  - **Abilities:** Net Trap (restrains a target), Smoke Bomb (imposes disadvantage on attacks).  
+- **Moonlit Brute** (1) (Optional – If the party needs a greater challenge)  
+  - A hulking enforcer wielding a heavy club, blocking the only visible exit.  
+  - **Abilities:** Knockback (pushes a player 10 feet), Unyielding (resists non-magical damage for 1 round).  
+
+---
+
+### **Combat Dynamics:**
+- The **Shadowblade Operative** uses the dim lighting of the tunnels to teleport behind casters or weaker party members, targeting them with sneak attacks.  
+- The **Veil Consortium Smugglers** attempt to keep the players in a chokehold, cutting off their escape.  
+- If included, the **Moonlit Brute** acts as a last line of defense, preventing them from escaping until they deal with him.  
+
+**Tactical Options for the Players:**  
+- Using the environment: The tunnels have unstable beams, and collapsing them could cut off pursuers.  
+- Disrupting the enforcers’ vision: Smoke, magical light, or illusions could create escape opportunities.  
+- Negotiation: If the party tries to bribe or intimidate the enforcers, they might hesitate, giving the players a chance to flee.
+
+---
+
+### **Resolution:**  
+- If the players **defeat the enforcers**, they can escape the Crossroads and report their findings.  
+- If they **flee**, they must make contested skill checks (Athletics, Stealth, or Acrobatics) to evade pursuit.  
+- If **captured**, they are taken to a hidden chamber where Valeria attempts to bargain or silence them.  
+
+---
+
+### **Rewards & Consequences:**  
+- If the players **overcome the enforcers**, they may find a **coded note** on the Shadowblade Operative, revealing Valeria’s desperate plan to relocate the artifact before sunrise.  
+- If they **fail**, Valeria may try to strike a deal with them—or worse, frame them for the theft.  
+
+This encounter adds urgency and danger, ensuring the players feel the weight of their investigation while deep in enemy territory.
 
 ---
 

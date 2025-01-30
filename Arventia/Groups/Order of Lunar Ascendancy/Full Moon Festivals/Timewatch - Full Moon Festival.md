@@ -1,6 +1,6 @@
-# **The Full Moon Festival of Timewatch**  
+# **The Full Moon Festival of Timewatch (Temporalis)**  
 
-- [**The Full Moon Festival of Timewatch**](#the-full-moon-festival-of-timewatch)
+- [**The Full Moon Festival of Timewatch (Temporalis)**](#the-full-moon-festival-of-timewatch-temporalis)
     - [*Hosted by the Order of Lunar Ascendancy*](#hosted-by-the-order-of-lunar-ascendancy)
   - [**Festival Timeline (6 PM - Midnight)**](#festival-timeline-6-pm---midnight)
     - [**6:00 PM - Opening Ritual: The Marking of Time**](#600-pm---opening-ritual-the-marking-of-time)

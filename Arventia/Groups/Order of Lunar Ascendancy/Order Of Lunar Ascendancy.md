@@ -25,8 +25,8 @@ Zara "Chain" Queen - 26 year old female Werelionness
 Liora "Shadowpelt" Miren
 
 Role: Second-in-Command
-Werebeast Form: Werepanther
-Description: Liora is a stealthy and cunning woman with dark skin and keen green eyes. As a werepanther, she moves silently through the night, making her an expert in reconnaissance and covert operations.
+Werebeast Form: Lion
+Description: Liora is a stealthy and cunning woman with dark skin and keen green eyes. As a werelion, she moves silently through the night, making her an expert in reconnaissance and covert operations.
 
 
 Thorn "Stonehide" Drevon - has had dream with blue dragon

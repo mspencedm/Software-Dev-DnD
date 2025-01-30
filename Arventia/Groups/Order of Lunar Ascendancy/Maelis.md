@@ -3,6 +3,7 @@
 - [NPC: Maelis "The Mapmaker" Moonshade](#npc-maelis-the-mapmaker-moonshade)
   - [Future](#future)
   - [Basic Information](#basic-information)
+  - [Relationship Status](#relationship-status)
   - [Appearance](#appearance)
   - [Personality](#personality)
   - [Background](#background)
@@ -14,6 +15,8 @@
 
 
 ## Future
+
+Wedding tomorrow on the 1st of Heartspark - Icarus and Maelis
 
 Have Maelis open her own business - Maelis the Mystic 
 
@@ -29,6 +32,12 @@ Cost: Make it really expensive but hey for you guys my friends, a discount - and
 - **Age**: 29
 - **Occupation**: Cartographer / Explorer
 - **Location**: A small, cluttered tent set up in a traveling merchant camp or near an adventuring guild
+
+
+## Relationship Status
+
+Currently engaged to Icarus - paper rings
+
 
 ## Appearance
 Maelis is a slender, graceful half-elf with deep green eyes that flicker with curiosity and wonder. Her auburn hair is often tied in a loose, messy braid, and she wears a simple, practical outfit of leather pants and a soft, weathered tunic. Her most prominent feature is her map-strewn cloak, which she wears like a tapestry, with detailed ink drawings of locations she has traveled. A small pair of glasses sits on her nose, constantly adjusted as she pores over her work.

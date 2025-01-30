@@ -1,5 +1,23 @@
 # The Silver Moon
 
+
+- [The Silver Moon](#the-silver-moon)
+  - [Key Features](#key-features)
+    - [1. **Atmosphere**](#1-atmosphere)
+    - [2. **Exclusive Patrons**](#2-exclusive-patrons)
+    - [3. **Signature Drinks**](#3-signature-drinks)
+    - [4. **The Back Room**](#4-the-back-room)
+    - [5. **Renowned for its Culinary Offerings**](#5-renowned-for-its-culinary-offerings)
+  - [Draven "Silverbrew" Kael](#draven-silverbrew-kael)
+  - [Personality](#personality)
+  - [Backstory](#backstory)
+  - [Role in the Order](#role-in-the-order)
+  - [Signature Drink](#signature-drink)
+  - [Unique Feature](#unique-feature)
+  - [Quirks](#quirks)
+
+
+
 The **Silver Moon** is a prestigious tavern located within **the Order of Lunar Ascendancy**. Known for its high-class clientele and refined atmosphere, the tavern offers a sense of both exclusivity and welcoming luxury. It is a favorite among nobles, wealthy merchants, adventurers with means, and anyone seeking a sophisticated escape from the chaos of the city’s lower districts.
 
 ## Key Features

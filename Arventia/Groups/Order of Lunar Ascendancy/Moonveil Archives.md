@@ -1,6 +1,22 @@
 # **Moonveil Archives**  
 *"In the light of the moon, history is remembered."*  
 
+- [**Moonveil Archives**](#moonveil-archives)
+  - [**Overview**](#overview)
+  - [**Atmosphere \& Design**](#atmosphere--design)
+  - [**Notable Figures**](#notable-figures)
+    - [**Archivist Varian Duskrun** *(High Keeper of the Archives)*](#archivist-varian-duskrun-high-keeper-of-the-archives)
+    - [**Lyssara Moondrake** *(Librarian \& Scribe of the Lunar Records)*](#lyssara-moondrake-librarian--scribe-of-the-lunar-records)
+    - [**Nyssa Veymar** *(Quartermaster \& Keeper of Relics)*](#nyssa-veymar-quartermaster--keeper-of-relics)
+  - [**Sections of the Archives**](#sections-of-the-archives)
+    - [**1. The Hall of Lunar Histories**](#1-the-hall-of-lunar-histories)
+    - [**2. The Chamber of the Silver Prophets**](#2-the-chamber-of-the-silver-prophets)
+    - [**3. The Lycanthrope Bestiary**](#3-the-lycanthrope-bestiary)
+    - [**4. The Vault of Forbidden Howls**](#4-the-vault-of-forbidden-howls)
+  - [**Sacred Artifact: The Moonveil Codex**](#sacred-artifact-the-moonveil-codex)
+  - [**Rumors \& Mysteries**](#rumors--mysteries)
+
+
 ## **Overview**  
 The **Moonveil Archives** serve as the **sacred library and records hall** of the **Order of Lunar Ascendancy**. Located **beneath the Grand Lunar Hall**, this subterranean library is a place of **preserved knowledge, ancient texts, and carefully kept records of lycanthropic history**.  
 

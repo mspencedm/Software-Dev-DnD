@@ -1,5 +1,18 @@
 # NPC: Maelis "The Mapmaker" Moonshade
 
+- [NPC: Maelis "The Mapmaker" Moonshade](#npc-maelis-the-mapmaker-moonshade)
+  - [Future](#future)
+  - [Basic Information](#basic-information)
+  - [Appearance](#appearance)
+  - [Personality](#personality)
+  - [Background](#background)
+  - [Tent Details](#tent-details)
+  - [Quirks \& Traits](#quirks--traits)
+  - [Hooks](#hooks)
+  - [Picture in Scroll](#picture-in-scroll)
+  - [Random Map](#random-map)
+
+
 ## Future
 
 Have Maelis open her own business - Maelis the Mystic 

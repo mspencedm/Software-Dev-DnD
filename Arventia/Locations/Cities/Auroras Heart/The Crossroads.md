@@ -1,10 +1,23 @@
-## The Crossroads - The Veil Consortium’s Underground Network
+# The Crossroads
+
+- [The Crossroads](#the-crossroads)
+  - [Overview](#overview)
+  - [Key Locations in the Crossroads:](#key-locations-in-the-crossroads)
+    - [**The Golden Veil**](#the-golden-veil)
+    - [**Moonlit Chamber**](#moonlit-chamber)
+    - [**The Silken Stand**](#the-silken-stand)
+    - [**The Dusty Nook**](#the-dusty-nook)
+    - [**Valeria "Silkshadow" Dain**](#valeria-silkshadow-dain)
+    - [**The Hidden Network**](#the-hidden-network)
+
+
+
+## Overview
 
 The **Crossroads** is a sprawling network of underground tunnels, marketplaces, and shadowy spaces hidden beneath the surface of Aurora's Heart. It operates as a secret hub for the Veil Consortium, a powerful syndicate dealing in everything from rare artifacts to illicit trade. The Crossroads is known for its labyrinthine layout, designed to keep both its patrons and operations well-hidden from the city's prying eyes. 
 
-### Key Locations in the Crossroads:
+## Key Locations in the Crossroads:
 
----
 
 ### **The Golden Veil**
 **Type**: High-End Gambling Hall and Social Hub  

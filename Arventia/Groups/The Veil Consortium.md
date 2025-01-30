@@ -1,5 +1,19 @@
 # The Veil Consortium
 
+- [The Veil Consortium](#the-veil-consortium)
+  - [Overview](#overview)
+  - [Symbol](#symbol)
+  - [Headquarters](#headquarters)
+  - [Leadership](#leadership)
+    - [**Master Weaver Olin Thalric**](#master-weaver-olin-thalric)
+    - [**Trade Mistress Calys Invaris**](#trade-mistress-calys-invaris)
+    - [**Enforcer Vorn “Silent Step” Tesk**](#enforcer-vorn-silent-step-tesk)
+  - [Methods](#methods)
+  - [Operations](#operations)
+    - [Motto](#motto)
+
+
+
 ## Overview
 The Veil Consortium is a shadowy network of merchants, mages, and smugglers who exploit portal magic to bypass tariffs, taxes, and inspections. This ensures the free and untaxed flow of goods, making them a dominant force in Aurora's Heart's underground trade. Their motto is whispered as: *“Through the Veil, profit prevails.”*
 

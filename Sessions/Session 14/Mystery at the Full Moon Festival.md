@@ -1,5 +1,35 @@
 # **Mystery at the Full Moon Festival**
 
+- [**Mystery at the Full Moon Festival**](#mystery-at-the-full-moon-festival)
+  - [**The Stolen Artifact**](#the-stolen-artifact)
+  - [**Suspect #1: Veylin "The Shroud" Renshaw**](#suspect-1-veylin-the-shroud-renshaw)
+    - [**Why He’s a Suspect:**](#why-hes-a-suspect)
+    - [**Where to Find Him:**](#where-to-find-him)
+  - [**Suspect #2: Nyssa Veymar**](#suspect-2-nyssa-veymar)
+    - [**Why She’s a Suspect:**](#why-shes-a-suspect)
+    - [**Where to Find Her:**](#where-to-find-her)
+  - [**Suspect #3: Garrik Storme**](#suspect-3-garrik-storme)
+    - [**Why He’s a Suspect:**](#why-hes-a-suspect-1)
+    - [**Where to Find Him:**](#where-to-find-him-1)
+  - [**The Secret Mastermind: Valeria "Silkshadow" Dain**](#the-secret-mastermind-valeria-silkshadow-dain)
+    - [**Why She’s Behind It All:**](#why-shes-behind-it-all)
+    - [**Where to Find Her:**](#where-to-find-her-1)
+  - [**The Secret Buyer: Count Lucien Draven**](#the-secret-buyer-count-lucien-draven)
+    - [**What He’s Doing:**](#what-hes-doing)
+    - [**Possible Twists:**](#possible-twists)
+  - [**Possible Endings**](#possible-endings)
+  - [Clues](#clues)
+    - [Clue 1: Faded Ledger Entry (Secret Auction Notice)](#clue-1-faded-ledger-entry-secret-auction-notice)
+    - [Clue 2: A Distinctive Brooch (Personal Item)](#clue-2-a-distinctive-brooch-personal-item)
+    - [Clue 3: A Hidden Note with Instructions (The Sale)](#clue-3-a-hidden-note-with-instructions-the-sale)
+    - [Clue 4: Witness Testimony (Dockside Meeting)](#clue-4-witness-testimony-dockside-meeting)
+    - [Clue 5: Uncommon Purchase at the Crossroads (Mysterious Transaction)](#clue-5-uncommon-purchase-at-the-crossroads-mysterious-transaction)
+    - [Clue 6: A Hidden Gildedguard Seal (Personal Artifact)](#clue-6-a-hidden-gildedguard-seal-personal-artifact)
+    - [Clue 7: Unusual Footprints (Outside the Auction)](#clue-7-unusual-footprints-outside-the-auction)
+    - [Clue 8: The Moonlit Chamber's Hidden Room (Artifact Ready for Sale)](#clue-8-the-moonlit-chambers-hidden-room-artifact-ready-for-sale)
+
+
+
 ## **The Stolen Artifact**
 The sacred artifact, **The Moonshadow Hourglass**, has been stolen just before the Full Moon Festival. The Order of Lunar Ascendancy needs it throughtout the rituals.
 
@@ -109,7 +139,7 @@ The guild leader suspects that the artifact is being **traded on the black marke
 - **Background:** A **legendary figure among werewolves**, Lucien Draven was once cursed with vampirism. He seeks the Moonshadow Hourglass, believing it can **undo his hybrid nature and make him a true Apex Lycan.**  
 
 ### **What He’s Doing:**
-- Arrived in the Crossroads in **secrecy** under the name *Lord Belmont.*  
+- Arrived in the Crossroads in **secrecy** under the name *Lord Bellfair.*  
 - Is **expected to bid on the Moonshadow Hourglass tonight** at the Golden Veil’s auction.  
 - **Has bodyguards and enforcers**—stopping him won’t be easy.  
 
@@ -128,4 +158,63 @@ The guild leader suspects that the artifact is being **traded on the black marke
 
 ---
 
-Would you like any **extra encounters, subplots, or potential twists** added?  
+
+
+
+## Clues
+
+### Clue 1: Faded Ledger Entry (Secret Auction Notice)
+**Where to find it**: In the Moonveil Archives, within Nyssa’s personal ledger.  
+**Description**: The players can find a specific entry in Nyssa’s ledger detailing a covert auction organized for the sale of rare artifacts. This auction is set to take place at **Moonlit Chamber**, the location where the artifact is set to be sold. The entry matches the time frame of the theft, and while Nyssa's name is not directly linked to the event, the ledger entry includes a cryptic note: *"Silkshadow will handle this discreetly, trade from the Crossroads."*  
+**Clue for the players**: This links Valeria directly to the sale and raises suspicion about her involvement in orchestrating the auction, connecting her to the artifact’s fate.
+
+---
+
+### Clue 2: A Distinctive Brooch (Personal Item)
+**Where to find it**: On the floor near the Moonlit Chamber entrance or inside a hidden compartment of a crate near the Crossroads black market.  
+**Description**: A silver brooch shaped like a crescent moon with intricate silk threads woven into it. The brooch is unique to Valeria, and it’s something she wears prominently in public. While it may seem like an innocuous piece of jewelry, its distinctive craftsmanship is well-known among those familiar with the Crossroads.  
+**Clue for the players**: The brooch can be identified by its maker’s mark or distinctive style, which ties it directly to Valeria. If the players find it in an unexpected location (such as near the stolen artifact or hidden in the Crossroads), it points to Valeria being present in these areas.
+
+---
+
+### Clue 3: A Hidden Note with Instructions (The Sale)
+**Where to find it**: On a desk inside Valeria’s personal office in the Crossroads, or tucked in the back of a book or piece of correspondence on her desk.  
+**Description**: A note written in a disguised handwriting, detailing a clandestine meeting between Valeria and a buyer. The note mentions the artifact and references a “moonlit exchange,” indicating that the buyer’s intent is to acquire it through secretive means. The letter also suggests the involvement of another figure, possibly someone from the Gilded Guard or a third-party contact.  
+**Clue for the players**: The note gives a clear trail that Valeria was actively involved in organizing the sale of the stolen artifact. It could also reveal that she has a buyer, which might point to the bigger black market network or the specific organization she is working with.
+
+---
+
+### Clue 4: Witness Testimony (Dockside Meeting)
+**Where to find it**: From a witness at **The Rusted Chain** tavern or a local dockworker who saw Valeria meeting with a known black market dealer shortly after the theft.  
+**Description**: The witness testifies that they saw Valeria meeting with a shady individual at the docks shortly after the theft was reported. The description matches a person known for dealing in illicit goods. The dockworker claims to have overheard snippets of a conversation about *"getting it to the right hands"* and *"avoiding any lunar interference."*  
+**Clue for the players**: This sighting puts Valeria in the area around the time of the theft, and the cryptic conversation hints at her intent to sell the artifact immediately after it was stolen. The dockworker may not recognize the dealer by name, but this piece of testimony confirms Valeria’s proximity to the scene.
+
+---
+
+### Clue 5: Uncommon Purchase at the Crossroads (Mysterious Transaction)
+**Where to find it**: Hidden inside the Crossroads black market records (possibly in a receipt or ledger kept by a vendor).  
+**Description**: A transaction receipt for a high-end, rare artifact security case that would be suitable for holding something like the stolen artifact. The purchase is logged under an alias or under Valeria’s personal title. The vendor has no idea who she is or what the item is for, but the description of the purchase is undeniable: something valuable was specifically prepared for a large, delicate artifact.  
+**Clue for the players**: This shows that Valeria took active steps to secure the artifact for herself, possibly making arrangements for its safe transport and concealment. It’s a clear link between her and the artifact’s safety being prioritized, even before the auction was set to take place.
+
+---
+
+### Clue 6: A Hidden Gildedguard Seal (Personal Artifact)
+**Where to find it**: In Valeria’s personal belongings or hidden among the items in her possession at the Crossroads.  
+**Description**: A small, wax-sealed token that features a modified version of the Gilded Guard insignia—a crescent moon wrapped in golden chains. This particular seal, while not widely known, is something used by a secretive faction within the Gilded Guard who deals with covert operations and the protection of important assets.  
+**Clue for the players**: The players can piece together that Valeria has been working with the Gilded Guard’s shadowy members, potentially leveraging her connections to manipulate the situation or cover up her role in the theft. The fact that she’s in possession of this seal without official clearance suggests a deeper involvement.
+
+---
+
+### Clue 7: Unusual Footprints (Outside the Auction)
+**Where to find it**: Outside the Moonlit Chamber or near the artifact’s designated hiding location.  
+**Description**: The players find a series of tracks leading to and from the hidden artifact location, seemingly made by a person wearing boots similar to those worn by Valeria. The tracks are faint but can be followed to a secluded part of the Crossroads, where they disappear or lead to a dead-end, suggesting that someone was trying to cover their tracks.  
+**Clue for the players**: The footprints could be the smoking gun that proves Valeria’s involvement, especially when connected with the other evidence. They indicate that someone wearing similar attire to her entered the area just before the artifact disappeared.
+
+---
+
+### Clue 8: The Moonlit Chamber's Hidden Room (Artifact Ready for Sale)
+**Where to find it**: At the Moonlit Chamber (the auction location in the Crossroads).  
+**Description**: A hidden compartment inside the Moonlit Chamber reveals the stolen artifact, clearly being prepared for the auction. The artifact is marked with Valeria’s signature identifier (such as a piece of jewelry or a personal item). It is concealed in a protective case, suggesting that it was being held for a significant buyer.  
+**Clue for the players**: This proves that the artifact was intended for sale at the auction and ties Valeria directly to the transaction. It would be hard for her to claim ignorance or deny her involvement at this point.
+
+

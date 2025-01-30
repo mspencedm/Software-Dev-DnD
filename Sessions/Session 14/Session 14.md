@@ -28,5 +28,5 @@ Find the hourglass before the festival tonight or if not tonight eventually as t
 
 See Mystery at the Full Moon Festival for the rest of the information.
 
-If they find this hourglass, for the remainder of their first year as part of the Order of Lunar Ascendancy they will get 1/2 off food and drinks throughout all of Aurora's Heart.
+If they find this hourglass, for the remainder of their first year as part of the Order of Lunar Ascendancy they will get 1/2 off food and drinks throughout all of Aurora's Heart. They will also be given more vials of lyncanthropy potion.
 

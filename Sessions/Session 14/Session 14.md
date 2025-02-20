@@ -3,6 +3,7 @@
 - [Template](#template)
   - [Summary](#summary)
     - [Tragedy Before Festival of Timewatch](#tragedy-before-festival-of-timewatch)
+    - [Current Place](#current-place)
 
 
 ## Summary
@@ -31,5 +32,12 @@ See Mystery at the Full Moon Festival for the rest of the information.
 If they find this hourglass, for the remainder of their first year as part of the Order of Lunar Ascendancy they will get 1/2 off food and drinks throughout all of Aurora's Heart. They will also be given more vials of lyncanthropy potion.
 
 
+
+
+### Current Place
+
+Sanid lost Garrik's machine
+
+Talking to Garrik - Sena just found out that Nyssa said "she" - this is going to be the exposure to figure out that Valeria "Silkshadow" Dain is the mastermind behind it all at the crossroads - he only knows her name as Valaria but never interacted with her - kingpin 
 
 

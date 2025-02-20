@@ -3,13 +3,13 @@
 - [**Mystery at the Full Moon Festival**](#mystery-at-the-full-moon-festival)
   - [**The Stolen Artifact**](#the-stolen-artifact)
   - [**Suspect #1: Veylin "The Shroud" Renshaw**](#suspect-1-veylin-the-shroud-renshaw)
-    - [**Why He’s a Suspect:**](#why-hes-a-suspect)
+    - [**Why She’s a Suspect:**](#why-shes-a-suspect)
     - [**Where to Find Her:**](#where-to-find-her)
   - [**Suspect #2: Nyssa Veymar**](#suspect-2-nyssa-veymar)
-    - [**Why She’s a Suspect:**](#why-shes-a-suspect)
+    - [**Why She’s a Suspect:**](#why-shes-a-suspect-1)
     - [**Where to Find Her:**](#where-to-find-her-1)
   - [**Suspect #3: Garrik Storme**](#suspect-3-garrik-storme)
-    - [**Why He’s a Suspect:**](#why-hes-a-suspect-1)
+    - [**Why He’s a Suspect:**](#why-hes-a-suspect)
     - [**Where to Find Him:**](#where-to-find-him)
   - [**The Secret Mastermind: Valeria "Silkshadow" Dain**](#the-secret-mastermind-valeria-silkshadow-dain)
     - [**Why She’s Behind It All:**](#why-shes-behind-it-all)
@@ -52,7 +52,7 @@ The guild leader suspects that the artifact is being **traded on the black marke
 - **Appearance:** Lean, wiry, with streaks of silver in her dark hair. Wears a long hooded coat. Left eye is clouded from an old injury.  
 - **Background:** Once a devoted member of the Order, she was **exiled for experimenting with forbidden magic**. Some say she sought to **break the lycan connection to the moon.**  
 
-### **Why He’s a Suspect:**
+### **Why She’s a Suspect:**
 - **Opposed the Full Moon Festival**, calling it a "shackle."  
 - Was **seen near the artifact chamber** the day before the theft.  
 - Has known **contacts in the Crossroads black market**.  
@@ -126,7 +126,8 @@ The guild leader suspects that the artifact is being **traded on the black marke
 - **Race:** Tiefling  
 - **Age:** 36  
 - **Appearance:** Crimson skin, sleek black horns, and **piercing gold eyes**. Always wears **midnight-blue silks** with silver embroidery.  
-- **Background:** Valeria is **a high-ranking broker in the Veil Consortium**, the underground organization that controls the Crossroads black market. She **specializes in smuggling magical artifacts** and has a reputation for making *problems disappear.*  
+- **Background:** Valeria is **a high-ranking broker in the Veil Consortium**, the underground organization that controls the Crossroads black market. She **specializes in smuggling magical artifacts** and has a reputation for making *problems disappear.
+ 
 
 ### **Why She’s Behind It All:**
 - The **blackmail letter was orchestrated by her** to manipulate Nyssa.  

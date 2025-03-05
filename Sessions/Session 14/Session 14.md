@@ -40,4 +40,6 @@ Sanid lost Garrik's machine
 
 Talking to Garrik - Sena just found out that Nyssa said "she" - this is going to be the exposure to figure out that Valeria "Silkshadow" Dain is the mastermind behind it all at the crossroads - he only knows her name as Valaria but never interacted with her - kingpin 
 
+Evaluna is spying on Nyssa - make something fun with Nyssa doing some suspicious 
+
 

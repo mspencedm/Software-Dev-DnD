@@ -75,7 +75,7 @@ The **Dusty Nook** is the informal marketplace of the Crossroads, filled with ev
 
 ### **Valeria "Silkshadow" Dain**  
 **Role**: Broker at the Moonlit Chamber Auction  
-**Race**: Half-Elf  
+**Race**: Tiefling  
 **Age**: 34  
 **Appearance**: Slender and graceful, with dark hair always impeccably styled and silken robes that seem to shift with a life of their own. She is known for her impeccable manners and sharp wit.  
 

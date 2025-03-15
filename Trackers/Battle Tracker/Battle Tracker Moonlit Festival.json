@@ -1,0 +1,273 @@
+{
+  "creatures": [
+    {
+      "name": "Shadowblade Operative",
+      "initiative": 4,
+      "initiativeRoll": {
+        "result": 4,
+        "terms": [
+          {
+            "type": "operator",
+            "term": "+"
+          },
+          {
+            "type": "integer",
+            "term": "4"
+          }
+        ]
+      },
+      "initiativeTieBreaker": null,
+      "healthPoints": 52,
+      "maxHealthPoints": 52,
+      "armorClass": "15",
+      "temporaryHealthPoints": null,
+      "id": 6,
+      "alive": true,
+      "conditions": [],
+      "notes": [],
+      "locked": false,
+      "shared": true,
+      "hitPointsShared": true,
+      "statBlock": null,
+      "totalSpellSlots": null,
+      "usedSpellSlots": null,
+      "spells": {}
+    },
+    {
+      "name": "Veil Consortium Smuggler #1",
+      "initiative": 3,
+      "initiativeRoll": {
+        "result": 3,
+        "terms": [
+          {
+            "type": "integer",
+            "term": "3"
+          }
+        ]
+      },
+      "initiativeTieBreaker": null,
+      "healthPoints": 39,
+      "maxHealthPoints": 39,
+      "armorClass": "14",
+      "temporaryHealthPoints": null,
+      "id": 7,
+      "alive": true,
+      "conditions": [],
+      "notes": [],
+      "locked": false,
+      "shared": true,
+      "hitPointsShared": true,
+      "statBlock": null,
+      "totalSpellSlots": null,
+      "usedSpellSlots": null,
+      "spells": {}
+    },
+    {
+      "name": "Veil Consortium Smuggler #2",
+      "initiative": 3,
+      "initiativeRoll": {
+        "result": 3,
+        "terms": [
+          {
+            "type": "integer",
+            "term": "3"
+          }
+        ]
+      },
+      "initiativeTieBreaker": null,
+      "healthPoints": 39,
+      "maxHealthPoints": 39,
+      "armorClass": "14",
+      "temporaryHealthPoints": null,
+      "id": 8,
+      "alive": true,
+      "conditions": [],
+      "notes": [],
+      "locked": false,
+      "shared": true,
+      "hitPointsShared": true,
+      "statBlock": null,
+      "totalSpellSlots": null,
+      "usedSpellSlots": null,
+      "spells": {}
+    },
+    {
+      "name": "Moonlit Brute",
+      "initiative": 2,
+      "initiativeRoll": {
+        "result": 2,
+        "terms": [
+          {
+            "type": "operator",
+            "term": "+"
+          },
+          {
+            "type": "integer",
+            "term": "2"
+          }
+        ]
+      },
+      "initiativeTieBreaker": null,
+      "healthPoints": 112,
+      "maxHealthPoints": 112,
+      "armorClass": "16",
+      "temporaryHealthPoints": null,
+      "id": 9,
+      "alive": true,
+      "conditions": [],
+      "notes": [],
+      "locked": false,
+      "shared": true,
+      "hitPointsShared": true,
+      "statBlock": null,
+      "totalSpellSlots": null,
+      "usedSpellSlots": null,
+      "spells": {}
+    },
+    {
+      "name": "Evaluna",
+      "initiative": null,
+      "initiativeRoll": {
+        "result": null
+      },
+      "initiativeTieBreaker": null,
+      "healthPoints": 45,
+      "maxHealthPoints": 45,
+      "armorClass": "14",
+      "temporaryHealthPoints": null,
+      "id": 0,
+      "alive": true,
+      "conditions": [],
+      "notes": [],
+      "locked": false,
+      "shared": true,
+      "hitPointsShared": true,
+      "statBlock": null,
+      "totalSpellSlots": null,
+      "usedSpellSlots": null,
+      "spells": {}
+    },
+    {
+      "name": "Faraquill",
+      "initiative": null,
+      "initiativeRoll": {
+        "result": null
+      },
+      "initiativeTieBreaker": null,
+      "healthPoints": 51,
+      "maxHealthPoints": 51,
+      "armorClass": "15",
+      "temporaryHealthPoints": null,
+      "id": 1,
+      "alive": true,
+      "conditions": [],
+      "notes": [],
+      "locked": false,
+      "shared": true,
+      "hitPointsShared": true,
+      "statBlock": null,
+      "totalSpellSlots": null,
+      "usedSpellSlots": null,
+      "spells": {}
+    },
+    {
+      "name": "Icarus",
+      "initiative": null,
+      "initiativeRoll": {
+        "result": null
+      },
+      "initiativeTieBreaker": null,
+      "healthPoints": 44,
+      "maxHealthPoints": 44,
+      "armorClass": "12",
+      "temporaryHealthPoints": null,
+      "id": 2,
+      "alive": true,
+      "conditions": [],
+      "notes": [],
+      "locked": false,
+      "shared": true,
+      "hitPointsShared": true,
+      "statBlock": null,
+      "totalSpellSlots": null,
+      "usedSpellSlots": null,
+      "spells": {}
+    },
+    {
+      "name": "Sable",
+      "initiative": null,
+      "initiativeRoll": {
+        "result": null
+      },
+      "initiativeTieBreaker": null,
+      "healthPoints": 58,
+      "maxHealthPoints": 58,
+      "armorClass": "16",
+      "temporaryHealthPoints": null,
+      "id": 3,
+      "alive": true,
+      "conditions": [],
+      "notes": [],
+      "locked": false,
+      "shared": true,
+      "hitPointsShared": true,
+      "statBlock": null,
+      "totalSpellSlots": null,
+      "usedSpellSlots": null,
+      "spells": {}
+    },
+    {
+      "name": "Sanid",
+      "initiative": null,
+      "initiativeRoll": {
+        "result": null
+      },
+      "initiativeTieBreaker": null,
+      "healthPoints": 64,
+      "maxHealthPoints": 64,
+      "armorClass": "18",
+      "temporaryHealthPoints": null,
+      "id": 4,
+      "alive": true,
+      "conditions": [],
+      "notes": [],
+      "locked": false,
+      "shared": true,
+      "hitPointsShared": true,
+      "statBlock": null,
+      "totalSpellSlots": null,
+      "usedSpellSlots": null,
+      "spells": {}
+    },
+    {
+      "name": "Tarhun",
+      "initiative": null,
+      "initiativeRoll": {
+        "result": null
+      },
+      "initiativeTieBreaker": null,
+      "healthPoints": 52,
+      "maxHealthPoints": 52,
+      "armorClass": "12",
+      "temporaryHealthPoints": null,
+      "id": 5,
+      "alive": true,
+      "conditions": [],
+      "notes": [],
+      "locked": false,
+      "shared": true,
+      "hitPointsShared": true,
+      "statBlock": null,
+      "totalSpellSlots": null,
+      "usedSpellSlots": null,
+      "spells": {}
+    }
+  ],
+  "creatureIdCount": 10,
+  "activeCreature": null,
+  "round": 0,
+  "battleCreated": false,
+  "shareEnabled": false,
+  "battleTrackerVersion": "5.117.0",
+  "rulesSearchOpened": false
+}

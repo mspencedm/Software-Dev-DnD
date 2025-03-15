@@ -36,10 +36,13 @@ If they find this hourglass, for the remainder of their first year as part of th
 
 ### Current Place
 
-Sanid lost Garrik's machine
+Players are at the auction - during the 5 minute transition 
 
-Talking to Garrik - Sena just found out that Nyssa said "she" - this is going to be the exposure to figure out that Valeria "Silkshadow" Dain is the mastermind behind it all at the crossroads - he only knows her name as Valaria but never interacted with her - kingpin 
+Moonshadow hourglass is upcoming item - probably like 2 away to put on the time crunch pressure.
 
-Evaluna is spying on Nyssa - make something fun with Nyssa doing some suspicious 
+
+How the auction works:
+
+People buy item and then they pay in separate room and can see and verify the item and it gets shipped to them about 2-3 weeks or so later. 
 
 

@@ -100,6 +100,8 @@ Created by: Magivox, the Deity of Magic and the Weave
 
 Infused with Magivox's arcane knowledge, this shard enhances magical abilities and understanding. It unlocks the secrets of the arcane, amplifies spellcasting prowess, and bends reality through sheer magical prowess.
 
+Stasis Ward—a protective dome that nullifies teleportation, suppresses magic, and locks space-time around a location, making it ideal for things like the Moonlit Auction. It reinforces the shard's theme of ultimate arcane control and manipulation.
+
 
 
 ## Shard of Illusion

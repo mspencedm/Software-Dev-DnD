@@ -127,6 +127,8 @@ The vision shifts again. You are standing at a celebration, bright with lanterns
 
 At the edge of the crowd, a figure sits quietly in a shadowed corner. She is familiar — her posture, her gaze, the tilt of her head — yet you cannot place her fully. She watches, silent, then vanishes into the crowd before you can move.
 
+blue smoke - gender reveal party for Maelis and Icarus
+
 The sand settles, silver flowing steadily, the vision fading.
 
 

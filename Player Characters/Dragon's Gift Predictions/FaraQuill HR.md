@@ -20,14 +20,6 @@ Smoke chokes the horizon. The forest — your forest — is burning. The Great O
 
 Through the smoke, you see her again — the golden woman. This time, she stands not in light, but in shadow. Behind her, the same golden city shines faintly through the haze.
 
-Her hand is outstretched once more, but her face is different — older, tired, sorrowful.
-
-“The roots cannot hold both worlds,” she says softly. “You must choose where to grow.”
-
-The flames crackle. The trees scream. The city’s reflection dances in her eyes.
-
-And then — she fades. The forest quiets. You are left standing amid the ashes, with only the whisper of the wind to answer you.
-
-“Come home…”
+Forest is on fire and the tree talks to Fara-Quill - you must choose whether to stay or go during this harsh time of the fire
 
 The vision ends with a single leaf drifting down through the smoke — half green, half gold — and turning to dust before it hits the ground.
